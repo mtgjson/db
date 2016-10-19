@@ -120,7 +120,6 @@
           "text": "You choose the mode on announcement."
         }
       ],
-      "set": "SOK",
       "text": "Choose one -\n&#x2022; Tap all Spirits.\n&#x2022; Tap all non-Spirit creatures.",
       "type": "Instant",
       "types": [
@@ -206,7 +205,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -303,7 +301,6 @@
           "text": "If the Spirit or Arcane spell has {X} in the mana cost, then you use the value of {X} on the stack. For example, Shining Shoal costs {X}{W}{W}. If you choose X = 2, then Shining Shoal's converted mana cost is 4. Shining Shoal also has an ability that says \"You may exile a white card with converted mana cost X from your hand rather than pay Shining Shoal's mana cost\";; if you choose to pay the alternative cost and exile a card with converted mana cost 2, then X is 2 while Shining Shoal is on the stack and its converted mana cost is 4."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Kirin",
         "Spirit"
@@ -395,7 +392,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -482,7 +478,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Aura"
       ],
@@ -588,7 +583,6 @@
           "text": "If a turn has multiple combat phases, this spell can be cast during any of them as long as it's after the beginning of that phase's Declare Blockers Step."
         }
       ],
-      "set": "SOK",
       "text": "Cast Curtain of Light only during combat after blockers are declared.\nTarget unblocked attacking creature becomes blocked. (This spell works on creatures that can't be blocked.)\nDraw a card.",
       "type": "Instant",
       "types": [
@@ -684,7 +678,6 @@
           "text": "Changing the number of cards in any player's hand can cause Descendant of Kiyomaro to lose the life-gain triggered ability. Once an ability triggers, however, it exists independently of its source."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Soldier"
@@ -775,7 +768,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Soldier"
@@ -864,7 +856,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "Search your library for an enchantment card and put it onto the battlefield. Then shuffle your library.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)",
       "type": "Sorcery",
       "types": [
@@ -949,7 +940,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -1046,7 +1036,6 @@
           "text": "You choose how the damage will be divided among the target creatures at the time you cast Hail of Arrows. Each target must be dealt at least 1 damage. If any of those creatures becomes an illegal target before Hail of Arrows resolves, the division of damage among the remaining creatures doesn't change."
         }
       ],
-      "set": "SOK",
       "text": "Hail of Arrows deals X damage divided as you choose among any number of target attacking creatures.",
       "type": "Instant",
       "types": [
@@ -1132,7 +1121,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -1223,7 +1211,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -1316,7 +1303,6 @@
         "MD1"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -1409,7 +1395,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Fox",
         "Cleric"
@@ -1499,7 +1484,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Fox",
         "Samurai"
@@ -1590,7 +1574,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Fox",
         "Cleric"
@@ -1694,7 +1677,6 @@
           "text": "If you have seven or more cards in hand when Kiyomaro's triggered ability goes on the stack but less than seven when the ability resolves, the ability does nothing."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -1801,7 +1783,6 @@
           "text": "Spells that deal damage repeatedly trigger Michiko Konda's ability each time they deal damage. For example, a Glacial Ray spliced onto another Glacial Ray triggers the ability twice (once for each \"2 damage\"; event from the Glacial Ray)."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Advisor"
@@ -1895,7 +1876,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Insect"
       ],
@@ -1984,7 +1964,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -2073,7 +2052,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -2161,7 +2139,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "You gain 2 life for each card in your hand.",
       "type": "Sorcery",
       "types": [
@@ -2252,7 +2229,6 @@
           "text": "Promise of Bunrei must be sacrificed in order to get tokens. If multiple creatures are put into a graveyard at the same time, only the first triggered ability to resolve causes Promise of Bunrei to be sacrificed and therefore put tokens onto the battlefield."
         }
       ],
-      "set": "SOK",
       "text": "When a creature you control dies, sacrifice Promise of Bunrei. If you do, create four 1/1 colorless Spirit creature tokens.",
       "type": "Enchantment",
       "types": [
@@ -2354,7 +2330,6 @@
           "text": "If a spell or ability an opponent controls causes a player to discard multiple cards, such as Waking Nightmare or Three Tragedies, Pure Intentions doesn't return to hand until its triggered ability has resolved. A player can't discard the same Pure Intentions twice for the same discard effect."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -2448,11 +2423,112 @@
           "text": "Unless some effect explicitly says otherwise, a creature that can't attack you can still attack a planeswalker you control."
         }
       ],
-      "set": "SOK",
       "text": "Creatures with power 2 or less can't attack you.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
+      ]
+    },
+    {
+      "_id": "91be2269-8e51-4aee-117b-a08bb59fae65",
+      "artist": "Randy Gallegos",
+      "cmc": 3,
+      "colors": [
+        "white"
+      ],
+      "foreignNames": [
+        {
+          "name": "German",
+          "language": "Rune-Tail, Kitsune Ascendant",
+          "multiverseid": 105340
+        },
+        {
+          "name": "French",
+          "language": "Rune-Tail, Kitsune Ascendant",
+          "multiverseid": 105175
+        },
+        {
+          "name": "Italian",
+          "language": "Rune-Tail, Kitsune Ascendant",
+          "multiverseid": 105505
+        },
+        {
+          "name": "Japanese",
+          "language": "Rune-Tail, Kitsune Ascendant",
+          "multiverseid": 105670
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Rune-Tail, Kitsune Ascendant",
+          "multiverseid": 105835
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "Rune-Tail, Kitsune Ascendant",
+          "multiverseid": 105010
+        },
+        {
+          "name": "Spanish",
+          "language": "Rune-Tail, Kitsune Ascendant",
+          "multiverseid": 106000
+        }
+      ],
+      "layout": "flip",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "manacost": "{2}{W}",
+      "multiverseid": 87600,
+      "name": "Rune-Tail, Kitsune Ascendant",
+      "names": [
+        "Rune-Tail, Kitsune Ascendant",
+        "Rune-Tail's Essence"
+      ],
+      "number": "27a",
+      "originalText": "When you have 30 or more life, flip Rune-Tail, Kitsune Ascendant.\n-----\nRune-Tail's Essence\nLegendary Enchantment\nPrevent all damage that would be dealt to creatures you control.",
+      "originalType": "Legendary Creature - Fox Monk",
+      "power": "2",
+      "printings": [
+        "SOK"
+      ],
+      "rarity": "rare",
+      "rulings": [
+        {
+          "date": "2005-06-01",
+          "text": "Each Ascendant is legendary in both its unflipped and flipped forms. This means that effects that look for legendary creature cards, such as Time of Need and Captain Sisay, can find an Ascendant."
+        }
+      ],
+      "subTypes": [
+        "Fox",
+        "Monk"
+      ],
+      "superTypes": [
+        "Legendary"
+      ],
+      "text": "When you have 30 or more life, flip Rune-Tail, Kitsune Ascendant.\n",
+      "toughness": "2",
+      "type": "Legendary Creature — Fox Monk",
+      "types": [
+        "Creature"
       ]
     },
     {
@@ -2537,8 +2613,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
-      "special": true,
       "superTypes": [
         "Legendary"
       ],
@@ -2547,110 +2621,6 @@
       "type": "Legendary Enchantment",
       "types": [
         "Enchantment"
-      ]
-    },
-    {
-      "_id": "91be2269-8e51-4aee-117b-a08bb59fae65",
-      "artist": "Randy Gallegos",
-      "cmc": 3,
-      "colors": [
-        "white"
-      ],
-      "foreignNames": [
-        {
-          "name": "German",
-          "language": "Rune-Tail, Kitsune Ascendant",
-          "multiverseid": 105340
-        },
-        {
-          "name": "French",
-          "language": "Rune-Tail, Kitsune Ascendant",
-          "multiverseid": 105175
-        },
-        {
-          "name": "Italian",
-          "language": "Rune-Tail, Kitsune Ascendant",
-          "multiverseid": 105505
-        },
-        {
-          "name": "Japanese",
-          "language": "Rune-Tail, Kitsune Ascendant",
-          "multiverseid": 105670
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Rune-Tail, Kitsune Ascendant",
-          "multiverseid": 105835
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "Rune-Tail, Kitsune Ascendant",
-          "multiverseid": 105010
-        },
-        {
-          "name": "Spanish",
-          "language": "Rune-Tail, Kitsune Ascendant",
-          "multiverseid": 106000
-        }
-      ],
-      "layout": "flip",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "manacost": "{2}{W}",
-      "multiverseid": 87600,
-      "name": "Rune-Tail, Kitsune Ascendant",
-      "names": [
-        "Rune-Tail, Kitsune Ascendant",
-        "Rune-Tail's Essence"
-      ],
-      "number": "27",
-      "originalText": "When you have 30 or more life, flip Rune-Tail, Kitsune Ascendant.\n-----\nRune-Tail's Essence\nLegendary Enchantment\nPrevent all damage that would be dealt to creatures you control.",
-      "originalType": "Legendary Creature - Fox Monk",
-      "power": "2",
-      "printings": [
-        "SOK"
-      ],
-      "rarity": "rare",
-      "rulings": [
-        {
-          "date": "2005-06-01",
-          "text": "Each Ascendant is legendary in both its unflipped and flipped forms. This means that effects that look for legendary creature cards, such as Time of Need and Captain Sisay, can find an Ascendant."
-        }
-      ],
-      "set": "SOK",
-      "special": true,
-      "subTypes": [
-        "Fox",
-        "Monk"
-      ],
-      "superTypes": [
-        "Legendary"
-      ],
-      "text": "When you have 30 or more life, flip Rune-Tail, Kitsune Ascendant.\n",
-      "toughness": "2",
-      "type": "Legendary Creature — Fox Monk",
-      "types": [
-        "Creature"
       ]
     },
     {
@@ -2731,7 +2701,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -2837,7 +2806,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -2925,7 +2893,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -3020,7 +2987,6 @@
           "text": "If the Spirit or Arcane spell has {X} in the mana cost, then you use the value of {X} on the stack. For example, Shining Shoal costs {X}{W}{W}. If you choose X = 2, then Shining Shoal's converted mana cost is 4. Shining Shoal also has an ability that says \"You may exile a white card with converted mana cost X from your hand rather than pay Shining Shoal's mana cost\";; if you choose to pay the alternative cost and exile a card with converted mana cost 2, then X is 2 while Shining Shoal is on the stack and its converted mana cost is 4."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Kirin",
         "Spirit"
@@ -3113,7 +3079,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -3202,7 +3167,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Wizard"
@@ -3293,7 +3257,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -3378,7 +3341,7 @@
         "Erayo, Soratami Ascendant",
         "Erayo's Essence"
       ],
-      "number": "35",
+      "number": "35a",
       "originalText": "Flying\nWhenever the fourth spell of a turn is played, flip Erayo, Soratami Ascendant.\n-----\nErayo's Essence\nLegendary Enchantment\nCounter the first spell played by each opponent each turn.",
       "originalType": "Legendary Creature - Moonfolk Monk",
       "power": "1",
@@ -3404,8 +3367,6 @@
           "text": "Each Ascendant is legendary in both its unflipped and flipped forms. This means that effects that look for legendary creature cards, such as Time of Need and Captain Sisay, can find an Ascendant."
         }
       ],
-      "set": "SOK",
-      "special": true,
       "subTypes": [
         "Moonfolk",
         "Monk"
@@ -3502,8 +3463,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
-      "special": true,
       "superTypes": [
         "Legendary"
       ],
@@ -3591,7 +3550,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "Search target opponent's library for an artifact, creature, enchantment, or land card. Put that card onto the battlefield under your control. Then that player shuffles his or her library.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)",
       "type": "Sorcery",
       "types": [
@@ -3712,7 +3670,6 @@
           "text": "This has no mana cost, which means its mana cost can't be paid for effects such as replicate from Djinn Illuminatus or flashback from Snapcaster Mage."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -3800,7 +3757,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Aura"
       ],
@@ -3888,7 +3844,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -3983,7 +3938,6 @@
           "text": "If you don't have three or more cards in hand at the end of turn, you discard what cards you have."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -4085,7 +4039,6 @@
           "text": "Kaho's activated ability refers only to cards exiled by its triggered ability. If another effect exiled the cards, you won't be able to use Kaho to cast those cards."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Wizard"
@@ -4186,7 +4139,6 @@
           "text": "The additional draw triggers just after the normal draw for the turn happens."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -4284,7 +4236,6 @@
           "text": "If there are no other creatures on the battlefield as Kiri-Onna enters the battlefield, you must target Kiri-Onna with its own ability."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -4373,7 +4324,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "superTypes": [
         "Legendary"
       ],
@@ -4469,7 +4419,6 @@
           "text": "If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Null Profusion (an enchantment that says your maximum hand size is two) onto the battlefield and then put Minamo Scrollkeeper onto the battlefield, your maximum hand size will be three. However, if those permanents entered the battlefield in the opposite order, your maximum hand size would be two."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Wizard"
@@ -4569,7 +4518,6 @@
           "text": "The land's name as well as any supertype it might have (such as legendary) remains unchanged."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -4660,7 +4608,6 @@
         "CMD"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -4749,7 +4696,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -4849,7 +4795,6 @@
           "text": "The X will usually include the land returned to pay the ability's cost."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -4939,7 +4884,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "text": "Counter target spell unless its controller pays {1} for each card in your hand.",
       "type": "Instant",
       "types": [
@@ -5025,7 +4969,6 @@
         "DDJ"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "Counter target creature spell. Draw cards equal to that spell's converted mana cost.",
       "type": "Instant",
       "types": [
@@ -5117,7 +5060,6 @@
           "text": "Rushing-Tide Zubera's ability counts all damage dealt to it this turn, from all sources."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Zubera",
         "Spirit"
@@ -5221,7 +5163,6 @@
           "text": "Sakashima must be on the battlefield at the end of turn in order to return to hand. If Sakashima leaves the battlefield after the ability is activated but before the at-end-of-turn ability resolves, the ability does nothing."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Rogue"
@@ -5315,7 +5256,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -5431,7 +5371,6 @@
           "text": "You apply power/toughness changing effects in a series of sublayers in the following order: (a) effects from characteristic-defining abilities; (b) effects that set power and/or toughness to a specific number or value; (c) effects that modify power and/or toughness but don't set power and/or toughness to a specific number or value; (d) changes from counters; (e) effects that switch a creature's power and toughness. This card's effect is always applied in (b), which means that effects applied in sublayer (c), (d), or (e) will not be overwritten; they will be applied to the new value."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Shapeshifter",
         "Spirit"
@@ -5542,7 +5481,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -5630,7 +5568,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -5719,7 +5656,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -5818,7 +5754,6 @@
           "text": "If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Null Profusion (an enchantment that says your maximum hand size is two) onto the battlefield and then put Trusted Advisor onto the battlefield, your maximum hand size will be four. However, if those permanents entered the battlefield in the opposite order, your maximum hand size would be two."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Advisor"
@@ -5944,7 +5879,6 @@
           "text": "If the copy says that it affects \"you,\"; it affects the controller of the copy, not the controller of the original spell. Similarly, if the copy says that it affects an \"opponent,\"; it affects an opponent of the copy's controller, not an opponent of the original spell's controller."
         }
       ],
-      "set": "SOK",
       "text": "Copy target instant or sorcery spell. You may choose new targets for the copy.",
       "type": "Instant",
       "types": [
@@ -6039,7 +5973,6 @@
           "text": "In multiplayer games, it checks for each opponent."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -6141,7 +6074,6 @@
           "text": "If the opponent must sacrifice all but a number of permanents, that opponent chooses that many permanents and then sacrifices the rest. If the number chosen is greater than the number of permanents the opponent controls, the player sacrifices nothing."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -6231,7 +6163,6 @@
         "MM2"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -6318,7 +6249,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -6406,7 +6336,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -6496,7 +6425,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Rat",
         "Shaman"
@@ -6585,7 +6513,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "Target player sacrifices a creature with converted mana cost 3 or less.\nAt the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Exile into Darkness from your graveyard to your hand.",
       "type": "Sorcery",
       "types": [
@@ -6670,7 +6597,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -6760,7 +6686,6 @@
         "DD3_GVL"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -6856,7 +6781,6 @@
           "text": "If multiple effects modify a player's hand size, apply them in timestamp order. For example, if you put Cursed Rack (an artifact that sets a chosen player's maximum hand size to four) onto the battlefield choosing your opponent and then put Gnat Miser onto the battlefield, your opponent will have a maximum hand size of three. However, if those permanents entered the battlefield in the opposite order, your opponent's maximum hand size would be four."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Rat",
         "Shaman"
@@ -6947,7 +6871,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -7044,7 +6967,6 @@
           "text": "If the Spirit or Arcane spell has {X} in the mana cost, then you use the value of {X} on the stack. For example, Shining Shoal costs {X}{W}{W}. If you choose X = 2, then Shining Shoal's converted mana cost is 4. Shining Shoal also has an ability that says \"You may exile a white card with converted mana cost X from your hand rather than pay Shining Shoal's mana cost\";; if you choose to pay the alternative cost and exile a card with converted mana cost 2, then X is 2 while Shining Shoal is on the stack and its converted mana cost is 4."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Kirin",
         "Spirit"
@@ -7143,7 +7065,6 @@
           "text": "The value of X is determined as the ability resolves."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Demon",
         "Spirit"
@@ -7236,7 +7157,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Aura"
       ],
@@ -7324,7 +7244,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -7413,7 +7332,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -7502,7 +7420,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "Target creature deals damage to itself equal to its power.",
       "type": "Sorcery",
       "types": [
@@ -7583,7 +7500,7 @@
         "Kuon, Ogre Ascendant",
         "Kuon's Essence"
       ],
-      "number": "78",
+      "number": "78a",
       "originalText": "At end of turn, if three or more creatures were put into graveyards from play this turn, flip Kuon, Ogre Ascendant.\n-----\nKuon's Essence\nLegendary Enchantment\nAt the beginning of each player's upkeep, that player sacrifices a creature.",
       "originalType": "Legendary Creature - Ogre Monk",
       "power": "2",
@@ -7605,8 +7522,6 @@
           "text": "Each Ascendant is legendary in both its unflipped and flipped forms. This means that effects that look for legendary creature cards, such as Time of Need and Captain Sisay, can find an Ascendant."
         }
       ],
-      "set": "SOK",
-      "special": true,
       "subTypes": [
         "Ogre",
         "Monk"
@@ -7703,8 +7618,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
-      "special": true,
       "superTypes": [
         "Legendary"
       ],
@@ -7794,7 +7707,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Rat",
         "Samurai"
@@ -7891,7 +7803,6 @@
           "text": "If multiple effects modify a player's hand size, apply them in timestamp order. For example, if you put Cursed Rack (an artifact that sets a chosen player's maximum hand size to four) onto the battlefield choosing your opponent and then put Locust Miser onto the battlefield, your opponent will have a maximum hand size of two. However, if those permanents entered the battlefield in the opposite order, your opponent's maximum hand size would be four."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Rat",
         "Shaman"
@@ -7981,7 +7892,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Wizard"
@@ -8079,7 +7989,6 @@
           "text": "Once the at-end-of-turn ability triggers, it affects the player who controlled Measure of Wickedness at that time. If Measure of Wickedness is under a different player's control as its at-end-of-turn ability resolves, however, Measure of Wickedness stays on the battlefield."
         }
       ],
-      "set": "SOK",
       "text": "At the beginning of your end step, sacrifice Measure of Wickedness and you lose 8 life.\nWhenever another card is put into your graveyard from anywhere, target opponent gains control of Measure of Wickedness.",
       "type": "Enchantment",
       "types": [
@@ -8163,7 +8072,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "Search target player's library for X cards, where X is the number of cards in your hand, and exile them. Then that player shuffles his or her library.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)",
       "type": "Sorcery",
       "types": [
@@ -8248,7 +8156,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "Discard your hand.",
       "type": "Instant",
       "types": [
@@ -8342,7 +8249,6 @@
           "text": "A player may bid more life than he or she has."
         }
       ],
-      "set": "SOK",
       "text": "Each player may bid life. You start the bidding with a bid of any number. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and draws four cards.",
       "type": "Sorcery",
       "types": [
@@ -8427,7 +8333,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Ogre",
         "Warrior"
@@ -8519,7 +8424,6 @@
         "CMD"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Demon",
         "Spirit"
@@ -8609,7 +8513,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -8697,7 +8600,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -8786,7 +8688,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Ogre",
         "Warrior"
@@ -8877,7 +8778,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -8970,7 +8870,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Goblin",
         "Shaman"
@@ -9061,7 +8960,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Goblin",
         "Warrior"
@@ -9156,7 +9054,6 @@
           "text": "The lands are returned on resolution; this is not a cost of casting the spell."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -9250,7 +9147,6 @@
           "text": "Burning-Eye Zubera's ability counts all damage dealt to it this turn, from all sources."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Zubera",
         "Spirit"
@@ -9341,7 +9237,6 @@
         "DDG"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "{R}: Target creature gets +1/+0 until end of turn.",
       "type": "Enchantment",
       "types": [
@@ -9426,7 +9321,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "Create three 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.",
       "type": "Sorcery",
       "types": [
@@ -9511,7 +9405,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -9599,7 +9492,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -9689,7 +9581,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -9779,7 +9670,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Warrior"
@@ -9875,7 +9765,6 @@
           "text": "Since the player's life total is checked only as the spell resolves, you can cast Hidetsugu's Second Rite targeting any player, regardless of life total. If the player isn't at 10 life as Hidetsugu's Second Rite begins resolving, it does nothing and finishes resolving. Note that since having 10 life is not a targeting restriction, the spell won't actually be countered for having an illegal target; it just won't do anything."
         }
       ],
-      "set": "SOK",
       "text": "If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.",
       "type": "Instant",
       "types": [
@@ -9956,7 +9845,7 @@
         "Homura, Human Ascendant",
         "Homura's Essence"
       ],
-      "number": "103",
+      "number": "103a",
       "originalText": "Homura, Human Ascendant can't block.\nWhen Homura is put into a graveyard from play, return it to play flipped.\n-----\nHomura's Essence\nLegendary Enchantment\nCreatures you control get +2/+2 and have flying and \"{R}: This creature gets +1/+0 until end of turn.\"",
       "originalType": "Legendary Creature - Human Monk",
       "power": "4",
@@ -9970,8 +9859,6 @@
           "text": "Each Ascendant is legendary in both its unflipped and flipped forms. This means that effects that look for legendary creature cards, such as Time of Need and Captain Sisay, can find an Ascendant."
         }
       ],
-      "set": "SOK",
-      "special": true,
       "subTypes": [
         "Human",
         "Monk"
@@ -10068,8 +9955,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
-      "special": true,
       "superTypes": [
         "Legendary"
       ],
@@ -10158,7 +10043,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -10251,7 +10135,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "text": "Add {R} to your mana pool for each card in your hand.",
       "type": "Sorcery",
       "types": [
@@ -10353,7 +10236,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -10441,7 +10323,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -10536,7 +10417,6 @@
         "DDN"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Demon",
         "Spirit"
@@ -10626,7 +10506,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -10713,7 +10592,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "Exile the top card of your library. Exile the top card of your library. Exile the top card of your library. If the last card exiled isn't a land, repeat this process. Create a 1/1 red Warrior creature token for each nonland card exiled this way.",
       "type": "Sorcery",
       "types": [
@@ -10799,7 +10677,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -10889,7 +10766,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -10985,7 +10861,6 @@
           "text": "If the Spirit or Arcane spell has {X} in the mana cost, then you use the value of {X} on the stack. For example, Shining Shoal costs {X}{W}{W}. If you choose X = 2, then Shining Shoal's converted mana cost is 4. Shining Shoal also has an ability that says \"You may exile a white card with converted mana cost X from your hand rather than pay Shining Shoal's mana cost\";; if you choose to pay the alternative cost and exile a card with converted mana cost 2, then X is 2 while Shining Shoal is on the stack and its converted mana cost is 4."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Kirin",
         "Spirit"
@@ -11084,7 +10959,6 @@
           "text": "If multiple players are tied for the most cards in hand, either when Sokenzan Renegade's ability triggers or as it resolves, the ability does nothing."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Ogre",
         "Samurai",
@@ -11175,7 +11049,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Ogre",
         "Samurai",
@@ -11266,7 +11139,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -11354,7 +11226,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -11442,7 +11313,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "Each player sacrifices a land for each card in your hand.",
       "type": "Sorcery",
       "types": [
@@ -11532,7 +11402,6 @@
           "text": "If you have no cards in your library, Undying Flames does nothing."
         }
       ],
-      "set": "SOK",
       "text": "Exile cards from the top of your library until you exile a nonland card. Undying Flames deals damage to target creature or player equal to that card's converted mana cost.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)",
       "type": "Sorcery",
       "types": [
@@ -11617,7 +11486,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -11706,7 +11574,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -11805,7 +11672,6 @@
           "text": "Nonland legendary permanents don't affect whether Ayumi can be blocked or not, only legendary lands."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -11904,7 +11770,6 @@
           "text": "If the Spirit or Arcane spell has {X} in the mana cost, then you use the value of {X} on the stack. For example, Shining Shoal costs {X}{W}{W}. If you choose X = 2, then Shining Shoal's converted mana cost is 4. Shining Shoal also has an ability that says \"You may exile a white card with converted mana cost X from your hand rather than pay Shining Shoal's mana cost\";; if you choose to pay the alternative cost and exile a card with converted mana cost 2, then X is 2 while Shining Shoal is on the stack and its converted mana cost is 4."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Kirin",
         "Spirit"
@@ -11998,7 +11863,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -12093,7 +11957,6 @@
           "text": "A creature with reach can still block creatures with flying as well as creatures without flying."
         }
       ],
-      "set": "SOK",
       "text": "Creatures with flying can block only creatures with flying.",
       "type": "Enchantment",
       "types": [
@@ -12192,7 +12055,6 @@
           "text": "All +1/+1 counters on Descendant of Masumaro are removed, including those put on it by other effects."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Monk"
@@ -12282,7 +12144,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "text": "You gain 6 life.\nDraw a card.",
       "type": "Sorcery",
       "types": [
@@ -12367,7 +12228,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -12455,7 +12315,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "Create a 1/1 green Snake creature token for each card in your hand.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)",
       "type": "Sorcery",
       "types": [
@@ -12541,7 +12400,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -12630,7 +12488,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -12719,7 +12576,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -12808,7 +12664,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -12896,7 +12751,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -12985,7 +12839,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Snake",
         "Warrior"
@@ -13076,7 +12929,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -13168,7 +13020,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Snake",
         "Warrior",
@@ -13259,7 +13110,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "Return Molting Skin to its owner's hand: Regenerate target creature.",
       "type": "Enchantment",
       "types": [
@@ -13344,7 +13194,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -13434,7 +13283,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Monk"
@@ -13530,7 +13378,6 @@
           "text": "Yes, Soulshift 7. Promised Kannushi can return any Spirit with converted mana cost of 7 or less. However, Promised Kannushi is a Human Druid, not a Spirit."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Druid"
@@ -13631,7 +13478,6 @@
           "text": "Lands aren't spells."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Human",
         "Shaman"
@@ -13723,7 +13569,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Arcane"
       ],
@@ -13812,7 +13657,6 @@
         "SOK"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Snake",
         "Shaman",
@@ -13899,7 +13743,7 @@
         "Sasaya, Orochi Ascendant",
         "Sasaya's Essence"
       ],
-      "number": "145",
+      "number": "145a",
       "originalText": "Reveal your hand: If you have seven or more land cards in your hand, flip Sasaya, Orochi Ascendant.\n-----\nSasaya's Essence\nLegendary Enchantment\nWhenever a land you control is tapped for mana, add one mana of that type to your mana pool for each other land you control with the same name.",
       "originalType": "Legendary Creature - Snake Monk",
       "power": "2",
@@ -13941,8 +13785,6 @@
           "text": "Each Ascendant is legendary in both its unflipped and flipped forms. This means that effects that look for legendary creature cards, such as Time of Need and Captain Sisay, can find an Ascendant."
         }
       ],
-      "set": "SOK",
-      "special": true,
       "subTypes": [
         "Snake",
         "Monk"
@@ -14039,8 +13881,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
-      "special": true,
       "superTypes": [
         "Legendary"
       ],
@@ -14129,7 +13969,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "Whenever a land enters the battlefield, its controller creates a 1/1 green Snake creature token.",
       "type": "Enchantment",
       "types": [
@@ -14225,7 +14064,6 @@
         "DDR"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.",
       "type": "Sorcery",
       "types": [
@@ -14328,7 +14166,6 @@
           "text": "You can sacrifice any eight Spirits to pay for Sekki's activated ability, not just the Spirit creature tokens."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -14421,7 +14258,6 @@
         "ARC"
       ],
       "rarity": "common",
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -14520,7 +14356,6 @@
           "text": "You choose a creature and return it all during resolution of the triggered ability. This means that if you control two of these, there is no way to end up returning only one creature."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Antelope",
         "Beast"
@@ -14637,7 +14472,6 @@
           "text": "If a creature (such as Clone) enters the battlefield as a copy of this creature, the copy's \"enters-the-battlefield\"; ability will still trigger as long as you cast that creature spell from your hand."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Spirit"
       ],
@@ -14733,7 +14567,6 @@
           "text": "If Spirit is the chosen creature type, the soulshift ability will be able to target any creature card in your graveyard of the appropriate converted mana cost. Suppose two creatures, including one with soulshift, are put into your graveyard from the battlefield at the same time. The Spirit creature type is added as the cards enter the graveyard, just before you choose the target for the soulshift ability."
         }
       ],
-      "set": "SOK",
       "text": "As Ashes of the Fallen enters the battlefield, choose a creature type.\nEach creature card in your graveyard has the chosen creature type in addition to its other types.",
       "type": "Artifact",
       "types": [
@@ -14829,7 +14662,6 @@
           "text": "The choice of which permanent to return or whether to pay life is made as the triggered ability resolves."
         }
       ],
-      "set": "SOK",
       "text": "At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",
       "type": "Artifact",
       "types": [
@@ -14912,7 +14744,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "At the beginning of each opponent's upkeep, if that player has seven or more cards in hand, Ebony Owl Netsuke deals 4 damage to him or her.",
       "type": "Artifact",
       "types": [
@@ -14995,7 +14826,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "At the beginning of your upkeep, if you have seven or more cards in hand, you gain 4 life.",
       "type": "Artifact",
       "types": [
@@ -15077,7 +14907,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "subTypes": [
         "Equipment"
       ],
@@ -15167,7 +14996,6 @@
           "text": "O-Naginata becomes unattached if the equipped creature's power is less than 3 as state-based actions are checked."
         }
       ],
-      "set": "SOK",
       "subTypes": [
         "Equipment"
       ],
@@ -15280,7 +15108,6 @@
           "text": "Activated abilities include a colon and are written in the form \"[cost]: [effect].\"; Triggered abilities and static abilities of the named card work normally."
         }
       ],
-      "set": "SOK",
       "text": "As Pithing Needle enters the battlefield, name a card.\nActivated abilities of sources with the chosen name can't be activated unless they're mana abilities.",
       "type": "Artifact",
       "types": [
@@ -15363,7 +15190,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "{2}, {T}: Draw a card if you have seven or more cards in hand.",
       "type": "Artifact",
       "types": [
@@ -15444,7 +15270,6 @@
         "SOK"
       ],
       "rarity": "uncommon",
-      "set": "SOK",
       "text": "{2}: Target creature you control gains flying until end of turn.\n{2}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.",
       "type": "Artifact",
       "types": [
@@ -15526,7 +15351,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "text": "{4}: Target creature gets +X/+0 until end of turn, where X is its power. Sacrifice Wine of Blood and Iron at the beginning of the next end step.",
       "type": "Artifact",
       "types": [
@@ -15606,7 +15430,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "superTypes": [
         "Legendary"
       ],
@@ -15688,7 +15511,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "superTypes": [
         "Legendary"
       ],
@@ -15771,7 +15593,6 @@
         "SOK"
       ],
       "rarity": "rare",
-      "set": "SOK",
       "superTypes": [
         "Legendary"
       ],
@@ -15859,7 +15680,6 @@
           "text": "Activating Tomb of Urami's second ability requires sacrificing all lands you control, including Tomb of Urami."
         }
       ],
-      "set": "SOK",
       "superTypes": [
         "Legendary"
       ],

@@ -127,7 +127,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -135,101 +134,6 @@
       "type": "Instant — Arcane",
       "types": [
         "Instant"
-      ]
-    },
-    {
-      "_id": "4e5e541b-2346-4091-2d9e-4eb30264c49d",
-      "artist": "Mark Zug",
-      "cmc": 1,
-      "colors": [
-        "white"
-      ],
-      "foreignNames": [
-        {
-          "name": "German",
-          "language": "Bushi Tenderfoot",
-          "multiverseid": 85814
-        },
-        {
-          "name": "French",
-          "language": "Bushi Tenderfoot",
-          "multiverseid": 85507
-        },
-        {
-          "name": "Italian",
-          "language": "Bushi Tenderfoot",
-          "multiverseid": 86121
-        },
-        {
-          "name": "Japanese",
-          "language": "Bushi Tenderfoot",
-          "multiverseid": 86428
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Bushi Tenderfoot",
-          "multiverseid": 86735
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "Bushi Tenderfoot",
-          "multiverseid": 85200
-        },
-        {
-          "name": "Spanish",
-          "language": "Bushi Tenderfoot",
-          "multiverseid": 87042
-        }
-      ],
-      "layout": "flip",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "manacost": "{W}",
-      "multiverseid": 78600,
-      "name": "Bushi Tenderfoot",
-      "names": [
-        "Bushi Tenderfoot",
-        "Kenzo the Hardhearted"
-      ],
-      "number": "2",
-      "originalText": "When a creature dealt damage by Bushi Tenderfoot this turn is put into a graveyard, flip Bushi Tenderfoot.\n-----\nKenzo the Hardhearted\nLegendary Creature Human Samurai\n3/4\nDouble strike; bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)",
-      "originalType": "Creature - Human Soldier",
-      "power": "1",
-      "printings": [
-        "CHK"
-      ],
-      "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
-      "subTypes": [
-        "Human",
-        "Soldier"
-      ],
-      "text": "When a creature dealt damage by Bushi Tenderfoot this turn dies, flip Bushi Tenderfoot.\n",
-      "toughness": "1",
-      "type": "Creature — Human Soldier",
-      "types": [
-        "Creature"
       ]
     },
     {
@@ -314,8 +218,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Human",
         "Samurai"
@@ -326,6 +228,99 @@
       "text": "Double strike; bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)",
       "toughness": "4",
       "type": "Legendary Creature — Human Samurai",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "4e5e541b-2346-4091-2d9e-4eb30264c49d",
+      "artist": "Mark Zug",
+      "cmc": 1,
+      "colors": [
+        "white"
+      ],
+      "foreignNames": [
+        {
+          "name": "German",
+          "language": "Bushi Tenderfoot",
+          "multiverseid": 85814
+        },
+        {
+          "name": "French",
+          "language": "Bushi Tenderfoot",
+          "multiverseid": 85507
+        },
+        {
+          "name": "Italian",
+          "language": "Bushi Tenderfoot",
+          "multiverseid": 86121
+        },
+        {
+          "name": "Japanese",
+          "language": "Bushi Tenderfoot",
+          "multiverseid": 86428
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Bushi Tenderfoot",
+          "multiverseid": 86735
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "Bushi Tenderfoot",
+          "multiverseid": 85200
+        },
+        {
+          "name": "Spanish",
+          "language": "Bushi Tenderfoot",
+          "multiverseid": 87042
+        }
+      ],
+      "layout": "flip",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "manacost": "{W}",
+      "multiverseid": 78600,
+      "name": "Bushi Tenderfoot",
+      "names": [
+        "Bushi Tenderfoot",
+        "Kenzo the Hardhearted"
+      ],
+      "number": "2a",
+      "originalText": "When a creature dealt damage by Bushi Tenderfoot this turn is put into a graveyard, flip Bushi Tenderfoot.\n-----\nKenzo the Hardhearted\nLegendary Creature Human Samurai\n3/4\nDouble strike; bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)",
+      "originalType": "Creature - Human Soldier",
+      "power": "1",
+      "printings": [
+        "CHK"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "When a creature dealt damage by Bushi Tenderfoot this turn dies, flip Bushi Tenderfoot.\n",
+      "toughness": "1",
+      "type": "Creature — Human Soldier",
       "types": [
         "Creature"
       ]
@@ -410,7 +405,6 @@
         "C15"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -498,7 +492,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "text": "Untap all creatures you control. Samurai creatures you control get +1/+1 until end of turn.",
       "type": "Instant",
       "types": [
@@ -600,7 +593,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -688,7 +680,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -777,7 +768,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -875,7 +865,6 @@
           "text": "A permanent spell that becomes white this way will enter the battlefield and continue to be white until end of turn."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Fox",
         "Cleric"
@@ -968,7 +957,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -1069,7 +1057,6 @@
           "text": "Unless some effect explicitly says otherwise, a creature that can't attack you can still attack a planeswalker you control."
         }
       ],
-      "set": "CHK",
       "text": "Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.",
       "type": "Enchantment",
       "types": [
@@ -1154,7 +1141,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -1254,7 +1240,6 @@
           "text": "If you exile Hikari, it leaves the battlefield before the spell that triggered it resolves its ability, so it will be unaffected by that spell."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -1347,7 +1332,6 @@
         "DDN"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "Blocking creatures get +7/+7 until end of turn.",
       "type": "Instant",
       "types": [
@@ -1433,7 +1417,6 @@
         "EMA"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Shrine"
       ],
@@ -1525,7 +1508,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -1614,7 +1596,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -1703,7 +1684,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -1792,7 +1772,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -1881,7 +1860,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Hound"
       ],
@@ -1973,7 +1951,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -2064,7 +2041,6 @@
         "MM2"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -2154,7 +2130,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -2243,7 +2218,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -2332,7 +2306,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -2422,7 +2395,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Fox",
         "Samurai"
@@ -2513,7 +2485,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Fox",
         "Cleric"
@@ -2603,7 +2574,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Fox",
         "Cleric"
@@ -2689,7 +2659,7 @@
         "Kitsune Mystic",
         "Autumn-Tail, Kitsune Sage"
       ],
-      "number": "28",
+      "number": "28a",
       "originalText": "At end of turn, if Kitsune Mystic is enchanted by two or more enchantments, flip it.\n-----\nAutumn-Tail, Kitsune Sage\nLegendary Creature Fox Wizard\n4/5\n{1}: Move target enchantment enchanting a creature to another creature.",
       "originalType": "Creature - Fox Wizard",
       "power": "2",
@@ -2697,8 +2667,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Fox",
         "Wizard"
@@ -2792,8 +2760,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Fox",
         "Wizard"
@@ -2887,7 +2853,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Fox",
         "Wizard"
@@ -2977,7 +2942,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -3070,7 +3034,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -3161,7 +3124,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -3257,7 +3219,6 @@
           "text": "Masako allows tapped creatures to block only if they could otherwise block. It doesn't allow creatures that \"can't block\"; to block, nonflying creatures to block fliers, etc."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Advisor"
@@ -3351,7 +3312,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -3447,7 +3407,6 @@
           "text": "In a Commander game where this card is your commander, casting it from the Command zone does not count as casting it from your hand."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -3539,7 +3498,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -3650,7 +3608,6 @@
           "text": "If Otherworldly Journey is cast during an end step, the creature won't return until the beginning of the next end step."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -3738,7 +3695,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Fox",
         "Cleric"
@@ -3828,7 +3784,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -3917,7 +3872,6 @@
         "DDG"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "Exile target creature that dealt damage to you this turn.",
       "type": "Instant",
       "types": [
@@ -4012,7 +3966,6 @@
           "text": "You can't split up a life total when you redistribute it. For example, suppose that in a two-player game your life total is 5 and your opponent's life total is 15 when Reverse the Sands starts to resolve. You can choose to (a) leave the life totals as they are or (b) make your life total 15 and your opponent's 5. You can't choose to make your life total 20 and your opponent's 0."
         }
       ],
-      "set": "CHK",
       "text": "Redistribute any number of players' life totals. (Each of those players gets one life total back.)",
       "type": "Sorcery",
       "types": [
@@ -4098,7 +4051,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -4188,7 +4140,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Fox",
         "Samurai"
@@ -4288,7 +4239,6 @@
           "text": "Note that multiple instances of the bushido ability each trigger separately."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Fox",
         "Samurai"
@@ -4382,7 +4332,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Zubera",
         "Spirit"
@@ -4472,7 +4421,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -4565,7 +4513,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -4653,7 +4600,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "{1}: The next 1 damage that would be dealt to target legendary creature you control this turn is dealt to you instead.",
       "type": "Enchantment",
       "types": [
@@ -4738,7 +4684,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -4833,7 +4778,6 @@
           "text": "The triggered ability targets the player and up to five permanents that player controls. If all targets are illegal as the ability tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Dragon",
         "Spirit"
@@ -4926,7 +4870,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -5016,7 +4959,6 @@
         "C13"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Wizard"
@@ -5109,7 +5051,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -5215,7 +5156,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -5305,7 +5245,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "text": "Draw two cards.",
       "type": "Sorcery",
       "types": [
@@ -5390,7 +5329,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "For each Spirit, return it to its owner's hand unless that player pays {3}.",
       "type": "Sorcery",
       "types": [
@@ -5493,7 +5431,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -5581,7 +5518,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -5669,7 +5605,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -5757,7 +5692,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -5846,7 +5780,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Zubera",
         "Spirit"
@@ -5943,7 +5876,6 @@
           "text": "You can choose to find fewer than four cards if you want, but your opponent will still put two of those cards into your graveyard."
         }
       ],
-      "set": "CHK",
       "text": "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.",
       "type": "Instant",
       "types": [
@@ -6035,7 +5967,6 @@
           "text": "If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Null Profusion (an enchantment that says your maximum hand size is two) onto the battlefield and then put Graceful Adept onto the battlefield, you'll have no maximum hand size. However, if those permanents entered the battlefield in the opposite order, your maximum hand size would be two."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Wizard"
@@ -6126,7 +6057,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -6215,7 +6145,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard.",
       "type": "Instant",
       "types": [
@@ -6301,7 +6230,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Wizard"
@@ -6394,7 +6322,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "text": "Counter target Spirit or Arcane spell.",
       "type": "Instant",
       "types": [
@@ -6479,7 +6406,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Wizard"
@@ -6570,7 +6496,6 @@
         "EMA"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Shrine"
       ],
@@ -6657,7 +6582,7 @@
         "Jushi Apprentice",
         "Tomoya the Revealer"
       ],
-      "number": "70",
+      "number": "70a",
       "originalText": "{2}{U}, {T}: Draw a card. If you have nine or more cards in hand, flip Jushi Apprentice.\n-----\nTomoya the Revealer\nLegendary Creature Human Wizard\n2/3\n{3}{U}{U}, {T}: Target player draws X cards, where X is the number of cards in your hand.",
       "originalType": "Creature - Human Wizard",
       "power": "1",
@@ -6665,8 +6590,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Human",
         "Wizard"
@@ -6760,8 +6683,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Human",
         "Wizard"
@@ -6855,7 +6776,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -6945,7 +6865,6 @@
         "MMA"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Dragon",
         "Spirit"
@@ -7055,7 +6974,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -7145,7 +7063,6 @@
         "MMA"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -7244,7 +7161,6 @@
           "text": "In a Commander game where this card is your commander, casting it from the Command zone does not count as casting it from your hand."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -7335,7 +7251,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -7423,7 +7338,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -7517,7 +7431,6 @@
           "text": "If you don't reveal an instant or sorcery card, put all the revealed cards on the bottom of your library in any order."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -7611,7 +7524,6 @@
           "text": "If you choose to put the three cards on the bottom of your library, Petals of Insight will return to your hand directly from the stack. It never goes to a graveyard."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -7716,7 +7628,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -7805,7 +7716,6 @@
         "MMA"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -7922,7 +7832,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -8010,7 +7919,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -8097,7 +8005,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -8186,7 +8093,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -8276,7 +8182,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Moonfolk",
         "Rogue"
@@ -8366,7 +8271,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -8457,7 +8361,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -8547,7 +8450,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -8638,7 +8540,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -8729,7 +8630,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -8829,7 +8729,6 @@
           "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\"; Some keywords are activated abilities and will have colons in their reminder text."
         }
       ],
-      "set": "CHK",
       "text": "Counter target activated ability. (Mana abilities can't be targeted.)\nDraw a card.",
       "type": "Instant",
       "types": [
@@ -8918,8 +8817,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Human",
         "Wizard"
@@ -9008,7 +8905,7 @@
         "Student of Elements",
         "Tobita, Master of Winds"
       ],
-      "number": "93",
+      "number": "93a",
       "originalText": "When Student of Elements has flying, flip it.\n-----\nTobita, Master of Winds\nLegendary Creature Human Wizard\n3/3\nCreatures you control have flying.",
       "originalType": "Creature - Human Wizard",
       "power": "1",
@@ -9016,8 +8913,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Human",
         "Wizard"
@@ -9116,7 +9011,6 @@
           "text": "Swirl the Mists' ability also affects spells that are cast and permanents that enter the battlefield after Swirl the Mists enters the battlefield."
         }
       ],
-      "set": "CHK",
       "text": "As Swirl the Mists enters the battlefield, choose a color word.\nAll instances of color words in the text of spells and permanents are changed to the chosen color word.",
       "type": "Enchantment",
       "types": [
@@ -9208,7 +9102,6 @@
           "text": "You choose whether or not to tap or untap the creature when the ability resolves."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -9297,7 +9190,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "text": "Counter target spell with converted mana cost 4 or less.",
       "type": "Instant",
       "types": [
@@ -9400,7 +9292,6 @@
           "text": "If any triggered abilities do trigger during this process, they're put onto the stack during the cleanup step. If this happens, players will have a chance to cast spells and activate abilities, then there will be another cleanup step before the turn finally ends."
         }
       ],
-      "set": "CHK",
       "text": "End the turn. (Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and \"this turn\" and \"until end of turn\" effects end.)",
       "type": "Instant",
       "types": [
@@ -9486,7 +9377,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -9585,7 +9475,6 @@
           "text": "If you copy an Arcane spell that has cards spliced onto it, you'll copy the spliced text as well as the original spell text."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Moonfolk",
         "Wizard"
@@ -9678,7 +9567,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -9767,7 +9655,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Zubera",
         "Spirit"
@@ -9869,7 +9756,6 @@
           "text": "This is not modal. You do not have to choose the target type. The target has to either be a land or non-black creature when announced and on resolution."
         }
       ],
-      "set": "CHK",
       "text": "Destroy target land or nonblack creature. It can't be regenerated.",
       "type": "Sorcery",
       "types": [
@@ -9960,7 +9846,6 @@
           "text": "The return-to-hand triggered ability triggers while Blood Speaker is in your graveyard, no matter how it got there."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Ogre",
         "Shaman"
@@ -10050,7 +9935,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Ogre",
         "Warrior",
@@ -10140,7 +10024,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -10228,7 +10111,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -10318,7 +10200,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -10408,7 +10289,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -10497,7 +10377,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Ogre",
         "Warrior"
@@ -10587,7 +10466,6 @@
         "MM2"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -10683,7 +10561,6 @@
           "text": "If you target yourself with this spell, you must reveal your entire hand to the other players just as any other player would."
         }
       ],
-      "set": "CHK",
       "text": "Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.",
       "type": "Sorcery",
       "types": [
@@ -10768,7 +10645,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -10858,7 +10734,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Demon",
         "Spirit"
@@ -10954,7 +10829,6 @@
           "text": "If you cast this as normal during your main phase, it will enter the battlefield and you'll receive priority. If no abilities trigger because of this, you can activate its ability immediately, before any other player has a chance to remove it from the battlefield."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -11063,7 +10937,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -11152,7 +11025,6 @@
         "EMA"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Shrine"
       ],
@@ -11244,7 +11116,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -11337,7 +11208,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -11429,7 +11299,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -11519,7 +11388,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -11609,7 +11477,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Assassin"
@@ -11704,7 +11571,6 @@
         "MMA"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Dragon",
         "Spirit"
@@ -11799,7 +11665,6 @@
         "DDC"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Demon",
         "Spirit"
@@ -11899,7 +11764,6 @@
           "text": "Marrow-Gnawer's ability counts the number of Rats on the battlefield when it resolves, so you don't count the sacrificed Rat."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Rat",
         "Rogue"
@@ -11992,7 +11856,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -12086,7 +11949,6 @@
           "text": "In a Commander game where this card is your commander, casting it from the Command zone does not count as casting it from your hand."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -12185,7 +12047,6 @@
           "text": "If you cast this as normal during your main phase, it will enter the battlefield and you'll receive priority. If no abilities trigger because of this, you can activate its ability immediately, before any other player has a chance to remove it from the battlefield."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Rat",
         "Shaman"
@@ -12276,7 +12137,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Rat",
         "Warrior"
@@ -12371,8 +12231,6 @@
         "CMD"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Rat",
         "Wizard"
@@ -12461,7 +12319,7 @@
         "Nezumi Graverobber",
         "Nighteyes the Desecrator"
       ],
-      "number": "129",
+      "number": "129a",
       "originalText": "{1}{B}: Remove target card in an opponent's graveyard from the game. If no cards are in that graveyard, flip Nezumi Graverobber.\n-----\nNighteyes the Desecrator\nLegendary Creature Rat Wizard\n4/2\n{4}{B}: Put target creature card in a graveyard into play under your control.",
       "originalType": "Creature - Rat Rogue",
       "power": "2",
@@ -12470,8 +12328,6 @@
         "CMD"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Rat",
         "Rogue"
@@ -12562,7 +12418,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Rat",
         "Samurai"
@@ -12570,6 +12425,99 @@
       "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
       "toughness": "1",
       "type": "Creature — Rat Samurai",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "7493ebbf-f3bc-4bd4-a912-596c3b3d4c85",
+      "artist": "Daren Bader",
+      "cmc": 2,
+      "colors": [
+        "black"
+      ],
+      "foreignNames": [
+        {
+          "name": "German",
+          "language": "Nezumi Shortfang",
+          "multiverseid": 85976
+        },
+        {
+          "name": "French",
+          "language": "Nezumi Shortfang",
+          "multiverseid": 85669
+        },
+        {
+          "name": "Italian",
+          "language": "Nezumi Shortfang",
+          "multiverseid": 86283
+        },
+        {
+          "name": "Japanese",
+          "language": "Nezumi Shortfang",
+          "multiverseid": 86590
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Nezumi Shortfang",
+          "multiverseid": 86897
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "Nezumi Shortfang",
+          "multiverseid": 85362
+        },
+        {
+          "name": "Spanish",
+          "language": "Nezumi Shortfang",
+          "multiverseid": 87204
+        }
+      ],
+      "layout": "flip",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "manacost": "{1}{B}",
+      "multiverseid": 78679,
+      "name": "Nezumi Shortfang",
+      "names": [
+        "Nezumi Shortfang",
+        "Stabwhisker the Odious"
+      ],
+      "number": "131a",
+      "originalText": "{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip Nezumi Shortfang.\n-----\nStabwhisker the Odious\nLegendary Creature Rat Shaman\n3/3\nAt the beginning of each opponent's upkeep, that player loses 1 life for each card fewer than three in his or her hand.",
+      "originalType": "Creature - Rat Rogue",
+      "power": "1",
+      "printings": [
+        "CHK"
+      ],
+      "rarity": "rare",
+      "subTypes": [
+        "Rat",
+        "Rogue"
+      ],
+      "text": "{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip Nezumi Shortfang.\n",
+      "toughness": "1",
+      "type": "Creature — Rat Rogue",
       "types": [
         "Creature"
       ]
@@ -12656,8 +12604,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Rat",
         "Shaman"
@@ -12668,101 +12614,6 @@
       "text": "At the beginning of each opponent's upkeep, that player loses 1 life for each card fewer than three in his or her hand.",
       "toughness": "3",
       "type": "Legendary Creature — Rat Shaman",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
-      "_id": "7493ebbf-f3bc-4bd4-a912-596c3b3d4c85",
-      "artist": "Daren Bader",
-      "cmc": 2,
-      "colors": [
-        "black"
-      ],
-      "foreignNames": [
-        {
-          "name": "German",
-          "language": "Nezumi Shortfang",
-          "multiverseid": 85976
-        },
-        {
-          "name": "French",
-          "language": "Nezumi Shortfang",
-          "multiverseid": 85669
-        },
-        {
-          "name": "Italian",
-          "language": "Nezumi Shortfang",
-          "multiverseid": 86283
-        },
-        {
-          "name": "Japanese",
-          "language": "Nezumi Shortfang",
-          "multiverseid": 86590
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Nezumi Shortfang",
-          "multiverseid": 86897
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "Nezumi Shortfang",
-          "multiverseid": 85362
-        },
-        {
-          "name": "Spanish",
-          "language": "Nezumi Shortfang",
-          "multiverseid": 87204
-        }
-      ],
-      "layout": "flip",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "manacost": "{1}{B}",
-      "multiverseid": 78679,
-      "name": "Nezumi Shortfang",
-      "names": [
-        "Nezumi Shortfang",
-        "Stabwhisker the Odious"
-      ],
-      "number": "131",
-      "originalText": "{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip Nezumi Shortfang.\n-----\nStabwhisker the Odious\nLegendary Creature Rat Shaman\n3/3\nAt the beginning of each opponent's upkeep, that player loses 1 life for each card fewer than three in his or her hand.",
-      "originalType": "Creature - Rat Rogue",
-      "power": "1",
-      "printings": [
-        "CHK"
-      ],
-      "rarity": "rare",
-      "set": "CHK",
-      "special": true,
-      "subTypes": [
-        "Rat",
-        "Rogue"
-      ],
-      "text": "{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip Nezumi Shortfang.\n",
-      "toughness": "1",
-      "type": "Creature — Rat Rogue",
       "types": [
         "Creature"
       ]
@@ -12844,7 +12695,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "Whenever a source you control deals damage to another player, put that many theft counters on Night Dealings.\n{2}{B}{B}, Remove X theft counters from Night Dealings: Search your library for a nonland card with converted mana cost X, reveal it, and put it into your hand. Then shuffle your library.",
       "type": "Enchantment",
       "types": [
@@ -12929,7 +12779,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -13018,7 +12867,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -13109,7 +12957,6 @@
         "DDC"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -13198,7 +13045,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Demon",
         "Spirit"
@@ -13288,7 +13134,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -13377,7 +13222,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Rogue"
@@ -13466,7 +13310,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -13554,7 +13397,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -13642,7 +13484,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "text": "Destroy target Spirit.",
       "type": "Instant",
       "types": [
@@ -13728,7 +13569,6 @@
         "MM2"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -13818,7 +13658,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Demon",
         "Spirit"
@@ -13928,7 +13767,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -14015,7 +13853,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "Target opponent reveals his or her hand. That player exiles a card from it, then you exile a card from it. Repeat this process until all cards in that hand have been exiled. That player returns the cards he or she exiled this way to his or her hand and puts the rest into his or her graveyard.",
       "type": "Sorcery",
       "types": [
@@ -14100,7 +13937,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -14189,7 +14025,6 @@
         "MM2"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -14279,7 +14114,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Ogre",
         "Warrior"
@@ -14370,7 +14204,6 @@
         "MM2"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -14459,7 +14292,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -14555,7 +14387,6 @@
           "text": "The \"activate this ability only once each turn\"; restriction applies even if the creature changes controllers."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Goblin",
         "Warrior"
@@ -14648,7 +14479,6 @@
         "DD3_EVG"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Goblin",
         "Shaman"
@@ -14656,6 +14486,99 @@
       "text": "First strike\n{R}, {T}: Attacking creatures gain first strike until end of turn.",
       "toughness": "2",
       "type": "Creature — Goblin Shaman",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "59860680-a45a-490f-1ce2-c33ee957b631",
+      "artist": "Matt Cavotta",
+      "cmc": 4,
+      "colors": [
+        "red"
+      ],
+      "foreignNames": [
+        {
+          "name": "German",
+          "language": "Akki Lavarunner",
+          "multiverseid": 85793
+        },
+        {
+          "name": "French",
+          "language": "Akki Lavarunner",
+          "multiverseid": 85486
+        },
+        {
+          "name": "Italian",
+          "language": "Akki Lavarunner",
+          "multiverseid": 86100
+        },
+        {
+          "name": "Japanese",
+          "language": "Akki Lavarunner",
+          "multiverseid": 86407
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Akki Lavarunner",
+          "multiverseid": 86714
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "Akki Lavarunner",
+          "multiverseid": 85179
+        },
+        {
+          "name": "Spanish",
+          "language": "Akki Lavarunner",
+          "multiverseid": 87021
+        }
+      ],
+      "layout": "flip",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "manacost": "{3}{R}",
+      "multiverseid": 78694,
+      "name": "Akki Lavarunner",
+      "names": [
+        "Akki Lavarunner",
+        "Tok-Tok, Volcano Born"
+      ],
+      "number": "153a",
+      "originalText": "Haste\nWhenever Akki Lavarunner deals damage to an opponent, flip it.\n-----\nTok-Tok, Volcano Born\nLegendary Creature Goblin Shaman\n2/2\nProtection from red\nIf a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.",
+      "originalType": "Creature - Goblin Warrior",
+      "power": "1",
+      "printings": [
+        "CHK"
+      ],
+      "rarity": "rare",
+      "subTypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "text": "Haste\nWhenever Akki Lavarunner deals damage to an opponent, flip it.\n",
+      "toughness": "1",
+      "type": "Creature — Goblin Warrior",
       "types": [
         "Creature"
       ]
@@ -14742,8 +14665,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Goblin",
         "Shaman"
@@ -14754,101 +14675,6 @@
       "text": "Protection from red\nIf a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.",
       "toughness": "2",
       "type": "Legendary Creature — Goblin Shaman",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
-      "_id": "59860680-a45a-490f-1ce2-c33ee957b631",
-      "artist": "Matt Cavotta",
-      "cmc": 4,
-      "colors": [
-        "red"
-      ],
-      "foreignNames": [
-        {
-          "name": "German",
-          "language": "Akki Lavarunner",
-          "multiverseid": 85793
-        },
-        {
-          "name": "French",
-          "language": "Akki Lavarunner",
-          "multiverseid": 85486
-        },
-        {
-          "name": "Italian",
-          "language": "Akki Lavarunner",
-          "multiverseid": 86100
-        },
-        {
-          "name": "Japanese",
-          "language": "Akki Lavarunner",
-          "multiverseid": 86407
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Akki Lavarunner",
-          "multiverseid": 86714
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "Akki Lavarunner",
-          "multiverseid": 85179
-        },
-        {
-          "name": "Spanish",
-          "language": "Akki Lavarunner",
-          "multiverseid": 87021
-        }
-      ],
-      "layout": "flip",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "manacost": "{3}{R}",
-      "multiverseid": 78694,
-      "name": "Akki Lavarunner",
-      "names": [
-        "Akki Lavarunner",
-        "Tok-Tok, Volcano Born"
-      ],
-      "number": "153",
-      "originalText": "Haste\nWhenever Akki Lavarunner deals damage to an opponent, flip it.\n-----\nTok-Tok, Volcano Born\nLegendary Creature Goblin Shaman\n2/2\nProtection from red\nIf a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.",
-      "originalType": "Creature - Goblin Warrior",
-      "power": "1",
-      "printings": [
-        "CHK"
-      ],
-      "rarity": "rare",
-      "set": "CHK",
-      "special": true,
-      "subTypes": [
-        "Goblin",
-        "Warrior"
-      ],
-      "text": "Haste\nWhenever Akki Lavarunner deals damage to an opponent, flip it.\n",
-      "toughness": "1",
-      "type": "Creature — Goblin Warrior",
       "types": [
         "Creature"
       ]
@@ -14938,7 +14764,6 @@
           "text": "You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase)."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Goblin",
         "Shaman"
@@ -15029,7 +14854,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Goblin",
         "Rogue",
@@ -15121,7 +14945,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -15212,7 +15035,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Goblin",
         "Shaman"
@@ -15305,7 +15127,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -15394,153 +15215,10 @@
         "C13"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "{1}{R}, Sacrifice a creature: Blood Rites deals 2 damage to target creature or player.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
-      ]
-    },
-    {
-      "_id": "620d434b-f48c-47a7-27dc-b507822c94e6",
-      "artist": "Ron Spears",
-      "cmc": 3,
-      "colors": [
-        "red"
-      ],
-      "foreignNames": [
-        {
-          "name": "German",
-          "language": "Yamazaki-Brüder",
-          "multiverseid": 85810
-        },
-        {
-          "name": "German",
-          "language": "Yamazaki-Brüder",
-          "multiverseid": 85809
-        },
-        {
-          "name": "French",
-          "language": "Frères Yamazaki",
-          "multiverseid": 85503
-        },
-        {
-          "name": "French",
-          "language": "Frères Yamazaki",
-          "multiverseid": 85502
-        },
-        {
-          "name": "Italian",
-          "language": "Fratelli Yamazaki",
-          "multiverseid": 86116
-        },
-        {
-          "name": "Italian",
-          "language": "Fratelli Yamazaki",
-          "multiverseid": 86117
-        },
-        {
-          "name": "Japanese",
-          "language": "山崎兄弟",
-          "multiverseid": 86424
-        },
-        {
-          "name": "Japanese",
-          "language": "山崎兄弟",
-          "multiverseid": 86423
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Irmãos Yamazaki",
-          "multiverseid": 86730
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Irmãos Yamazaki",
-          "multiverseid": 86731
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "山崎兄弟",
-          "multiverseid": 85196
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "山崎兄弟",
-          "multiverseid": 85195
-        },
-        {
-          "name": "Spanish",
-          "language": "Hermanos Yamazaki",
-          "multiverseid": 87038
-        },
-        {
-          "name": "Spanish",
-          "language": "Hermanos Yamazaki",
-          "multiverseid": 87037
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "manacost": "{2}{R}",
-      "multiverseid": 78968,
-      "name": "Brothers Yamazaki",
-      "number": "160",
-      "originalText": "Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki in play, the \"legend rule\" doesn't apply to them.\nEach other creature named Brothers Yamazaki gets +2/+2 and has haste.",
-      "originalType": "Legendary Creature - Human Samurai",
-      "power": "2",
-      "printings": [
-        "CHK"
-      ],
-      "rarity": "uncommon",
-      "rulings": [
-        {
-          "date": "2004-12-01",
-          "text": "The two Brothers could be controlled by different players."
-        },
-        {
-          "date": "2004-12-01",
-          "text": "There are two versions of this card, each with different art. The cards are numbered 160a/306 and 160b/306. The art has no effect on game play."
-        },
-        {
-          "date": "2013-07-01",
-          "text": "If a third Brothers Yamazaki enters the battlefield, the legend rule will apply. If one player controls more than one Brothers Yamazaki at that time, that player will have choose one and put the rest into his or her graveyard."
-        }
-      ],
-      "set": "CHK",
-      "subTypes": [
-        "Human",
-        "Samurai"
-      ],
-      "superTypes": [
-        "Legendary"
-      ],
-      "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki on the battlefield, the \"legend rule\" doesn't apply to them.\nEach other creature named Brothers Yamazaki gets +2/+2 and has haste.",
-      "toughness": "1",
-      "type": "Legendary Creature — Human Samurai",
-      "types": [
-        "Creature"
       ]
     },
     {
@@ -15670,7 +15348,147 @@
           "text": "If a third Brothers Yamazaki enters the battlefield, the legend rule will apply. If one player controls more than one Brothers Yamazaki at that time, that player will have choose one and put the rest into his or her graveyard."
         }
       ],
-      "set": "CHK",
+      "subTypes": [
+        "Human",
+        "Samurai"
+      ],
+      "superTypes": [
+        "Legendary"
+      ],
+      "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki on the battlefield, the \"legend rule\" doesn't apply to them.\nEach other creature named Brothers Yamazaki gets +2/+2 and has haste.",
+      "toughness": "1",
+      "type": "Legendary Creature — Human Samurai",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "620d434b-f48c-47a7-27dc-b507822c94e6",
+      "artist": "Ron Spears",
+      "cmc": 3,
+      "colors": [
+        "red"
+      ],
+      "foreignNames": [
+        {
+          "name": "German",
+          "language": "Yamazaki-Brüder",
+          "multiverseid": 85810
+        },
+        {
+          "name": "German",
+          "language": "Yamazaki-Brüder",
+          "multiverseid": 85809
+        },
+        {
+          "name": "French",
+          "language": "Frères Yamazaki",
+          "multiverseid": 85503
+        },
+        {
+          "name": "French",
+          "language": "Frères Yamazaki",
+          "multiverseid": 85502
+        },
+        {
+          "name": "Italian",
+          "language": "Fratelli Yamazaki",
+          "multiverseid": 86116
+        },
+        {
+          "name": "Italian",
+          "language": "Fratelli Yamazaki",
+          "multiverseid": 86117
+        },
+        {
+          "name": "Japanese",
+          "language": "山崎兄弟",
+          "multiverseid": 86424
+        },
+        {
+          "name": "Japanese",
+          "language": "山崎兄弟",
+          "multiverseid": 86423
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Irmãos Yamazaki",
+          "multiverseid": 86730
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Irmãos Yamazaki",
+          "multiverseid": 86731
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "山崎兄弟",
+          "multiverseid": 85196
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "山崎兄弟",
+          "multiverseid": 85195
+        },
+        {
+          "name": "Spanish",
+          "language": "Hermanos Yamazaki",
+          "multiverseid": 87038
+        },
+        {
+          "name": "Spanish",
+          "language": "Hermanos Yamazaki",
+          "multiverseid": 87037
+        }
+      ],
+      "layout": "normal",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "manacost": "{2}{R}",
+      "multiverseid": 78968,
+      "name": "Brothers Yamazaki",
+      "number": "160",
+      "originalText": "Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki in play, the \"legend rule\" doesn't apply to them.\nEach other creature named Brothers Yamazaki gets +2/+2 and has haste.",
+      "originalType": "Legendary Creature - Human Samurai",
+      "power": "2",
+      "printings": [
+        "CHK"
+      ],
+      "rarity": "uncommon",
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "The two Brothers could be controlled by different players."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "There are two versions of this card, each with different art. The cards are numbered 160a/306 and 160b/306. The art has no effect on game play."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If a third Brothers Yamazaki enters the battlefield, the legend rule will apply. If one player controls more than one Brothers Yamazaki at that time, that player will have choose one and put the rest into his or her graveyard."
+        }
+      ],
       "subTypes": [
         "Human",
         "Samurai"
@@ -15763,7 +15581,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -15852,7 +15669,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -15962,7 +15778,6 @@
           "text": "Desperate Ritual isn't a mana ability. When cast, it (or the spell it's spliced onto) goes on the stack like any spell and can be responded to."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -16049,7 +15864,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -16138,7 +15952,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -16228,7 +16041,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Zubera",
         "Spirit"
@@ -16324,7 +16136,6 @@
           "text": "Frostwielder must be on the battlefield when the creature would be put into a graveyard in order to exile it."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Shaman"
@@ -16432,7 +16243,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -16526,7 +16336,6 @@
           "text": "Unlike other effects that grant additional combat phases, you don't get an additional main phase with Godo, Bandit Warlord. The additional combat phase happens immediately after the first combat phase."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Barbarian"
@@ -16625,7 +16434,6 @@
           "text": "If another player casts a Hanabi Blast that you own, it returns to your hand, and then that player discards a card at random."
         }
       ],
-      "set": "CHK",
       "text": "Hanabi Blast deals 2 damage to target creature or player. Return Hanabi Blast to its owner's hand, then discard a card at random.",
       "type": "Instant",
       "types": [
@@ -16711,7 +16519,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -16801,7 +16608,6 @@
         "EMA"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Shrine"
       ],
@@ -16812,6 +16618,99 @@
       "type": "Legendary Enchantment — Shrine",
       "types": [
         "Enchantment"
+      ]
+    },
+    {
+      "_id": "dd327ba7-e183-4bfb-aeb5-e90a91d1c87b",
+      "artist": "Carl Critchlow",
+      "cmc": 4,
+      "colors": [
+        "red"
+      ],
+      "foreignNames": [
+        {
+          "name": "German",
+          "language": "Initiate of Blood",
+          "multiverseid": 85897
+        },
+        {
+          "name": "French",
+          "language": "Initiate of Blood",
+          "multiverseid": 85590
+        },
+        {
+          "name": "Italian",
+          "language": "Initiate of Blood",
+          "multiverseid": 86204
+        },
+        {
+          "name": "Japanese",
+          "language": "Initiate of Blood",
+          "multiverseid": 86511
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Initiate of Blood",
+          "multiverseid": 86818
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "Initiate of Blood",
+          "multiverseid": 85283
+        },
+        {
+          "name": "Spanish",
+          "language": "Initiate of Blood",
+          "multiverseid": 87125
+        }
+      ],
+      "layout": "flip",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "manacost": "{3}{R}",
+      "multiverseid": 78688,
+      "name": "Initiate of Blood",
+      "names": [
+        "Initiate of Blood",
+        "Goka the Unjust"
+      ],
+      "number": "173a",
+      "originalText": "{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature is put into a graveyard this turn, flip Initiate of Blood.\n-----\nGoka the Unjust\nLegendary Creature Ogre Shaman\n4/4\n{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.",
+      "originalType": "Creature - Ogre Shaman",
+      "power": "2",
+      "printings": [
+        "CHK"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Ogre",
+        "Shaman"
+      ],
+      "text": "{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.\n",
+      "toughness": "2",
+      "type": "Creature — Ogre Shaman",
+      "types": [
+        "Creature"
       ]
     },
     {
@@ -16896,8 +16795,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Ogre",
         "Shaman"
@@ -16908,101 +16805,6 @@
       "text": "{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.",
       "toughness": "4",
       "type": "Legendary Creature — Ogre Shaman",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
-      "_id": "dd327ba7-e183-4bfb-aeb5-e90a91d1c87b",
-      "artist": "Carl Critchlow",
-      "cmc": 4,
-      "colors": [
-        "red"
-      ],
-      "foreignNames": [
-        {
-          "name": "German",
-          "language": "Initiate of Blood",
-          "multiverseid": 85897
-        },
-        {
-          "name": "French",
-          "language": "Initiate of Blood",
-          "multiverseid": 85590
-        },
-        {
-          "name": "Italian",
-          "language": "Initiate of Blood",
-          "multiverseid": 86204
-        },
-        {
-          "name": "Japanese",
-          "language": "Initiate of Blood",
-          "multiverseid": 86511
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Initiate of Blood",
-          "multiverseid": 86818
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "Initiate of Blood",
-          "multiverseid": 85283
-        },
-        {
-          "name": "Spanish",
-          "language": "Initiate of Blood",
-          "multiverseid": 87125
-        }
-      ],
-      "layout": "flip",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "manacost": "{3}{R}",
-      "multiverseid": 78688,
-      "name": "Initiate of Blood",
-      "names": [
-        "Initiate of Blood",
-        "Goka the Unjust"
-      ],
-      "number": "173",
-      "originalText": "{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature is put into a graveyard this turn, flip Initiate of Blood.\n-----\nGoka the Unjust\nLegendary Creature Ogre Shaman\n4/4\n{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.",
-      "originalType": "Creature - Ogre Shaman",
-      "power": "2",
-      "printings": [
-        "CHK"
-      ],
-      "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
-      "subTypes": [
-        "Ogre",
-        "Shaman"
-      ],
-      "text": "{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.\n",
-      "toughness": "2",
-      "type": "Creature — Ogre Shaman",
       "types": [
         "Creature"
       ]
@@ -17086,7 +16888,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -17188,7 +16989,6 @@
           "text": "Haste is part of the token's copiable values. Copies of that token will also have haste."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Goblin",
         "Shaman"
@@ -17291,7 +17091,6 @@
           "text": "If a creature dealt damage by Kumano this turn would be put into a graveyard, exile it, even if it's going to the graveyard at the same time as Kumano."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Shaman"
@@ -17395,7 +17194,6 @@
           "text": "Kumano's Pupils must be on the battlefield when the creature would be put into a graveyard in order to exile it."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Shaman"
@@ -17486,7 +17284,6 @@
         "MMA"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -17574,7 +17371,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "Sacrifice any number of lands, then add that much {C} to your mana pool.",
       "type": "Sorcery",
       "types": [
@@ -17658,7 +17454,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "Name a nonland card and choose a number greater than 0. Target player reveals his or her library. If that library contains exactly the chosen number of the named card, Mindblaze deals 8 damage to that player. Then that player shuffles his or her library.",
       "type": "Sorcery",
       "types": [
@@ -17749,7 +17544,6 @@
           "text": "In a Commander game where this card is your commander, casting it from the Command zone does not count as casting it from your hand."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -17842,7 +17636,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -17932,7 +17725,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -18022,7 +17814,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Samurai"
@@ -18115,7 +17906,6 @@
         "MMA"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Dragon",
         "Spirit"
@@ -18215,7 +18005,6 @@
           "text": "You sacrifice the permanents before Shimatsu enters the battlefield, so you can't sacrifice any creatures that enter the battlefield at the same time it does."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Demon",
         "Spirit"
@@ -18308,7 +18097,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "You may change any targets of target Arcane spell.",
       "type": "Instant",
       "types": [
@@ -18394,7 +18182,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Ogre",
         "Warrior"
@@ -18485,7 +18272,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -18574,7 +18360,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "As an additional cost to cast Soulblast, sacrifice all creatures you control.\nSoulblast deals damage to target creature or player equal to the total power of the sacrificed creatures.",
       "type": "Instant",
       "types": [
@@ -18694,7 +18479,6 @@
         "PK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "text": "Destroy target land.",
       "type": "Sorcery",
       "types": [
@@ -18804,7 +18588,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -18913,7 +18696,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -19014,7 +18796,6 @@
           "text": "Even if the blockers are sacrificed, any attackers that were blocked are still considered blocked."
         }
       ],
-      "set": "CHK",
       "text": "Whenever one or more creatures block, flip a coin. If you win the flip, each blocking creature is sacrificed by its controller. If you lose the flip, each blocked creature is sacrificed by its controller.",
       "type": "Enchantment",
       "types": [
@@ -19101,7 +18882,6 @@
         "CNS"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -19189,7 +18969,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -19277,7 +19056,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -19364,7 +19142,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "text": "Yamabushi's Flame deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.",
       "type": "Instant",
       "types": [
@@ -19448,7 +19225,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "text": "Yamabushi's Storm deals 1 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.",
       "type": "Sorcery",
       "types": [
@@ -19534,7 +19310,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Goblin",
         "Warrior"
@@ -19628,7 +19403,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Monk"
@@ -19717,7 +19491,7 @@
         "Budoka Gardener",
         "Dokai, Weaver of Life"
       ],
-      "number": "202",
+      "number": "202a",
       "originalText": "{T}: You may put a land card from your hand into play. If you control ten or more lands, flip Budoka Gardener.\n-----\nDokai, Weaver of Life\nLegendary Creature Human Monk\n3/3\n{4}{G}{G}, {T}: Put an X/X green Elemental creature token into play, where X is the number of lands you control.",
       "originalType": "Creature - Human Monk",
       "power": "2",
@@ -19735,8 +19509,6 @@
           "text": "Budoka Gardener flips even if you put a second copy of a legendary land onto the battlefield. You'll have ten lands on the battlefield while the ability is resolving, so the Gardener flips. Then you will choose one of the legendary lands to keep and put the other into its owner's graveyard as a state-based action."
         }
       ],
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Human",
         "Monk"
@@ -19830,8 +19602,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Human",
         "Monk"
@@ -19924,7 +19694,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -20020,7 +19789,6 @@
           "text": "If you don't reveal a creature card, put all the revealed cards on the bottom of your library in any order."
         }
       ],
-      "set": "CHK",
       "text": "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
       "type": "Sorcery",
       "types": [
@@ -20112,7 +19880,6 @@
           "text": "Dosan's ability only stops players from casting spells. It doesn't stop activated or triggered abilities."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Monk"
@@ -20206,7 +19973,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Zubera",
         "Spirit"
@@ -20296,7 +20062,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -20384,7 +20149,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -20473,7 +20237,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "Gale Force deals 5 damage to each creature with flying.",
       "type": "Sorcery",
       "types": [
@@ -20558,7 +20321,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "Whenever you cast a creature spell this turn, draw a card.",
       "type": "Sorcery",
       "types": [
@@ -20645,7 +20407,6 @@
         "MMA"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -20734,7 +20495,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.",
       "type": "Enchantment",
       "types": [
@@ -20820,7 +20580,6 @@
         "EMA"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Shrine"
       ],
@@ -20912,7 +20671,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Monk"
@@ -21021,7 +20779,6 @@
           "text": "In a Commander game, you may send Iname to the Command Zone instead of exiling it during the resolution of its ability. If you do, its ability still works. Iname's ability only requires that you attempted to exile it, not that it actually gets to the exile zone. This is similar to how destroying a creature (with, for example, Rest in Peace) doesn't necessarily ensure that creature will end up in the graveyard; it just so happens that the action of exiling something and the exile zone both use the same word: \"exile\";."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -21113,7 +20870,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -21208,7 +20964,6 @@
           "text": "You announce the target creatures and how you're distributing the +1/+1 counters as you put the triggered ability on the stack. If one of the target creatures becomes illegal, you can't change how the counters will be distributed."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Dragon",
         "Spirit"
@@ -21302,7 +21057,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Monk"
@@ -21393,7 +21147,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -21482,7 +21235,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Warrior"
@@ -21573,7 +21325,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Warrior"
@@ -21664,7 +21415,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -21757,7 +21507,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -21866,7 +21615,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -21963,7 +21711,6 @@
           "text": "You can get just one basic land card if you wish (or even none at all). If you get only one land card, you put it onto the battlefield tapped."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -22086,7 +21833,6 @@
           "text": "The opponent does not have to activate any abilities in an attempt to make his or her creatures block. More specifically, a cost to block of zero mana is an optional cost you can choose not to pay."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -22174,7 +21920,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Warrior"
@@ -22265,7 +22010,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -22360,7 +22104,6 @@
           "text": "In a Commander game where this card is your commander, casting it from the Command zone does not count as casting it from your hand."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -22458,7 +22201,6 @@
           "text": "The lands are tapped and untapped once each time combat damage is dealt (usually once each turn, but first strike, double strike, and multiple combat phases can change that), not once for each creature that deals combat damage."
         }
       ],
-      "set": "CHK",
       "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control.",
       "type": "Enchantment",
       "types": [
@@ -22543,7 +22285,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -22633,7 +22374,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Human",
         "Monk"
@@ -22726,8 +22466,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Snake",
         "Shaman"
@@ -22816,7 +22554,7 @@
         "Orochi Eggwatcher",
         "Shidako, Broodmistress"
       ],
-      "number": "233",
+      "number": "233a",
       "originalText": "{2}{G}, {T}: Put a 1/1 green Snake creature token into play. If you control ten or more creatures, flip Orochi Eggwatcher.\n-----\nShidako, Broodmistress\nLegendary Creature Snake Shaman\n3/3\n{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn.",
       "originalType": "Creature - Snake Shaman",
       "power": "1",
@@ -22824,8 +22562,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
-      "special": true,
       "subTypes": [
         "Snake",
         "Shaman"
@@ -22916,7 +22652,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Shaman"
@@ -23007,7 +22742,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Warrior"
@@ -23098,7 +22832,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Shaman"
@@ -23188,7 +22921,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -23278,7 +23010,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Shaman"
@@ -23377,7 +23108,6 @@
         "C15"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Shaman"
@@ -23466,7 +23196,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Aura"
       ],
@@ -23555,7 +23284,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Monk"
@@ -23648,7 +23376,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Warrior"
@@ -23748,7 +23475,6 @@
           "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -23837,7 +23563,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Snake",
         "Warrior"
@@ -23930,7 +23655,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -24018,7 +23742,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -24107,7 +23830,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "Search your library for a legendary creature card, reveal it, and put it into your hand. Then shuffle your library.",
       "type": "Sorcery",
       "types": [
@@ -24192,7 +23914,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -24281,7 +24002,6 @@
         "CHK"
       ],
       "rarity": "common",
-      "set": "CHK",
       "subTypes": [
         "Spirit"
       ],
@@ -24387,7 +24107,6 @@
           "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Arcane"
       ],
@@ -24471,7 +24190,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Equipment"
       ],
@@ -24556,7 +24274,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "Tap an untapped creature you control: Target player puts the top card of his or her library into his or her graveyard.",
       "type": "Artifact",
       "types": [
@@ -24637,7 +24354,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Equipment"
       ],
@@ -24722,7 +24438,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "{T}: Add {C} to your mana pool.\nTap an untapped legendary permanent you control: Untap Honor-Worn Shaku.",
       "type": "Artifact",
       "types": [
@@ -24804,7 +24519,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "Players can't untap more than one artifact during their untap steps.",
       "type": "Artifact",
       "types": [
@@ -24892,7 +24606,6 @@
           "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
         }
       ],
-      "set": "CHK",
       "text": "Whenever you cast a Spirit or Arcane spell, Jade Idol becomes a 4/4 Spirit artifact creature until end of turn.",
       "type": "Artifact",
       "types": [
@@ -24976,7 +24689,6 @@
         "DDI"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "{3}, {T}: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.",
       "type": "Artifact",
       "types": [
@@ -25057,7 +24769,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "At the beginning of your upkeep, you may have target creature you control get +X/+X until end of turn, where X is the number of creatures you control. If you do, sacrifice that creature at the beginning of the next end step.",
       "type": "Artifact",
       "types": [
@@ -25153,7 +24864,6 @@
           "text": "The equipped creature shares a creature type with itself, as long as it has one or more creature types. \"Artifact\"; is not a creature type."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Equipment"
       ],
@@ -25240,7 +24950,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Equipment"
       ],
@@ -25332,7 +25041,6 @@
           "text": "The cost reduction applies to the total cost of the Arcane spell, including any additional costs from cards spliced onto it. However, the cost reduction applies only once to each Arcane spell. For example, if you cast an Arcane spell with mana cost {R} and splice onto it a card whose splice cost is {1}{U}, then the spell costs {U}{R} to cast. If you cast an Arcane spell with mana cost {4}{U} and splice onto it a card whose splice cost is {1}{R}, the spell costs {4}{U}{R} to cast."
         }
       ],
-      "set": "CHK",
       "text": "Arcane spells you cast cost {1} less to cast.\nSpirit creatures you control get +1/+1.",
       "type": "Artifact",
       "types": [
@@ -25423,7 +25131,6 @@
           "text": "If you choose to use Moonring Mirror's second ability, you return all the cards you own exiled by both of its abilities, but not any of the cards you just exiled from your hand."
         }
       ],
-      "set": "CHK",
       "text": "Whenever you draw a card, exile the top card of your library face down.\nAt the beginning of your upkeep, you may exile all cards from your hand face down. If you do, put all other cards you own exiled with Moonring Mirror into your hand.",
       "type": "Artifact",
       "types": [
@@ -25511,7 +25218,6 @@
           "text": "The damaged creature will be exiled even if Nine-Ringed Bo isn't on the battlefield when that creature would be put into a graveyard."
         }
       ],
-      "set": "CHK",
       "text": "{T}: Nine-Ringed Bo deals 1 damage to target Spirit creature. If that creature would die this turn, exile it instead.",
       "type": "Artifact",
       "types": [
@@ -25594,7 +25300,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Equipment"
       ],
@@ -25684,7 +25389,6 @@
           "text": "Oathkeeper's second ability checks whether the card's creature type is Samurai, not whether the creature was a Samurai when it left the battlefield."
         }
       ],
-      "set": "CHK",
       "subTypes": [
         "Equipment"
       ],
@@ -25772,7 +25476,6 @@
         "C15"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "Orochi Hatchery enters the battlefield with X charge counters on it.\n{5}, {T}: Create a 1/1 green Snake creature token for each charge counter on Orochi Hatchery.",
       "type": "Artifact",
       "types": [
@@ -25856,7 +25559,6 @@
         "CNS"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "{3}: Put target card from a graveyard on the bottom of its owner's library.",
       "type": "Artifact",
       "types": [
@@ -25949,7 +25651,6 @@
           "text": "If Sensei's Divining Top leaves the battlefield while its second ability is on the stack, you'll draw a card and leave Sensei's Divining Top in the zone it's moved to."
         }
       ],
-      "set": "CHK",
       "text": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.",
       "type": "Artifact",
       "types": [
@@ -26040,7 +25741,6 @@
           "text": "Exiling a spell prevents that spell from resolving, but it doesn't technically \"counter\"; anything. This means that Shell of the Last Kappa can exile spells which \"can't be countered.\";"
         }
       ],
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -26124,7 +25824,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "subTypes": [
         "Equipment"
       ],
@@ -26211,7 +25910,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "subTypes": [
         "Equipment"
       ],
@@ -26308,7 +26006,6 @@
           "text": "Any cards you don't play just remain exiled when the turn ends."
         }
       ],
-      "set": "CHK",
       "text": "If a player would draw a card, that player exiles that card face up instead.\nEach player may play cards he or she exiled with Uba Mask this turn.",
       "type": "Artifact",
       "types": [
@@ -26398,7 +26095,6 @@
           "text": "Suppose mana produced by Boseiju is spent on a spell and an effect creates a copy of that spell. The copy can be countered, even though the original can't."
         }
       ],
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -26480,7 +26176,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "{T}: Add {C} to your mana pool.\n{T}: Add {W} or {U} to your mana pool. Cloudcrest Lake doesn't untap during your next untap step.",
       "type": "Land",
       "types": [
@@ -26560,7 +26255,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -26644,7 +26338,6 @@
         "EXP"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "text": "{T}: Add one mana of any color to your mana pool.\nWhenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token.",
       "type": "Land",
       "types": [
@@ -26733,7 +26426,6 @@
           "text": "The effect that grants haste doesn't wear off at end of turn."
         }
       ],
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -26815,7 +26507,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "{T}: Add {C} to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Lantern-Lit Graveyard doesn't untap during your next untap step.",
       "type": "Land",
       "types": [
@@ -26895,7 +26586,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -26978,7 +26668,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -27060,7 +26749,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "{T}: Add {C} to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Pinecrest Ridge doesn't untap during your next untap step.",
       "type": "Land",
       "types": [
@@ -27140,7 +26828,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -27223,7 +26910,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -27305,7 +26991,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "{T}: Add {C} to your mana pool.\n{T}: Add {G} or {W} to your mana pool. Tranquil Garden doesn't untap during your next untap step.",
       "type": "Land",
       "types": [
@@ -27385,7 +27070,6 @@
         "CHK"
       ],
       "rarity": "rare",
-      "set": "CHK",
       "superTypes": [
         "Legendary"
       ],
@@ -27467,7 +27151,6 @@
         "CHK"
       ],
       "rarity": "uncommon",
-      "set": "CHK",
       "text": "{T}: Add {C} to your mana pool.\n{T}: Add {U} or {B} to your mana pool. Waterveil Cavern doesn't untap during your next untap step.",
       "type": "Land",
       "types": [
@@ -27826,7 +27509,6 @@
         "DDC",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Plains"
       ],
@@ -28191,7 +27873,6 @@
         "DDC",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Plains"
       ],
@@ -28556,7 +28237,6 @@
         "DDC",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Plains"
       ],
@@ -28921,7 +28601,6 @@
         "DDC",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Plains"
       ],
@@ -29284,7 +28963,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Island"
       ],
@@ -29647,7 +29325,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Island"
       ],
@@ -30010,7 +29687,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Island"
       ],
@@ -30373,7 +30049,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Island"
       ],
@@ -30740,7 +30415,6 @@
         "DDC",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Swamp"
       ],
@@ -31107,7 +30781,6 @@
         "DDC",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Swamp"
       ],
@@ -31474,7 +31147,6 @@
         "DDC",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Swamp"
       ],
@@ -31841,7 +31513,6 @@
         "DDC",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Swamp"
       ],
@@ -32208,7 +31879,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Mountain"
       ],
@@ -32575,7 +32245,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Mountain"
       ],
@@ -32942,7 +32611,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Mountain"
       ],
@@ -33309,7 +32977,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Mountain"
       ],
@@ -33674,7 +33341,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Forest"
       ],
@@ -34039,7 +33705,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Forest"
       ],
@@ -34404,7 +34069,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Forest"
       ],
@@ -34769,7 +34433,6 @@
         "ME3",
         "H09"
       ],
-      "set": "CHK",
       "subTypes": [
         "Forest"
       ],
