@@ -2432,7 +2432,7 @@
           "multiverseid": 401198
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -2586,7 +2586,7 @@
           "multiverseid": 401199
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -6532,118 +6532,6 @@
       ]
     },
     {
-      "_id": "4ec260af-dd90-4f31-20a8-4e0261c07b75",
-      "artist": "Jaime Jones",
-      "cmc": 2,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "通念傑斯",
-          "multiverseid": 398989
-        },
-        {
-          "name": "German",
-          "language": "Jace, der entfesselte Telepath",
-          "multiverseid": 399266
-        },
-        {
-          "name": "French",
-          "language": "Jace, télépathe libéré",
-          "multiverseid": 399543
-        },
-        {
-          "name": "Italian",
-          "language": "Jace, Telepate Libero da Vincoli",
-          "multiverseid": 399820
-        },
-        {
-          "name": "Japanese",
-          "language": "束縛なきテレパス、ジェイス",
-          "multiverseid": 400097
-        },
-        {
-          "name": "Korean",
-          "language": "해방된 정신술사 제이스",
-          "multiverseid": 400374
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Jace, Telepata Ilimitado",
-          "multiverseid": 400651
-        },
-        {
-          "name": "Russian",
-          "language": "Джейс, Вольный Телепат",
-          "multiverseid": 400928
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "通念杰斯",
-          "multiverseid": 398712
-        },
-        {
-          "name": "Spanish",
-          "language": "Jace, telépata desenfrenado",
-          "multiverseid": 401205
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "loyalty": 5,
-      "multiverseid": 398435,
-      "name": "Jace, Telepath Unbound",
-      "names": [
-        "Jace, Vryn's Prodigy",
-        "Jace, Telepath Unbound"
-      ],
-      "number": "60b",
-      "originalText": "{T}: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn's Prodigy, then return him to the battlefield transformed under his owner's control.",
-      "originalType": "Legendary Creature — Human Wizard",
-      "printings": [
-        "ORI"
-      ],
-      "rarity": "mythic rare",
-      "rulings": [
-        {
-          "date": "2015-06-22",
-          "text": "If you activate the second ability of Jace, Telepath Unbound, you must follow the timing rules for the card's types. For example, if you target a sorcery card, you may cast it during your main phase when the stack is empty. You pay all the spell's costs."
-        },
-        {
-          "date": "2015-06-22",
-          "text": "If you don't cast the card that turn, nothing happens. It remains in your graveyard."
-        },
-        {
-          "date": "2015-06-22",
-          "text": "The card is exiled only if it's cast from the graveyard and put back into the graveyard (either by resolving or being countered). If, at any time, the card goes to a hidden zone (such as your hand or your library), the effect loses track of the card. It won't be exiled, even if that card is put into your graveyard later that turn."
-        }
-      ],
-      "subTypes": [
-        "Jace"
-      ],
-      "text": "+1: Up to one target creature gets -2/-0 until your next turn.\n−3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.\n−9: You get an emblem with \"Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.\"",
-      "type": "Planeswalker — Jace",
-      "types": [
-        "Planeswalker"
-      ]
-    },
-    {
       "_id": "f44bab75-896b-496c-25bb-8d2540e469a3",
       "artist": "Jaime Jones",
       "cmc": 2,
@@ -6703,7 +6591,7 @@
           "multiverseid": 401204
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -6803,6 +6691,118 @@
       "type": "Legendary Creature — Human Wizard",
       "types": [
         "Creature"
+      ]
+    },
+    {
+      "_id": "4ec260af-dd90-4f31-20a8-4e0261c07b75",
+      "artist": "Jaime Jones",
+      "cmc": 2,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "通念傑斯",
+          "multiverseid": 398989
+        },
+        {
+          "name": "German",
+          "language": "Jace, der entfesselte Telepath",
+          "multiverseid": 399266
+        },
+        {
+          "name": "French",
+          "language": "Jace, télépathe libéré",
+          "multiverseid": 399543
+        },
+        {
+          "name": "Italian",
+          "language": "Jace, Telepate Libero da Vincoli",
+          "multiverseid": 399820
+        },
+        {
+          "name": "Japanese",
+          "language": "束縛なきテレパス、ジェイス",
+          "multiverseid": 400097
+        },
+        {
+          "name": "Korean",
+          "language": "해방된 정신술사 제이스",
+          "multiverseid": 400374
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Jace, Telepata Ilimitado",
+          "multiverseid": 400651
+        },
+        {
+          "name": "Russian",
+          "language": "Джейс, Вольный Телепат",
+          "multiverseid": 400928
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "通念杰斯",
+          "multiverseid": 398712
+        },
+        {
+          "name": "Spanish",
+          "language": "Jace, telépata desenfrenado",
+          "multiverseid": 401205
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 5,
+      "multiverseid": 398435,
+      "name": "Jace, Telepath Unbound",
+      "names": [
+        "Jace, Vryn's Prodigy",
+        "Jace, Telepath Unbound"
+      ],
+      "number": "60b",
+      "originalText": "{T}: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn's Prodigy, then return him to the battlefield transformed under his owner's control.",
+      "originalType": "Legendary Creature — Human Wizard",
+      "printings": [
+        "ORI"
+      ],
+      "rarity": "mythic rare",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "If you activate the second ability of Jace, Telepath Unbound, you must follow the timing rules for the card's types. For example, if you target a sorcery card, you may cast it during your main phase when the stack is empty. You pay all the spell's costs."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If you don't cast the card that turn, nothing happens. It remains in your graveyard."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The card is exiled only if it's cast from the graveyard and put back into the graveyard (either by resolving or being countered). If, at any time, the card goes to a hidden zone (such as your hand or your library), the effect loses track of the card. It won't be exiled, even if that card is put into your graveyard later that turn."
+        }
+      ],
+      "subTypes": [
+        "Jace"
+      ],
+      "text": "+1: Up to one target creature gets -2/-0 until your next turn.\n−3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.\n−9: You get an emblem with \"Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.\"",
+      "type": "Planeswalker — Jace",
+      "types": [
+        "Planeswalker"
       ]
     },
     {
@@ -11696,110 +11696,6 @@
       ]
     },
     {
-      "_id": "8e939aaf-5342-4eca-bec6-0afcbbe0c398",
-      "artist": "Karla Ortiz",
-      "cmc": 3,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "無畏死靈術士莉蓮娜",
-          "multiverseid": 398996
-        },
-        {
-          "name": "German",
-          "language": "Liliana, die abtrünnige Nekromagierin",
-          "multiverseid": 399273
-        },
-        {
-          "name": "French",
-          "language": "Liliana, nécromancienne provocatrice",
-          "multiverseid": 399550
-        },
-        {
-          "name": "Italian",
-          "language": "Liliana, Necromante Audace",
-          "multiverseid": 399827
-        },
-        {
-          "name": "Japanese",
-          "language": "反抗する屍術師、リリアナ",
-          "multiverseid": 400104
-        },
-        {
-          "name": "Korean",
-          "language": "반항적인 사령술사 릴리아나",
-          "multiverseid": 400381
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Liliana, Necromante Insolente",
-          "multiverseid": 400658
-        },
-        {
-          "name": "Russian",
-          "language": "Лилиана, Дерзкий Некромант",
-          "multiverseid": 400935
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "无畏死灵术士莉莲娜",
-          "multiverseid": 398719
-        },
-        {
-          "name": "Spanish",
-          "language": "Liliana, nigromante orgullosa",
-          "multiverseid": 401212
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "loyalty": 3,
-      "multiverseid": 398442,
-      "name": "Liliana, Defiant Necromancer",
-      "names": [
-        "Liliana, Heretical Healer",
-        "Liliana, Defiant Necromancer"
-      ],
-      "number": "106b",
-      "originalText": "LifelinkWhenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, put a 2/2 black Zombie creature token onto the battlefield.",
-      "originalType": "Legendary Creature — Human Cleric",
-      "printings": [
-        "ORI"
-      ],
-      "rarity": "mythic rare",
-      "rulings": [
-        {
-          "date": "2015-06-22",
-          "text": "When Liliana, Defiant Necromancer's first ability resolves, first you choose a card to discard, then each other player in turn order chooses a card to discard, then all those cards are discarded simultaneously. No one sees what the other players are discarding before deciding which card to discard."
-        }
-      ],
-      "subTypes": [
-        "Liliana"
-      ],
-      "text": "+2: Each player discards a card.\n−X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.\n−8: You get an emblem with \"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.\"",
-      "type": "Planeswalker — Liliana",
-      "types": [
-        "Planeswalker"
-      ]
-    },
-    {
       "_id": "23a506b9-d73f-4a29-9d15-a90135ac45b4",
       "artist": "Karla Ortiz",
       "cmc": 3,
@@ -11858,7 +11754,7 @@
           "multiverseid": 401211
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -11954,6 +11850,110 @@
       "type": "Legendary Creature — Human Cleric",
       "types": [
         "Creature"
+      ]
+    },
+    {
+      "_id": "8e939aaf-5342-4eca-bec6-0afcbbe0c398",
+      "artist": "Karla Ortiz",
+      "cmc": 3,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "無畏死靈術士莉蓮娜",
+          "multiverseid": 398996
+        },
+        {
+          "name": "German",
+          "language": "Liliana, die abtrünnige Nekromagierin",
+          "multiverseid": 399273
+        },
+        {
+          "name": "French",
+          "language": "Liliana, nécromancienne provocatrice",
+          "multiverseid": 399550
+        },
+        {
+          "name": "Italian",
+          "language": "Liliana, Necromante Audace",
+          "multiverseid": 399827
+        },
+        {
+          "name": "Japanese",
+          "language": "反抗する屍術師、リリアナ",
+          "multiverseid": 400104
+        },
+        {
+          "name": "Korean",
+          "language": "반항적인 사령술사 릴리아나",
+          "multiverseid": 400381
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Liliana, Necromante Insolente",
+          "multiverseid": 400658
+        },
+        {
+          "name": "Russian",
+          "language": "Лилиана, Дерзкий Некромант",
+          "multiverseid": 400935
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "无畏死灵术士莉莲娜",
+          "multiverseid": 398719
+        },
+        {
+          "name": "Spanish",
+          "language": "Liliana, nigromante orgullosa",
+          "multiverseid": 401212
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 3,
+      "multiverseid": 398442,
+      "name": "Liliana, Defiant Necromancer",
+      "names": [
+        "Liliana, Heretical Healer",
+        "Liliana, Defiant Necromancer"
+      ],
+      "number": "106b",
+      "originalText": "LifelinkWhenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, put a 2/2 black Zombie creature token onto the battlefield.",
+      "originalType": "Legendary Creature — Human Cleric",
+      "printings": [
+        "ORI"
+      ],
+      "rarity": "mythic rare",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "When Liliana, Defiant Necromancer's first ability resolves, first you choose a card to discard, then each other player in turn order chooses a card to discard, then all those cards are discarded simultaneously. No one sees what the other players are discarding before deciding which card to discard."
+        }
+      ],
+      "subTypes": [
+        "Liliana"
+      ],
+      "text": "+2: Each player discards a card.\n−X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.\n−8: You get an emblem with \"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.\"",
+      "type": "Planeswalker — Liliana",
+      "types": [
+        "Planeswalker"
       ]
     },
     {
@@ -15044,7 +15044,7 @@
           "multiverseid": 401192
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -15202,7 +15202,7 @@
           "multiverseid": 401193
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -20913,118 +20913,6 @@
       ]
     },
     {
-      "_id": "9526c68d-e493-4c53-27ca-12504cacd7ae",
-      "artist": "Wesley Burt",
-      "cmc": 3,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "物靈智者妮莎",
-          "multiverseid": 398986
-        },
-        {
-          "name": "German",
-          "language": "Nissa, die weise Animistin",
-          "multiverseid": 399263
-        },
-        {
-          "name": "French",
-          "language": "Nissa, sage animiste",
-          "multiverseid": 399540
-        },
-        {
-          "name": "Italian",
-          "language": "Nissa, Saggia Animista",
-          "multiverseid": 399817
-        },
-        {
-          "name": "Japanese",
-          "language": "精霊信者の賢人、ニッサ",
-          "multiverseid": 400094
-        },
-        {
-          "name": "Korean",
-          "language": "현명한 정령숭배자 니사",
-          "multiverseid": 400371
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Nissa, Sábia Animista",
-          "multiverseid": 400648
-        },
-        {
-          "name": "Russian",
-          "language": "Нисса, Премудрый Анимист",
-          "multiverseid": 400925
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "物灵智者妮莎",
-          "multiverseid": 398709
-        },
-        {
-          "name": "Spanish",
-          "language": "Nissa, animista sabia",
-          "multiverseid": 401202
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "loyalty": 3,
-      "multiverseid": 398432,
-      "name": "Nissa, Sage Animist",
-      "names": [
-        "Nissa, Vastwood Seer",
-        "Nissa, Sage Animist"
-      ],
-      "number": "189b",
-      "originalText": "When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library.Whenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.",
-      "originalType": "Legendary Creature — Elf Scout",
-      "printings": [
-        "ORI"
-      ],
-      "rarity": "mythic rare",
-      "rulings": [
-        {
-          "date": "2015-06-22",
-          "text": "You can activate Nissa, Sage Animist's second ability even if you already control an Ashaya, the Awoken World. Just after the second token is created, you'll choose one to remain on the battlefield. The other will be put into your graveyard and subsequently cease to exist."
-        },
-        {
-          "date": "2015-06-22",
-          "text": "You can activate Nissa, Sage Animist's second ability even if you already control an Ashaya, the Awoken World. Just after the second token is created, you'll choose one to remain on the battlefield. The other will be put into your graveyard and subsequently cease to exist."
-        },
-        {
-          "date": "2015-06-22",
-          "text": "If a land becomes a creature but hasn't continuously been under its controller's control since that player's most recent turn began, it won't be able to attack and its abilities with {T} in the cost (including mana abilities) won't be able to be activated. In other words, look at how long the permanent itself has been under your control, not how long it's been a creature."
-        }
-      ],
-      "subTypes": [
-        "Nissa"
-      ],
-      "text": "+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.\n−2: Create a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World.\n−7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.",
-      "type": "Planeswalker — Nissa",
-      "types": [
-        "Planeswalker"
-      ]
-    },
-    {
       "_id": "3e6ec6f6-f81a-4140-1265-0227e2cb478b",
       "artist": "Wesley Burt",
       "cmc": 3,
@@ -21083,7 +20971,7 @@
           "multiverseid": 401208
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -21179,6 +21067,118 @@
       "type": "Legendary Creature — Elf Scout",
       "types": [
         "Creature"
+      ]
+    },
+    {
+      "_id": "9526c68d-e493-4c53-27ca-12504cacd7ae",
+      "artist": "Wesley Burt",
+      "cmc": 3,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "物靈智者妮莎",
+          "multiverseid": 398986
+        },
+        {
+          "name": "German",
+          "language": "Nissa, die weise Animistin",
+          "multiverseid": 399263
+        },
+        {
+          "name": "French",
+          "language": "Nissa, sage animiste",
+          "multiverseid": 399540
+        },
+        {
+          "name": "Italian",
+          "language": "Nissa, Saggia Animista",
+          "multiverseid": 399817
+        },
+        {
+          "name": "Japanese",
+          "language": "精霊信者の賢人、ニッサ",
+          "multiverseid": 400094
+        },
+        {
+          "name": "Korean",
+          "language": "현명한 정령숭배자 니사",
+          "multiverseid": 400371
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Nissa, Sábia Animista",
+          "multiverseid": 400648
+        },
+        {
+          "name": "Russian",
+          "language": "Нисса, Премудрый Анимист",
+          "multiverseid": 400925
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "物灵智者妮莎",
+          "multiverseid": 398709
+        },
+        {
+          "name": "Spanish",
+          "language": "Nissa, animista sabia",
+          "multiverseid": 401202
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 3,
+      "multiverseid": 398432,
+      "name": "Nissa, Sage Animist",
+      "names": [
+        "Nissa, Vastwood Seer",
+        "Nissa, Sage Animist"
+      ],
+      "number": "189b",
+      "originalText": "When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library.Whenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.",
+      "originalType": "Legendary Creature — Elf Scout",
+      "printings": [
+        "ORI"
+      ],
+      "rarity": "mythic rare",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "You can activate Nissa, Sage Animist's second ability even if you already control an Ashaya, the Awoken World. Just after the second token is created, you'll choose one to remain on the battlefield. The other will be put into your graveyard and subsequently cease to exist."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "You can activate Nissa, Sage Animist's second ability even if you already control an Ashaya, the Awoken World. Just after the second token is created, you'll choose one to remain on the battlefield. The other will be put into your graveyard and subsequently cease to exist."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a land becomes a creature but hasn't continuously been under its controller's control since that player's most recent turn began, it won't be able to attack and its abilities with {T} in the cost (including mana abilities) won't be able to be activated. In other words, look at how long the permanent itself has been under your control, not how long it's been a creature."
+        }
+      ],
+      "subTypes": [
+        "Nissa"
+      ],
+      "text": "+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.\n−2: Create a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World.\n−7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.",
+      "type": "Planeswalker — Nissa",
+      "types": [
+        "Planeswalker"
       ]
     },
     {

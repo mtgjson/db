@@ -1314,111 +1314,6 @@
       ]
     },
     {
-      "_id": "670fb370-a4f9-44ee-10fa-0047eb346511",
-      "artist": "Ryan Pancoast",
-      "cmc": 2,
-      "flavor": "\"Just fight without fear. Your soul is protected by the hand of Avacyn and will never submit to evil.\"\n—Thalia, to Constable Visil",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "護教軍孽物",
-          "multiverseid": 336285
-        },
-        {
-          "name": "German",
-          "language": "Unheiliger Katharer",
-          "multiverseid": 336969
-        },
-        {
-          "name": "French",
-          "language": "Cathare maudit",
-          "multiverseid": 336627
-        },
-        {
-          "name": "Italian",
-          "language": "Cataro Sacrilego",
-          "multiverseid": 337311
-        },
-        {
-          "name": "Japanese",
-          "language": "不浄の聖戦士",
-          "multiverseid": 337482
-        },
-        {
-          "name": "Korean",
-          "language": "불경한 카타르",
-          "multiverseid": 336114
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Cátaro Maldito",
-          "multiverseid": 336456
-        },
-        {
-          "name": "Russian",
-          "language": "Неосвященный Катар",
-          "multiverseid": 336798
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "护教军孽物",
-          "multiverseid": 335943
-        },
-        {
-          "name": "Spanish",
-          "language": "Cátaro impío",
-          "multiverseid": 337140
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 244734,
-      "name": "Unhallowed Cathar",
-      "names": [
-        "Loyal Cathar",
-        "Unhallowed Cathar"
-      ],
-      "number": "13b",
-      "originalText": "Vigilance\nWhen Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.",
-      "originalType": "Creature — Human Soldier",
-      "power": "2",
-      "printings": [
-        "DKA"
-      ],
-      "rarity": "common",
-      "subTypes": [
-        "Zombie",
-        "Soldier"
-      ],
-      "text": "Unhallowed Cathar can't block.",
-      "toughness": "1",
-      "type": "Creature — Zombie Soldier",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "e445c2bf-2ce4-4a94-a032-507d187d85ee",
       "artist": "Ryan Pancoast",
       "cmc": 2,
@@ -1478,7 +1373,7 @@
           "multiverseid": 337136
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -1545,6 +1440,111 @@
       "text": "Vigilance\nWhen Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.",
       "toughness": "2",
       "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "670fb370-a4f9-44ee-10fa-0047eb346511",
+      "artist": "Ryan Pancoast",
+      "cmc": 2,
+      "flavor": "\"Just fight without fear. Your soul is protected by the hand of Avacyn and will never submit to evil.\"\n—Thalia, to Constable Visil",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "護教軍孽物",
+          "multiverseid": 336285
+        },
+        {
+          "name": "German",
+          "language": "Unheiliger Katharer",
+          "multiverseid": 336969
+        },
+        {
+          "name": "French",
+          "language": "Cathare maudit",
+          "multiverseid": 336627
+        },
+        {
+          "name": "Italian",
+          "language": "Cataro Sacrilego",
+          "multiverseid": 337311
+        },
+        {
+          "name": "Japanese",
+          "language": "不浄の聖戦士",
+          "multiverseid": 337482
+        },
+        {
+          "name": "Korean",
+          "language": "불경한 카타르",
+          "multiverseid": 336114
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Cátaro Maldito",
+          "multiverseid": 336456
+        },
+        {
+          "name": "Russian",
+          "language": "Неосвященный Катар",
+          "multiverseid": 336798
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "护教军孽物",
+          "multiverseid": 335943
+        },
+        {
+          "name": "Spanish",
+          "language": "Cátaro impío",
+          "multiverseid": 337140
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 244734,
+      "name": "Unhallowed Cathar",
+      "names": [
+        "Loyal Cathar",
+        "Unhallowed Cathar"
+      ],
+      "number": "13b",
+      "originalText": "Vigilance\nWhen Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.",
+      "originalType": "Creature — Human Soldier",
+      "power": "2",
+      "printings": [
+        "DKA"
+      ],
+      "rarity": "common",
+      "subTypes": [
+        "Zombie",
+        "Soldier"
+      ],
+      "text": "Unhallowed Cathar can't block.",
+      "toughness": "1",
+      "type": "Creature — Zombie Soldier",
       "types": [
         "Creature"
       ]
@@ -5491,7 +5491,7 @@
           "multiverseid": 337104
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -5614,7 +5614,7 @@
           "multiverseid": 337116
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -6150,7 +6150,7 @@
           "multiverseid": 337126
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -6265,7 +6265,7 @@
           "multiverseid": 337135
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -7954,110 +7954,6 @@
       ]
     },
     {
-      "_id": "54163a76-95b6-448a-b2ec-a2e52e672966",
-      "artist": "Igor Kieryluk",
-      "cmc": 5,
-      "flavor": "\"The price is paid. The power is mine!\"",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "貪婪大惡魔",
-          "multiverseid": 336258
-        },
-        {
-          "name": "German",
-          "language": "Erzdämon der Gier",
-          "multiverseid": 336942
-        },
-        {
-          "name": "French",
-          "language": "Archidémon d'avidité",
-          "multiverseid": 336600
-        },
-        {
-          "name": "Italian",
-          "language": "Arcidemone dell'Ingordigia",
-          "multiverseid": 337284
-        },
-        {
-          "name": "Japanese",
-          "language": "強欲の大悪魔",
-          "multiverseid": 337455
-        },
-        {
-          "name": "Korean",
-          "language": "탐욕의 대악마",
-          "multiverseid": 336087
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Arquidemônio da Ganância",
-          "multiverseid": 336429
-        },
-        {
-          "name": "Russian",
-          "language": "Архидемон Алчности",
-          "multiverseid": 336771
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "贪婪大恶魔",
-          "multiverseid": 335916
-        },
-        {
-          "name": "Spanish",
-          "language": "Archidemonio de la avaricia",
-          "multiverseid": 337113
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 227405,
-      "name": "Archdemon of Greed",
-      "names": [
-        "Ravenous Demon",
-        "Archdemon of Greed"
-      ],
-      "number": "71b",
-      "originalText": "Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.",
-      "originalType": "Creature — Demon",
-      "power": "9",
-      "printings": [
-        "DKA"
-      ],
-      "rarity": "rare",
-      "subTypes": [
-        "Demon"
-      ],
-      "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you.",
-      "toughness": "9",
-      "type": "Creature — Demon",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "fc56b4af-cb01-4d5d-3dbb-244290dfde7d",
       "artist": "Igor Kieryluk",
       "cmc": 5,
@@ -8117,7 +8013,7 @@
           "multiverseid": 337114
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -8166,6 +8062,110 @@
       ],
       "text": "Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.",
       "toughness": "4",
+      "type": "Creature — Demon",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "54163a76-95b6-448a-b2ec-a2e52e672966",
+      "artist": "Igor Kieryluk",
+      "cmc": 5,
+      "flavor": "\"The price is paid. The power is mine!\"",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "貪婪大惡魔",
+          "multiverseid": 336258
+        },
+        {
+          "name": "German",
+          "language": "Erzdämon der Gier",
+          "multiverseid": 336942
+        },
+        {
+          "name": "French",
+          "language": "Archidémon d'avidité",
+          "multiverseid": 336600
+        },
+        {
+          "name": "Italian",
+          "language": "Arcidemone dell'Ingordigia",
+          "multiverseid": 337284
+        },
+        {
+          "name": "Japanese",
+          "language": "強欲の大悪魔",
+          "multiverseid": 337455
+        },
+        {
+          "name": "Korean",
+          "language": "탐욕의 대악마",
+          "multiverseid": 336087
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Arquidemônio da Ganância",
+          "multiverseid": 336429
+        },
+        {
+          "name": "Russian",
+          "language": "Архидемон Алчности",
+          "multiverseid": 336771
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "贪婪大恶魔",
+          "multiverseid": 335916
+        },
+        {
+          "name": "Spanish",
+          "language": "Archidemonio de la avaricia",
+          "multiverseid": 337113
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 227405,
+      "name": "Archdemon of Greed",
+      "names": [
+        "Ravenous Demon",
+        "Archdemon of Greed"
+      ],
+      "number": "71b",
+      "originalText": "Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.",
+      "originalType": "Creature — Demon",
+      "power": "9",
+      "printings": [
+        "DKA"
+      ],
+      "rarity": "rare",
+      "subTypes": [
+        "Demon"
+      ],
+      "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you.",
+      "toughness": "9",
       "type": "Creature — Demon",
       "types": [
         "Creature"
@@ -9121,109 +9121,6 @@
       ]
     },
     {
-      "_id": "6a677b7b-5f66-4ccc-95cf-79caaebce51a",
-      "artist": "David Palumbo",
-      "cmc": 4,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "搜括狼人",
-          "multiverseid": 336358
-        },
-        {
-          "name": "German",
-          "language": "Werwolf-Einsacker",
-          "multiverseid": 337042
-        },
-        {
-          "name": "French",
-          "language": "Saccageur loup-garou",
-          "multiverseid": 336700
-        },
-        {
-          "name": "Italian",
-          "language": "Predone Mannaro",
-          "multiverseid": 337384
-        },
-        {
-          "name": "Japanese",
-          "language": "狼男の荒らし屋",
-          "multiverseid": 337555
-        },
-        {
-          "name": "Korean",
-          "language": "늑대인간 약탈자",
-          "multiverseid": 336187
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Lobisomem Saqueador",
-          "multiverseid": 336529
-        },
-        {
-          "name": "Russian",
-          "language": "Вервольф-Погромщик",
-          "multiverseid": 336871
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "搜括狼人",
-          "multiverseid": 336016
-        },
-        {
-          "name": "Spanish",
-          "language": "Saqueador licántropo",
-          "multiverseid": 337213
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 262698,
-      "name": "Werewolf Ransacker",
-      "names": [
-        "Afflicted Deserter",
-        "Werewolf Ransacker"
-      ],
-      "number": "81b",
-      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Afflicted Deserter.",
-      "originalType": "Creature — Human Werewolf",
-      "power": "5",
-      "printings": [
-        "DKA"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Whenever this creature transforms into Werewolf Ransacker, you may destroy target artifact. If that artifact is put into a graveyard this way, Werewolf Ransacker deals 3 damage to that artifact's controller.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf Ransacker.",
-      "toughness": "4",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "c19fafbd-5a9b-43d7-986d-4ae7339ca155",
       "artist": "David Palumbo",
       "cmc": 4,
@@ -9283,7 +9180,7 @@
           "multiverseid": 337192
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -9350,6 +9247,109 @@
       "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Afflicted Deserter.",
       "toughness": "2",
       "type": "Creature — Human Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "6a677b7b-5f66-4ccc-95cf-79caaebce51a",
+      "artist": "David Palumbo",
+      "cmc": 4,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "搜括狼人",
+          "multiverseid": 336358
+        },
+        {
+          "name": "German",
+          "language": "Werwolf-Einsacker",
+          "multiverseid": 337042
+        },
+        {
+          "name": "French",
+          "language": "Saccageur loup-garou",
+          "multiverseid": 336700
+        },
+        {
+          "name": "Italian",
+          "language": "Predone Mannaro",
+          "multiverseid": 337384
+        },
+        {
+          "name": "Japanese",
+          "language": "狼男の荒らし屋",
+          "multiverseid": 337555
+        },
+        {
+          "name": "Korean",
+          "language": "늑대인간 약탈자",
+          "multiverseid": 336187
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Lobisomem Saqueador",
+          "multiverseid": 336529
+        },
+        {
+          "name": "Russian",
+          "language": "Вервольф-Погромщик",
+          "multiverseid": 336871
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "搜括狼人",
+          "multiverseid": 336016
+        },
+        {
+          "name": "Spanish",
+          "language": "Saqueador licántropo",
+          "multiverseid": 337213
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 262698,
+      "name": "Werewolf Ransacker",
+      "names": [
+        "Afflicted Deserter",
+        "Werewolf Ransacker"
+      ],
+      "number": "81b",
+      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Afflicted Deserter.",
+      "originalType": "Creature — Human Werewolf",
+      "power": "5",
+      "printings": [
+        "DKA"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Whenever this creature transforms into Werewolf Ransacker, you may destroy target artifact. If that artifact is put into a graveyard this way, Werewolf Ransacker deals 3 damage to that artifact's controller.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf Ransacker.",
+      "toughness": "4",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -10726,110 +10726,6 @@
       ]
     },
     {
-      "_id": "3087112a-6713-4ddc-90c3-b6f6289d3e77",
-      "artist": "Steven Belledin",
-      "cmc": 2,
-      "flavor": ". . . but the monster within was a tireless hunter.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "內陸禍害",
-          "multiverseid": 336304
-        },
-        {
-          "name": "German",
-          "language": "Geißel des Hinterlands",
-          "multiverseid": 336988
-        },
-        {
-          "name": "French",
-          "language": "Fléau de l'arrière-pays",
-          "multiverseid": 336646
-        },
-        {
-          "name": "Italian",
-          "language": "Flagello dell'Entroterra",
-          "multiverseid": 337330
-        },
-        {
-          "name": "Japanese",
-          "language": "内陸の災い魔",
-          "multiverseid": 337501
-        },
-        {
-          "name": "Korean",
-          "language": "내륙지의 재앙",
-          "multiverseid": 336133
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Flagelo do Interior",
-          "multiverseid": 336475
-        },
-        {
-          "name": "Russian",
-          "language": "Бич Глубинки",
-          "multiverseid": 336817
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "内陆祸害",
-          "multiverseid": 335962
-        },
-        {
-          "name": "Spanish",
-          "language": "Azote del interior",
-          "multiverseid": 337159
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 247122,
-      "name": "Hinterland Scourge",
-      "names": [
-        "Hinterland Hermit",
-        "Hinterland Scourge"
-      ],
-      "number": "94b",
-      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit.",
-      "originalType": "Creature — Human Werewolf",
-      "power": "3",
-      "printings": [
-        "DKA"
-      ],
-      "rarity": "common",
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Hinterland Scourge must be blocked if able.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.",
-      "toughness": "2",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "2149e146-d80b-47a2-8a17-d5924e79fb78",
       "artist": "Steven Belledin",
       "cmc": 2,
@@ -10889,7 +10785,7 @@
           "multiverseid": 337161
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -10944,6 +10840,110 @@
       "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit.",
       "toughness": "1",
       "type": "Creature — Human Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "3087112a-6713-4ddc-90c3-b6f6289d3e77",
+      "artist": "Steven Belledin",
+      "cmc": 2,
+      "flavor": ". . . but the monster within was a tireless hunter.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "內陸禍害",
+          "multiverseid": 336304
+        },
+        {
+          "name": "German",
+          "language": "Geißel des Hinterlands",
+          "multiverseid": 336988
+        },
+        {
+          "name": "French",
+          "language": "Fléau de l'arrière-pays",
+          "multiverseid": 336646
+        },
+        {
+          "name": "Italian",
+          "language": "Flagello dell'Entroterra",
+          "multiverseid": 337330
+        },
+        {
+          "name": "Japanese",
+          "language": "内陸の災い魔",
+          "multiverseid": 337501
+        },
+        {
+          "name": "Korean",
+          "language": "내륙지의 재앙",
+          "multiverseid": 336133
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Flagelo do Interior",
+          "multiverseid": 336475
+        },
+        {
+          "name": "Russian",
+          "language": "Бич Глубинки",
+          "multiverseid": 336817
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "内陆祸害",
+          "multiverseid": 335962
+        },
+        {
+          "name": "Spanish",
+          "language": "Azote del interior",
+          "multiverseid": 337159
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 247122,
+      "name": "Hinterland Scourge",
+      "names": [
+        "Hinterland Hermit",
+        "Hinterland Scourge"
+      ],
+      "number": "94b",
+      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit.",
+      "originalType": "Creature — Human Werewolf",
+      "power": "3",
+      "printings": [
+        "DKA"
+      ],
+      "rarity": "common",
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Hinterland Scourge must be blocked if able.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.",
+      "toughness": "2",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -11362,7 +11362,7 @@
           "multiverseid": 337177
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -11478,7 +11478,7 @@
           "multiverseid": 337175
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -13938,109 +13938,6 @@
       ]
     },
     {
-      "_id": "eb96a6c4-6165-4c65-2623-f61616d5eb9e",
-      "artist": "Matt Stewart",
-      "cmc": 3,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "銀白狼人",
-          "multiverseid": 336264
-        },
-        {
-          "name": "German",
-          "language": "Silberpelz-Werwolf",
-          "multiverseid": 336948
-        },
-        {
-          "name": "French",
-          "language": "Loup-garou à fourrure d'argent",
-          "multiverseid": 336606
-        },
-        {
-          "name": "Italian",
-          "language": "Lupa Mannara Argentea",
-          "multiverseid": 337290
-        },
-        {
-          "name": "Japanese",
-          "language": "銀皮の狼男",
-          "multiverseid": 337461
-        },
-        {
-          "name": "Korean",
-          "language": "은빛가죽 늑대인간",
-          "multiverseid": 336093
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Lobisomem da Pele Prateada",
-          "multiverseid": 336435
-        },
-        {
-          "name": "Russian",
-          "language": "Седошкурый Вервольф",
-          "multiverseid": 336777
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "银白狼人",
-          "multiverseid": 335922
-        },
-        {
-          "name": "Spanish",
-          "language": "Licántropo lomo plateado",
-          "multiverseid": 337119
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 242509,
-      "name": "Silverpelt Werewolf",
-      "names": [
-        "Lambholt Elder",
-        "Silverpelt Werewolf"
-      ],
-      "number": "122b",
-      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.",
-      "originalType": "Creature — Human Werewolf",
-      "power": "4",
-      "printings": [
-        "DKA"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf.",
-      "toughness": "5",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "0e5e8191-b4a8-44de-85f1-997661a632cb",
       "artist": "Matt Stewart",
       "cmc": 3,
@@ -14100,7 +13997,7 @@
           "multiverseid": 337123
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -14151,6 +14048,109 @@
       "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.",
       "toughness": "2",
       "type": "Creature — Human Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "eb96a6c4-6165-4c65-2623-f61616d5eb9e",
+      "artist": "Matt Stewart",
+      "cmc": 3,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "銀白狼人",
+          "multiverseid": 336264
+        },
+        {
+          "name": "German",
+          "language": "Silberpelz-Werwolf",
+          "multiverseid": 336948
+        },
+        {
+          "name": "French",
+          "language": "Loup-garou à fourrure d'argent",
+          "multiverseid": 336606
+        },
+        {
+          "name": "Italian",
+          "language": "Lupa Mannara Argentea",
+          "multiverseid": 337290
+        },
+        {
+          "name": "Japanese",
+          "language": "銀皮の狼男",
+          "multiverseid": 337461
+        },
+        {
+          "name": "Korean",
+          "language": "은빛가죽 늑대인간",
+          "multiverseid": 336093
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Lobisomem da Pele Prateada",
+          "multiverseid": 336435
+        },
+        {
+          "name": "Russian",
+          "language": "Седошкурый Вервольф",
+          "multiverseid": 336777
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "银白狼人",
+          "multiverseid": 335922
+        },
+        {
+          "name": "Spanish",
+          "language": "Licántropo lomo plateado",
+          "multiverseid": 337119
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 242509,
+      "name": "Silverpelt Werewolf",
+      "names": [
+        "Lambholt Elder",
+        "Silverpelt Werewolf"
+      ],
+      "number": "122b",
+      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.",
+      "originalType": "Creature — Human Werewolf",
+      "power": "4",
+      "printings": [
+        "DKA"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf.",
+      "toughness": "5",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -14373,110 +14373,6 @@
       ]
     },
     {
-      "_id": "9d6c9924-a99e-4f84-239c-a205d6b0566b",
-      "artist": "Cynthia Sheppard",
-      "cmc": 2,
-      "flavor": "\". . . and I will bring the fury of the wild back to my village.\"",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "月疤狼人",
-          "multiverseid": 336325
-        },
-        {
-          "name": "German",
-          "language": "Mondnarben-Werwolf",
-          "multiverseid": 337009
-        },
-        {
-          "name": "French",
-          "language": "Loup-garou marqué par la lune",
-          "multiverseid": 336667
-        },
-        {
-          "name": "Italian",
-          "language": "Mannara Sfregiata dalla Luna",
-          "multiverseid": 337351
-        },
-        {
-          "name": "Japanese",
-          "language": "月傷の狼男",
-          "multiverseid": 337522
-        },
-        {
-          "name": "Korean",
-          "language": "달흉터 늑대인간",
-          "multiverseid": 336154
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Lobisomem da Cicatriz Lunar",
-          "multiverseid": 336496
-        },
-        {
-          "name": "Russian",
-          "language": "Вервольф с Лунным Шрамом",
-          "multiverseid": 336838
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "月疤狼人",
-          "multiverseid": 335983
-        },
-        {
-          "name": "Spanish",
-          "language": "Licántropo marca lunar",
-          "multiverseid": 337180
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 262659,
-      "name": "Moonscarred Werewolf",
-      "names": [
-        "Scorned Villager",
-        "Moonscarred Werewolf"
-      ],
-      "number": "125b",
-      "originalText": "{T}: Add {G} to your mana pool.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.",
-      "originalType": "Creature — Human Werewolf",
-      "power": "2",
-      "printings": [
-        "DKA"
-      ],
-      "rarity": "common",
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Vigilance\n{T}: Add {G}{G} to your mana pool.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.",
-      "toughness": "2",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "8f5fbb04-1fed-471d-2909-bf9645b972b8",
       "artist": "Cynthia Sheppard",
       "cmc": 2,
@@ -14536,7 +14432,7 @@
           "multiverseid": 337209
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -14587,6 +14483,110 @@
       "text": "{T}: Add {G} to your mana pool.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.",
       "toughness": "1",
       "type": "Creature — Human Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "9d6c9924-a99e-4f84-239c-a205d6b0566b",
+      "artist": "Cynthia Sheppard",
+      "cmc": 2,
+      "flavor": "\". . . and I will bring the fury of the wild back to my village.\"",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "月疤狼人",
+          "multiverseid": 336325
+        },
+        {
+          "name": "German",
+          "language": "Mondnarben-Werwolf",
+          "multiverseid": 337009
+        },
+        {
+          "name": "French",
+          "language": "Loup-garou marqué par la lune",
+          "multiverseid": 336667
+        },
+        {
+          "name": "Italian",
+          "language": "Mannara Sfregiata dalla Luna",
+          "multiverseid": 337351
+        },
+        {
+          "name": "Japanese",
+          "language": "月傷の狼男",
+          "multiverseid": 337522
+        },
+        {
+          "name": "Korean",
+          "language": "달흉터 늑대인간",
+          "multiverseid": 336154
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Lobisomem da Cicatriz Lunar",
+          "multiverseid": 336496
+        },
+        {
+          "name": "Russian",
+          "language": "Вервольф с Лунным Шрамом",
+          "multiverseid": 336838
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "月疤狼人",
+          "multiverseid": 335983
+        },
+        {
+          "name": "Spanish",
+          "language": "Licántropo marca lunar",
+          "multiverseid": 337180
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 262659,
+      "name": "Moonscarred Werewolf",
+      "names": [
+        "Scorned Villager",
+        "Moonscarred Werewolf"
+      ],
+      "number": "125b",
+      "originalText": "{T}: Add {G} to your mana pool.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.",
+      "originalType": "Creature — Human Werewolf",
+      "power": "2",
+      "printings": [
+        "DKA"
+      ],
+      "rarity": "common",
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Vigilance\n{T}: Add {G}{G} to your mana pool.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.",
+      "toughness": "2",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -15379,7 +15379,7 @@
           "multiverseid": 337174
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -15498,7 +15498,7 @@
           "multiverseid": 337176
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -16229,109 +16229,6 @@
       ]
     },
     {
-      "_id": "a4dbd114-98aa-4b0b-1ac6-baf4665c694f",
-      "artist": "Chris Rahn",
-      "cmc": 4,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "墮者噬獸",
-          "multiverseid": 336359
-        },
-        {
-          "name": "German",
-          "language": "Verwüster vom Kahlenberg",
-          "multiverseid": 337043
-        },
-        {
-          "name": "French",
-          "language": "Ravageur de la lande",
-          "multiverseid": 336701
-        },
-        {
-          "name": "Italian",
-          "language": "Devastatore delle Colline",
-          "multiverseid": 337385
-        },
-        {
-          "name": "Japanese",
-          "language": "高原の荒廃者",
-          "multiverseid": 337556
-        },
-        {
-          "name": "Korean",
-          "language": "산지의 유린자",
-          "multiverseid": 336188
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Devastador da Derrubada",
-          "multiverseid": 336530
-        },
-        {
-          "name": "Russian",
-          "language": "Опустошитель Каменистых Холмов",
-          "multiverseid": 336872
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "堕者噬兽",
-          "multiverseid": 336017
-        },
-        {
-          "name": "Spanish",
-          "language": "Devastador de las colinas",
-          "multiverseid": 337214
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 262699,
-      "name": "Ravager of the Fells",
-      "names": [
-        "Huntmaster of the Fells",
-        "Ravager of the Fells"
-      ],
-      "number": "140b",
-      "originalText": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, put a 2/2 green Wolf creature token onto the battlefield and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
-      "originalType": "Creature — Human Werewolf",
-      "power": "4",
-      "printings": [
-        "DKA"
-      ],
-      "rarity": "mythic rare",
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Trample\nWhenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent and 2 damage to up to one target creature that player controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
-      "toughness": "4",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "1b40e981-e251-4cde-bd31-959280fe68ba",
       "artist": "Chris Rahn",
       "cmc": 4,
@@ -16391,7 +16288,7 @@
           "multiverseid": 337263
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -16442,6 +16339,109 @@
       "text": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, create a 2/2 green Wolf creature token and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
       "toughness": "2",
       "type": "Creature — Human Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "a4dbd114-98aa-4b0b-1ac6-baf4665c694f",
+      "artist": "Chris Rahn",
+      "cmc": 4,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "墮者噬獸",
+          "multiverseid": 336359
+        },
+        {
+          "name": "German",
+          "language": "Verwüster vom Kahlenberg",
+          "multiverseid": 337043
+        },
+        {
+          "name": "French",
+          "language": "Ravageur de la lande",
+          "multiverseid": 336701
+        },
+        {
+          "name": "Italian",
+          "language": "Devastatore delle Colline",
+          "multiverseid": 337385
+        },
+        {
+          "name": "Japanese",
+          "language": "高原の荒廃者",
+          "multiverseid": 337556
+        },
+        {
+          "name": "Korean",
+          "language": "산지의 유린자",
+          "multiverseid": 336188
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Devastador da Derrubada",
+          "multiverseid": 336530
+        },
+        {
+          "name": "Russian",
+          "language": "Опустошитель Каменистых Холмов",
+          "multiverseid": 336872
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "堕者噬兽",
+          "multiverseid": 336017
+        },
+        {
+          "name": "Spanish",
+          "language": "Devastador de las colinas",
+          "multiverseid": 337214
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 262699,
+      "name": "Ravager of the Fells",
+      "names": [
+        "Huntmaster of the Fells",
+        "Ravager of the Fells"
+      ],
+      "number": "140b",
+      "originalText": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, put a 2/2 green Wolf creature token onto the battlefield and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
+      "originalType": "Creature — Human Werewolf",
+      "power": "4",
+      "printings": [
+        "DKA"
+      ],
+      "rarity": "mythic rare",
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Trample\nWhenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent and 2 damage to up to one target creature that player controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
+      "toughness": "4",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -17064,7 +17064,7 @@
           "multiverseid": 337109
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -17178,7 +17178,7 @@
           "multiverseid": 337106
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -17277,7 +17277,7 @@
           "multiverseid": 337143
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -17405,7 +17405,7 @@
           "multiverseid": 337142
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",

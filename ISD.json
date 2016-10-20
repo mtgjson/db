@@ -815,7 +815,7 @@
           "multiverseid": 273759
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -921,7 +921,7 @@
           "multiverseid": 273764
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -3966,106 +3966,6 @@
       ]
     },
     {
-      "_id": "d9c54a3e-7c0e-4e80-1eb7-4835e4c6a47d",
-      "artist": "David Rapoza",
-      "cmc": 4,
-      "flavor": "\"The time for grief is over. The time for retribution has begun.\"",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "瑟班民兵",
-          "multiverseid": 272335
-        },
-        {
-          "name": "German",
-          "language": "Miliz von Thraben",
-          "multiverseid": 273471
-        },
-        {
-          "name": "French",
-          "language": "Milice de Thraben",
-          "multiverseid": 272903
-        },
-        {
-          "name": "Italian",
-          "language": "Milizia di Thraben",
-          "multiverseid": 274039
-        },
-        {
-          "name": "Japanese",
-          "language": "スレイベンの民兵",
-          "multiverseid": 274323
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Milícia de Thraben",
-          "multiverseid": 272619
-        },
-        {
-          "name": "Russian",
-          "language": "Трейбенское Ополчение",
-          "multiverseid": 273187
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "瑟班民兵",
-          "multiverseid": 272051
-        },
-        {
-          "name": "Spanish",
-          "language": "Milicia de Thraben",
-          "multiverseid": 273755
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 221190,
-      "name": "Thraben Militia",
-      "names": [
-        "Thraben Sentry",
-        "Thraben Militia"
-      ],
-      "number": "38b",
-      "originalText": "Vigilance\nWhenever another creature you control dies, you may transform Thraben Sentry.",
-      "originalType": "Creature — Human Soldier",
-      "power": "5",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "common",
-      "subTypes": [
-        "Human",
-        "Soldier"
-      ],
-      "text": "Trample",
-      "toughness": "4",
-      "type": "Creature — Human Soldier",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "04c5c63f-f847-49ee-8631-49e999dd12e1",
       "artist": "David Rapoza",
       "cmc": 4,
@@ -4120,7 +4020,7 @@
           "multiverseid": 273769
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -4174,6 +4074,106 @@
       ],
       "text": "Vigilance\nWhenever another creature you control dies, you may transform Thraben Sentry.",
       "toughness": "2",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "d9c54a3e-7c0e-4e80-1eb7-4835e4c6a47d",
+      "artist": "David Rapoza",
+      "cmc": 4,
+      "flavor": "\"The time for grief is over. The time for retribution has begun.\"",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "瑟班民兵",
+          "multiverseid": 272335
+        },
+        {
+          "name": "German",
+          "language": "Miliz von Thraben",
+          "multiverseid": 273471
+        },
+        {
+          "name": "French",
+          "language": "Milice de Thraben",
+          "multiverseid": 272903
+        },
+        {
+          "name": "Italian",
+          "language": "Milizia di Thraben",
+          "multiverseid": 274039
+        },
+        {
+          "name": "Japanese",
+          "language": "スレイベンの民兵",
+          "multiverseid": 274323
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Milícia de Thraben",
+          "multiverseid": 272619
+        },
+        {
+          "name": "Russian",
+          "language": "Трейбенское Ополчение",
+          "multiverseid": 273187
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "瑟班民兵",
+          "multiverseid": 272051
+        },
+        {
+          "name": "Spanish",
+          "language": "Milicia de Thraben",
+          "multiverseid": 273755
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 221190,
+      "name": "Thraben Militia",
+      "names": [
+        "Thraben Sentry",
+        "Thraben Militia"
+      ],
+      "number": "38b",
+      "originalText": "Vigilance\nWhenever another creature you control dies, you may transform Thraben Sentry.",
+      "originalType": "Creature — Human Soldier",
+      "power": "5",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "common",
+      "subTypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "Trample",
+      "toughness": "4",
       "type": "Creature — Human Soldier",
       "types": [
         "Creature"
@@ -5031,112 +5031,6 @@
       ]
     },
     {
-      "_id": "0162b8d9-a25d-4bb0-2a2a-80241430d935",
-      "artist": "Michael C. Hayes",
-      "cmc": 3,
-      "flavor": "For a moment his basest desires run free, unshackled by reason or conscience.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "嗜殺蠻漢",
-          "multiverseid": 272332
-        },
-        {
-          "name": "German",
-          "language": "Mörderischer Rohling",
-          "multiverseid": 273468
-        },
-        {
-          "name": "French",
-          "language": "Brute homicide",
-          "multiverseid": 272900
-        },
-        {
-          "name": "Italian",
-          "language": "Bruto Omicida",
-          "multiverseid": 274036
-        },
-        {
-          "name": "Japanese",
-          "language": "人殺しの粗暴者",
-          "multiverseid": 274320
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Brutamontes Homicida",
-          "multiverseid": 272616
-        },
-        {
-          "name": "Russian",
-          "language": "Жестокий Смертоубийца",
-          "multiverseid": 273184
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "嗜杀蛮汉",
-          "multiverseid": 272048
-        },
-        {
-          "name": "Spanish",
-          "language": "Bruto homicida",
-          "multiverseid": 273752
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 221185,
-      "name": "Homicidal Brute",
-      "names": [
-        "Civilized Scholar",
-        "Homicidal Brute"
-      ],
-      "number": "47b",
-      "originalText": "{T}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it.",
-      "originalType": "Creature — Human Advisor",
-      "power": "5",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "uncommon",
-      "rulings": [
-        {
-          "date": "2011-09-22",
-          "text": "You'll tap and transform Homicidal Brute even if it couldn't attack."
-        }
-      ],
-      "subTypes": [
-        "Human",
-        "Mutant"
-      ],
-      "text": "At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.",
-      "toughness": "1",
-      "type": "Creature — Human Mutant",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "537c59b2-3b32-4b96-9373-3428db693c2c",
       "artist": "Michael C. Hayes",
       "cmc": 3,
@@ -5191,7 +5085,7 @@
           "multiverseid": 273757
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -5250,6 +5144,112 @@
       "text": "{T}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it.",
       "toughness": "1",
       "type": "Creature — Human Advisor",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "0162b8d9-a25d-4bb0-2a2a-80241430d935",
+      "artist": "Michael C. Hayes",
+      "cmc": 3,
+      "flavor": "For a moment his basest desires run free, unshackled by reason or conscience.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "嗜殺蠻漢",
+          "multiverseid": 272332
+        },
+        {
+          "name": "German",
+          "language": "Mörderischer Rohling",
+          "multiverseid": 273468
+        },
+        {
+          "name": "French",
+          "language": "Brute homicide",
+          "multiverseid": 272900
+        },
+        {
+          "name": "Italian",
+          "language": "Bruto Omicida",
+          "multiverseid": 274036
+        },
+        {
+          "name": "Japanese",
+          "language": "人殺しの粗暴者",
+          "multiverseid": 274320
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Brutamontes Homicida",
+          "multiverseid": 272616
+        },
+        {
+          "name": "Russian",
+          "language": "Жестокий Смертоубийца",
+          "multiverseid": 273184
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "嗜杀蛮汉",
+          "multiverseid": 272048
+        },
+        {
+          "name": "Spanish",
+          "language": "Bruto homicida",
+          "multiverseid": 273752
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 221185,
+      "name": "Homicidal Brute",
+      "names": [
+        "Civilized Scholar",
+        "Homicidal Brute"
+      ],
+      "number": "47b",
+      "originalText": "{T}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it.",
+      "originalType": "Creature — Human Advisor",
+      "power": "5",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "uncommon",
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "You'll tap and transform Homicidal Brute even if it couldn't attack."
+        }
+      ],
+      "subTypes": [
+        "Human",
+        "Mutant"
+      ],
+      "text": "At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.",
+      "toughness": "1",
+      "type": "Creature — Human Mutant",
       "types": [
         "Creature"
       ]
@@ -5599,106 +5599,6 @@
       ]
     },
     {
-      "_id": "dd2863c9-4c84-45a8-8b81-478a0c73b841",
-      "artist": "Nils Hamm",
-      "cmc": 1,
-      "flavor": "\"Unfortunately, all my test animals have died or escaped, so I shall be the final subject. I feel no fear. This is a momentous night.\"\n—Laboratory notes, final entry",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "昆蟲變體",
-          "multiverseid": 272388
-        },
-        {
-          "name": "German",
-          "language": "Insekten-Scheußlichkeit",
-          "multiverseid": 273524
-        },
-        {
-          "name": "French",
-          "language": "Aberration insectoïde",
-          "multiverseid": 272956
-        },
-        {
-          "name": "Italian",
-          "language": "Insetto Aberrante",
-          "multiverseid": 274092
-        },
-        {
-          "name": "Japanese",
-          "language": "昆虫の逸脱者",
-          "multiverseid": 274376
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Aberração Insetídea",
-          "multiverseid": 272672
-        },
-        {
-          "name": "Russian",
-          "language": "Насекомовидная Тварь",
-          "multiverseid": 273240
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "昆虫变体",
-          "multiverseid": 272104
-        },
-        {
-          "name": "Spanish",
-          "language": "Aberración insectoide",
-          "multiverseid": 273808
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 226755,
-      "name": "Insectile Aberration",
-      "names": [
-        "Delver of Secrets",
-        "Insectile Aberration"
-      ],
-      "number": "51b",
-      "originalText": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.",
-      "originalType": "Creature — Human Wizard",
-      "power": "3",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "common",
-      "subTypes": [
-        "Human",
-        "Insect"
-      ],
-      "text": "Flying",
-      "toughness": "2",
-      "type": "Creature — Human Insect",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "49ad479d-37ed-4517-8d32-aabfbea07d80",
       "artist": "Nils Hamm",
       "cmc": 1,
@@ -5752,7 +5652,7 @@
           "multiverseid": 273805
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -5807,6 +5707,106 @@
       "text": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.",
       "toughness": "1",
       "type": "Creature — Human Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "dd2863c9-4c84-45a8-8b81-478a0c73b841",
+      "artist": "Nils Hamm",
+      "cmc": 1,
+      "flavor": "\"Unfortunately, all my test animals have died or escaped, so I shall be the final subject. I feel no fear. This is a momentous night.\"\n—Laboratory notes, final entry",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "昆蟲變體",
+          "multiverseid": 272388
+        },
+        {
+          "name": "German",
+          "language": "Insekten-Scheußlichkeit",
+          "multiverseid": 273524
+        },
+        {
+          "name": "French",
+          "language": "Aberration insectoïde",
+          "multiverseid": 272956
+        },
+        {
+          "name": "Italian",
+          "language": "Insetto Aberrante",
+          "multiverseid": 274092
+        },
+        {
+          "name": "Japanese",
+          "language": "昆虫の逸脱者",
+          "multiverseid": 274376
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Aberração Insetídea",
+          "multiverseid": 272672
+        },
+        {
+          "name": "Russian",
+          "language": "Насекомовидная Тварь",
+          "multiverseid": 273240
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "昆虫变体",
+          "multiverseid": 272104
+        },
+        {
+          "name": "Spanish",
+          "language": "Aberración insectoide",
+          "multiverseid": 273808
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 226755,
+      "name": "Insectile Aberration",
+      "names": [
+        "Delver of Secrets",
+        "Insectile Aberration"
+      ],
+      "number": "51b",
+      "originalText": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.",
+      "originalType": "Creature — Human Wizard",
+      "power": "3",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "common",
+      "subTypes": [
+        "Human",
+        "Insect"
+      ],
+      "text": "Flying",
+      "toughness": "2",
+      "type": "Creature — Human Insect",
       "types": [
         "Creature"
       ]
@@ -7030,106 +7030,6 @@
       ]
     },
     {
-      "_id": "a185ba9a-e957-4a6c-8d5e-3f046a41381e",
-      "artist": "Nils Hamm",
-      "cmc": 2,
-      "flavor": "After several frustrating experiments, the visionary Ludevic realized he needed to create a monster that fed on torch-wielding mobs.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "盧德維的憎恨獸",
-          "multiverseid": 272330
-        },
-        {
-          "name": "German",
-          "language": "Ludevics Scheußlichkeit",
-          "multiverseid": 273466
-        },
-        {
-          "name": "French",
-          "language": "Abomination de Ludevic",
-          "multiverseid": 272898
-        },
-        {
-          "name": "Italian",
-          "language": "Abominio di Ludevic",
-          "multiverseid": 274034
-        },
-        {
-          "name": "Japanese",
-          "language": "ルーデヴィックの嫌悪者",
-          "multiverseid": 274318
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Abominação de Ludevic",
-          "multiverseid": 272614
-        },
-        {
-          "name": "Russian",
-          "language": "Созданная Людевиком Мерзость",
-          "multiverseid": 273182
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "卢德维的憎恨兽",
-          "multiverseid": 272046
-        },
-        {
-          "name": "Spanish",
-          "language": "Abominación de Ludevic",
-          "multiverseid": 273750
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 221173,
-      "name": "Ludevic's Abomination",
-      "names": [
-        "Ludevic's Test Subject",
-        "Ludevic's Abomination"
-      ],
-      "number": "64b",
-      "originalText": "Defender\n{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.",
-      "originalType": "Creature — Lizard",
-      "power": "13",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "rare",
-      "subTypes": [
-        "Lizard",
-        "Horror"
-      ],
-      "text": "Trample",
-      "toughness": "13",
-      "type": "Creature — Lizard Horror",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "01bc4cc3-c722-4489-3e1a-ba275602fa90",
       "artist": "Nils Hamm",
       "cmc": 2,
@@ -7183,7 +7083,7 @@
           "multiverseid": 273751
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -7233,6 +7133,106 @@
       "text": "Defender\n{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.",
       "toughness": "3",
       "type": "Creature — Lizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "a185ba9a-e957-4a6c-8d5e-3f046a41381e",
+      "artist": "Nils Hamm",
+      "cmc": 2,
+      "flavor": "After several frustrating experiments, the visionary Ludevic realized he needed to create a monster that fed on torch-wielding mobs.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "盧德維的憎恨獸",
+          "multiverseid": 272330
+        },
+        {
+          "name": "German",
+          "language": "Ludevics Scheußlichkeit",
+          "multiverseid": 273466
+        },
+        {
+          "name": "French",
+          "language": "Abomination de Ludevic",
+          "multiverseid": 272898
+        },
+        {
+          "name": "Italian",
+          "language": "Abominio di Ludevic",
+          "multiverseid": 274034
+        },
+        {
+          "name": "Japanese",
+          "language": "ルーデヴィックの嫌悪者",
+          "multiverseid": 274318
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Abominação de Ludevic",
+          "multiverseid": 272614
+        },
+        {
+          "name": "Russian",
+          "language": "Созданная Людевиком Мерзость",
+          "multiverseid": 273182
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "卢德维的憎恨兽",
+          "multiverseid": 272046
+        },
+        {
+          "name": "Spanish",
+          "language": "Abominación de Ludevic",
+          "multiverseid": 273750
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 221173,
+      "name": "Ludevic's Abomination",
+      "names": [
+        "Ludevic's Test Subject",
+        "Ludevic's Abomination"
+      ],
+      "number": "64b",
+      "originalText": "Defender\n{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.",
+      "originalType": "Creature — Lizard",
+      "power": "13",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "rare",
+      "subTypes": [
+        "Lizard",
+        "Horror"
+      ],
+      "text": "Trample",
+      "toughness": "13",
+      "type": "Creature — Lizard Horror",
       "types": [
         "Creature"
       ]
@@ -9864,104 +9864,6 @@
       ]
     },
     {
-      "_id": "09443a6f-64cc-4219-9503-37e2a8e9a7e1",
-      "artist": "Jason Chan",
-      "cmc": 4,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "世系之王",
-          "multiverseid": 272405
-        },
-        {
-          "name": "German",
-          "language": "Fürst des Geschlechts",
-          "multiverseid": 273541
-        },
-        {
-          "name": "French",
-          "language": "Seigneur de la succession",
-          "multiverseid": 272973
-        },
-        {
-          "name": "Italian",
-          "language": "Signore del Lignaggio",
-          "multiverseid": 274109
-        },
-        {
-          "name": "Japanese",
-          "language": "系統の王",
-          "multiverseid": 274393
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Senhor da Linhagem",
-          "multiverseid": 272689
-        },
-        {
-          "name": "Russian",
-          "language": "Повелитель Рода",
-          "multiverseid": 273257
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "世系之王",
-          "multiverseid": 272121
-        },
-        {
-          "name": "Spanish",
-          "language": "Señor del linaje",
-          "multiverseid": 273825
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 227072,
-      "name": "Lord of Lineage",
-      "names": [
-        "Bloodline Keeper",
-        "Lord of Lineage"
-      ],
-      "number": "90b",
-      "originalText": "Flying\n{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.\n{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.",
-      "originalType": "Creature — Vampire",
-      "power": "5",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "rare",
-      "subTypes": [
-        "Vampire"
-      ],
-      "text": "Flying\nOther Vampire creatures you control get +2/+2.\n{T}: Create a 2/2 black Vampire creature token with flying.",
-      "toughness": "5",
-      "type": "Creature — Vampire",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "5a8108e7-6377-4f55-3ae6-e7aab91d1a16",
       "artist": "Jason Chan",
       "cmc": 4,
@@ -10015,7 +9917,7 @@
           "multiverseid": 273821
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -10064,6 +9966,104 @@
       ],
       "text": "Flying\n{T}: Create a 2/2 black Vampire creature token with flying.\n{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.",
       "toughness": "3",
+      "type": "Creature — Vampire",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "09443a6f-64cc-4219-9503-37e2a8e9a7e1",
+      "artist": "Jason Chan",
+      "cmc": 4,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "世系之王",
+          "multiverseid": 272405
+        },
+        {
+          "name": "German",
+          "language": "Fürst des Geschlechts",
+          "multiverseid": 273541
+        },
+        {
+          "name": "French",
+          "language": "Seigneur de la succession",
+          "multiverseid": 272973
+        },
+        {
+          "name": "Italian",
+          "language": "Signore del Lignaggio",
+          "multiverseid": 274109
+        },
+        {
+          "name": "Japanese",
+          "language": "系統の王",
+          "multiverseid": 274393
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Senhor da Linhagem",
+          "multiverseid": 272689
+        },
+        {
+          "name": "Russian",
+          "language": "Повелитель Рода",
+          "multiverseid": 273257
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "世系之王",
+          "multiverseid": 272121
+        },
+        {
+          "name": "Spanish",
+          "language": "Señor del linaje",
+          "multiverseid": 273825
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 227072,
+      "name": "Lord of Lineage",
+      "names": [
+        "Bloodline Keeper",
+        "Lord of Lineage"
+      ],
+      "number": "90b",
+      "originalText": "Flying\n{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.\n{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.",
+      "originalType": "Creature — Vampire",
+      "power": "5",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "rare",
+      "subTypes": [
+        "Vampire"
+      ],
+      "text": "Flying\nOther Vampire creatures you control get +2/+2.\n{T}: Create a 2/2 black Vampire creature token with flying.",
+      "toughness": "5",
       "type": "Creature — Vampire",
       "types": [
         "Creature"
@@ -12402,105 +12402,6 @@
       ]
     },
     {
-      "_id": "faac4e2b-7a4e-4047-979b-1566aa63e92b",
-      "artist": "Slawomir Maniak",
-      "cmc": 3,
-      "flavor": "Each form she takes is an exploration of the senses.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "伏擊吸血鬼",
-          "multiverseid": 272341
-        },
-        {
-          "name": "German",
-          "language": "Pirschende Vampirin",
-          "multiverseid": 273477
-        },
-        {
-          "name": "French",
-          "language": "Vampire en chasse",
-          "multiverseid": 272909
-        },
-        {
-          "name": "Italian",
-          "language": "Vampira Furtiva",
-          "multiverseid": 274045
-        },
-        {
-          "name": "Japanese",
-          "language": "忍び寄る吸血鬼",
-          "multiverseid": 274329
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Vampiro Caçador",
-          "multiverseid": 272625
-        },
-        {
-          "name": "Russian",
-          "language": "Вампирша-Преследовательница",
-          "multiverseid": 273193
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "伏击吸血鬼",
-          "multiverseid": 272057
-        },
-        {
-          "name": "Spanish",
-          "language": "Vampiro acechante",
-          "multiverseid": 273761
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 221215,
-      "name": "Stalking Vampire",
-      "names": [
-        "Screeching Bat",
-        "Stalking Vampire"
-      ],
-      "number": "114b",
-      "originalText": "Flying\nAt the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.",
-      "originalType": "Creature — Bat",
-      "power": "5",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Vampire"
-      ],
-      "text": "At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.",
-      "toughness": "5",
-      "type": "Creature — Vampire",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "9ecbcaa1-89f8-47b8-8b17-2568d753d612",
       "artist": "Slawomir Maniak",
       "cmc": 3,
@@ -12555,7 +12456,7 @@
           "multiverseid": 273758
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -12605,6 +12506,105 @@
       "text": "Flying\nAt the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.",
       "toughness": "2",
       "type": "Creature — Bat",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "faac4e2b-7a4e-4047-979b-1566aa63e92b",
+      "artist": "Slawomir Maniak",
+      "cmc": 3,
+      "flavor": "Each form she takes is an exploration of the senses.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "伏擊吸血鬼",
+          "multiverseid": 272341
+        },
+        {
+          "name": "German",
+          "language": "Pirschende Vampirin",
+          "multiverseid": 273477
+        },
+        {
+          "name": "French",
+          "language": "Vampire en chasse",
+          "multiverseid": 272909
+        },
+        {
+          "name": "Italian",
+          "language": "Vampira Furtiva",
+          "multiverseid": 274045
+        },
+        {
+          "name": "Japanese",
+          "language": "忍び寄る吸血鬼",
+          "multiverseid": 274329
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Vampiro Caçador",
+          "multiverseid": 272625
+        },
+        {
+          "name": "Russian",
+          "language": "Вампирша-Преследовательница",
+          "multiverseid": 273193
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "伏击吸血鬼",
+          "multiverseid": 272057
+        },
+        {
+          "name": "Spanish",
+          "language": "Vampiro acechante",
+          "multiverseid": 273761
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 221215,
+      "name": "Stalking Vampire",
+      "names": [
+        "Screeching Bat",
+        "Stalking Vampire"
+      ],
+      "number": "114b",
+      "originalText": "Flying\nAt the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.",
+      "originalType": "Creature — Bat",
+      "power": "5",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Vampire"
+      ],
+      "text": "At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.",
+      "toughness": "5",
+      "type": "Creature — Vampire",
       "types": [
         "Creature"
       ]
@@ -15743,7 +15743,7 @@
           "multiverseid": 273938
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -15851,7 +15851,7 @@
           "multiverseid": 273942
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -16265,7 +16265,7 @@
           "multiverseid": 273842
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -16371,7 +16371,7 @@
           "multiverseid": 273843
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -16622,104 +16622,6 @@
       ]
     },
     {
-      "_id": "42025e3b-ad02-40fc-8456-a618acc5db2f",
-      "artist": "David Rapoza",
-      "cmc": 3,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "克廉峽懼獸",
-          "multiverseid": 272412
-        },
-        {
-          "name": "German",
-          "language": "Schrecken vom Kruinpass",
-          "multiverseid": 273548
-        },
-        {
-          "name": "French",
-          "language": "Terreur du Col de Kruin",
-          "multiverseid": 272980
-        },
-        {
-          "name": "Italian",
-          "language": "Terrore di Passo Kruin",
-          "multiverseid": 274116
-        },
-        {
-          "name": "Japanese",
-          "language": "クルーイン峡の恐怖",
-          "multiverseid": 274400
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Terror do Passo de Kruin",
-          "multiverseid": 272696
-        },
-        {
-          "name": "Russian",
-          "language": "Гроза Круинского Перевала",
-          "multiverseid": 273264
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "克廉峡惧兽",
-          "multiverseid": 272128
-        },
-        {
-          "name": "Spanish",
-          "language": "Terror del Paso Kruin",
-          "multiverseid": 273832
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 227090,
-      "name": "Terror of Kruin Pass",
-      "names": [
-        "Kruin Outlaw",
-        "Terror of Kruin Pass"
-      ],
-      "number": "152b",
-      "originalText": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.",
-      "originalType": "Creature — Human Rogue Werewolf",
-      "power": "3",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "rare",
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Double strike\nWerewolves you control have menace. (They can't be blocked except by two or more creatures.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.",
-      "toughness": "3",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "84aa1557-2302-48f8-bc29-6566f5d5bf58",
       "artist": "David Rapoza",
       "cmc": 3,
@@ -16774,7 +16676,7 @@
           "multiverseid": 273829
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -16830,6 +16732,104 @@
       "text": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.",
       "toughness": "2",
       "type": "Creature — Human Rogue Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "42025e3b-ad02-40fc-8456-a618acc5db2f",
+      "artist": "David Rapoza",
+      "cmc": 3,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "克廉峽懼獸",
+          "multiverseid": 272412
+        },
+        {
+          "name": "German",
+          "language": "Schrecken vom Kruinpass",
+          "multiverseid": 273548
+        },
+        {
+          "name": "French",
+          "language": "Terreur du Col de Kruin",
+          "multiverseid": 272980
+        },
+        {
+          "name": "Italian",
+          "language": "Terrore di Passo Kruin",
+          "multiverseid": 274116
+        },
+        {
+          "name": "Japanese",
+          "language": "クルーイン峡の恐怖",
+          "multiverseid": 274400
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Terror do Passo de Kruin",
+          "multiverseid": 272696
+        },
+        {
+          "name": "Russian",
+          "language": "Гроза Круинского Перевала",
+          "multiverseid": 273264
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "克廉峡惧兽",
+          "multiverseid": 272128
+        },
+        {
+          "name": "Spanish",
+          "language": "Terror del Paso Kruin",
+          "multiverseid": 273832
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 227090,
+      "name": "Terror of Kruin Pass",
+      "names": [
+        "Kruin Outlaw",
+        "Terror of Kruin Pass"
+      ],
+      "number": "152b",
+      "originalText": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.",
+      "originalType": "Creature — Human Rogue Werewolf",
+      "power": "3",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "rare",
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Double strike\nWerewolves you control have menace. (They can't be blocked except by two or more creatures.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.",
+      "toughness": "3",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -17449,105 +17449,6 @@
       ]
     },
     {
-      "_id": "ee629842-4144-484a-b8d2-4f4742b93408",
-      "artist": "Michael C. Hayes",
-      "cmc": 1,
-      "flavor": "Before she just wanted to snatch your purse; now she'll take the whole arm.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "殘酷掠食者",
-          "multiverseid": 272356
-        },
-        {
-          "name": "German",
-          "language": "Gnadenloses Raubtier",
-          "multiverseid": 273492
-        },
-        {
-          "name": "French",
-          "language": "Prédatrice impitoyable",
-          "multiverseid": 272924
-        },
-        {
-          "name": "Italian",
-          "language": "Predatrice Spietata",
-          "multiverseid": 274060
-        },
-        {
-          "name": "Japanese",
-          "language": "無慈悲な捕食者",
-          "multiverseid": 274344
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Predadora Impiedosa",
-          "multiverseid": 272640
-        },
-        {
-          "name": "Russian",
-          "language": "Безжалостная Хищница",
-          "multiverseid": 273208
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "残酷掠食者",
-          "multiverseid": 272072
-        },
-        {
-          "name": "Spanish",
-          "language": "Depredadora despiadada",
-          "multiverseid": 273776
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 222115,
-      "name": "Merciless Predator",
-      "names": [
-        "Reckless Waif",
-        "Merciless Predator"
-      ],
-      "number": "159b",
-      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif.",
-      "originalType": "Creature — Human Rogue Werewolf",
-      "power": "3",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.",
-      "toughness": "2",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "8a8a1d3a-1df7-4c04-97a8-c479b73007c3",
       "artist": "Michael C. Hayes",
       "cmc": 1,
@@ -17602,7 +17503,7 @@
           "multiverseid": 273773
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -17654,6 +17555,105 @@
       "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif.",
       "toughness": "1",
       "type": "Creature — Human Rogue Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "ee629842-4144-484a-b8d2-4f4742b93408",
+      "artist": "Michael C. Hayes",
+      "cmc": 1,
+      "flavor": "Before she just wanted to snatch your purse; now she'll take the whole arm.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "殘酷掠食者",
+          "multiverseid": 272356
+        },
+        {
+          "name": "German",
+          "language": "Gnadenloses Raubtier",
+          "multiverseid": 273492
+        },
+        {
+          "name": "French",
+          "language": "Prédatrice impitoyable",
+          "multiverseid": 272924
+        },
+        {
+          "name": "Italian",
+          "language": "Predatrice Spietata",
+          "multiverseid": 274060
+        },
+        {
+          "name": "Japanese",
+          "language": "無慈悲な捕食者",
+          "multiverseid": 274344
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Predadora Impiedosa",
+          "multiverseid": 272640
+        },
+        {
+          "name": "Russian",
+          "language": "Безжалостная Хищница",
+          "multiverseid": 273208
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "残酷掠食者",
+          "multiverseid": 272072
+        },
+        {
+          "name": "Spanish",
+          "language": "Depredadora despiadada",
+          "multiverseid": 273776
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 222115,
+      "name": "Merciless Predator",
+      "names": [
+        "Reckless Waif",
+        "Merciless Predator"
+      ],
+      "number": "159b",
+      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif.",
+      "originalType": "Creature — Human Rogue Werewolf",
+      "power": "3",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.",
+      "toughness": "2",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -18203,7 +18203,7 @@
           "multiverseid": 273783
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -18311,7 +18311,7 @@
           "multiverseid": 273777
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -18563,105 +18563,6 @@
       ]
     },
     {
-      "_id": "48d25de5-6d13-4e58-2406-279a6ea337a8",
-      "artist": "Christopher Moeller",
-      "cmc": 2,
-      "flavor": "Each morning, he repairs the front door.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "鋼牙狼",
-          "multiverseid": 272351
-        },
-        {
-          "name": "German",
-          "language": "Eisenfang",
-          "multiverseid": 273487
-        },
-        {
-          "name": "French",
-          "language": "Crocdefer",
-          "multiverseid": 272919
-        },
-        {
-          "name": "Italian",
-          "language": "Zanna di Ferro",
-          "multiverseid": 274055
-        },
-        {
-          "name": "Japanese",
-          "language": "鉄牙",
-          "multiverseid": 274339
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Canino de Ferro",
-          "multiverseid": 272635
-        },
-        {
-          "name": "Russian",
-          "language": "Железный Клык",
-          "multiverseid": 273203
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "钢牙狼",
-          "multiverseid": 272067
-        },
-        {
-          "name": "Spanish",
-          "language": "Colmillo de hierro",
-          "multiverseid": 273771
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 222107,
-      "name": "Ironfang",
-      "names": [
-        "Village Ironsmith",
-        "Ironfang"
-      ],
-      "number": "168b",
-      "originalText": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.",
-      "originalType": "Creature — Human Werewolf",
-      "power": "3",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "common",
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "First strike\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.",
-      "toughness": "1",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "30ee9122-d4ce-4f70-81f0-1e050d18a04b",
       "artist": "Christopher Moeller",
       "cmc": 2,
@@ -18716,7 +18617,7 @@
           "multiverseid": 273774
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -18767,6 +18668,105 @@
       "text": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.",
       "toughness": "1",
       "type": "Creature — Human Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "48d25de5-6d13-4e58-2406-279a6ea337a8",
+      "artist": "Christopher Moeller",
+      "cmc": 2,
+      "flavor": "Each morning, he repairs the front door.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "鋼牙狼",
+          "multiverseid": 272351
+        },
+        {
+          "name": "German",
+          "language": "Eisenfang",
+          "multiverseid": 273487
+        },
+        {
+          "name": "French",
+          "language": "Crocdefer",
+          "multiverseid": 272919
+        },
+        {
+          "name": "Italian",
+          "language": "Zanna di Ferro",
+          "multiverseid": 274055
+        },
+        {
+          "name": "Japanese",
+          "language": "鉄牙",
+          "multiverseid": 274339
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Canino de Ferro",
+          "multiverseid": 272635
+        },
+        {
+          "name": "Russian",
+          "language": "Железный Клык",
+          "multiverseid": 273203
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "钢牙狼",
+          "multiverseid": 272067
+        },
+        {
+          "name": "Spanish",
+          "language": "Colmillo de hierro",
+          "multiverseid": 273771
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 222107,
+      "name": "Ironfang",
+      "names": [
+        "Village Ironsmith",
+        "Ironfang"
+      ],
+      "number": "168b",
+      "originalText": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.",
+      "originalType": "Creature — Human Werewolf",
+      "power": "3",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "common",
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "First strike\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.",
+      "toughness": "1",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -19522,7 +19522,7 @@
           "multiverseid": 273778
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -19629,7 +19629,7 @@
           "multiverseid": 273775
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -20173,7 +20173,7 @@
           "multiverseid": 273963
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -20289,7 +20289,7 @@
           "multiverseid": 273964
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -20349,104 +20349,6 @@
       ]
     },
     {
-      "_id": "8000f454-c724-44c2-384e-9083a0708d71",
-      "artist": "Mark Evans",
-      "cmc": 2,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "卡茲特嚎狼",
-          "multiverseid": 272416
-        },
-        {
-          "name": "German",
-          "language": "Heuler von Gatztow",
-          "multiverseid": 273552
-        },
-        {
-          "name": "French",
-          "language": "Hurleur de Gatstaf",
-          "multiverseid": 272984
-        },
-        {
-          "name": "Italian",
-          "language": "Ululatore di Gatstaf",
-          "multiverseid": 274120
-        },
-        {
-          "name": "Japanese",
-          "language": "ガツタフの咆哮者",
-          "multiverseid": 274404
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Uivador de Gatstaf",
-          "multiverseid": 272700
-        },
-        {
-          "name": "Russian",
-          "language": "Гастафский Завыватель",
-          "multiverseid": 273268
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "卡兹特嚎狼",
-          "multiverseid": 272132
-        },
-        {
-          "name": "Spanish",
-          "language": "Aullador de Gatstaf",
-          "multiverseid": 273836
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 227290,
-      "name": "Gatstaf Howler",
-      "names": [
-        "Gatstaf Shepherd",
-        "Gatstaf Howler"
-      ],
-      "number": "182b",
-      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd.",
-      "originalType": "Creature — Human Werewolf",
-      "power": "3",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler.",
-      "toughness": "3",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "5be6512e-d257-4a44-2478-f97f56101acb",
       "artist": "Mark Evans",
       "cmc": 2,
@@ -20501,7 +20403,7 @@
           "multiverseid": 273841
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -20552,6 +20454,104 @@
       "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd.",
       "toughness": "2",
       "type": "Creature — Human Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "8000f454-c724-44c2-384e-9083a0708d71",
+      "artist": "Mark Evans",
+      "cmc": 2,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "卡茲特嚎狼",
+          "multiverseid": 272416
+        },
+        {
+          "name": "German",
+          "language": "Heuler von Gatztow",
+          "multiverseid": 273552
+        },
+        {
+          "name": "French",
+          "language": "Hurleur de Gatstaf",
+          "multiverseid": 272984
+        },
+        {
+          "name": "Italian",
+          "language": "Ululatore di Gatstaf",
+          "multiverseid": 274120
+        },
+        {
+          "name": "Japanese",
+          "language": "ガツタフの咆哮者",
+          "multiverseid": 274404
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Uivador de Gatstaf",
+          "multiverseid": 272700
+        },
+        {
+          "name": "Russian",
+          "language": "Гастафский Завыватель",
+          "multiverseid": 273268
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "卡兹特嚎狼",
+          "multiverseid": 272132
+        },
+        {
+          "name": "Spanish",
+          "language": "Aullador de Gatstaf",
+          "multiverseid": 273836
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 227290,
+      "name": "Gatstaf Howler",
+      "names": [
+        "Gatstaf Shepherd",
+        "Gatstaf Howler"
+      ],
+      "number": "182b",
+      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd.",
+      "originalType": "Creature — Human Werewolf",
+      "power": "3",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler.",
+      "toughness": "3",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -20803,7 +20803,7 @@
           "multiverseid": 273780
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -20910,7 +20910,7 @@
           "multiverseid": 273779
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -21693,110 +21693,6 @@
       ]
     },
     {
-      "_id": "b61132ea-8c6d-4630-9e4a-174b87306872",
-      "artist": "Svetlin Velinov",
-      "cmc": 2,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "嚎群首領",
-          "multiverseid": 272362
-        },
-        {
-          "name": "German",
-          "language": "Alphatier des Heulerrudels",
-          "multiverseid": 273498
-        },
-        {
-          "name": "French",
-          "language": "Alpha hurlemeute",
-          "multiverseid": 272930
-        },
-        {
-          "name": "Italian",
-          "language": "Ulubranco Alfa",
-          "multiverseid": 274066
-        },
-        {
-          "name": "Japanese",
-          "language": "吠え群れの頭目",
-          "multiverseid": 274350
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Alfa da Alcateia Uivante",
-          "multiverseid": 272646
-        },
-        {
-          "name": "Russian",
-          "language": "Вожак Воющей Стаи",
-          "multiverseid": 273214
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "嚎群首领",
-          "multiverseid": 272078
-        },
-        {
-          "name": "Spanish",
-          "language": "Alfa de la jauría aullante",
-          "multiverseid": 273782
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 222183,
-      "name": "Howlpack Alpha",
-      "names": [
-        "Mayor of Avabruck",
-        "Howlpack Alpha"
-      ],
-      "number": "193b",
-      "originalText": "Other Human creatures you control get +1/+1.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.",
-      "originalType": "Creature — Human Advisor Werewolf",
-      "power": "3",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "rare",
-      "rulings": [
-        {
-          "date": "2011-09-22",
-          "text": "A creature that is both a Werewolf and a Wolf will only get +1/+1 from Howlpack Alpha."
-        }
-      ],
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Each other creature you control that's a Werewolf or a Wolf gets +1/+1.\nAt the beginning of your end step, create a 2/2 green Wolf creature token.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.",
-      "toughness": "3",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "489a57df-3272-4c5d-0b8d-651a25d3aa0c",
       "artist": "Svetlin Velinov",
       "cmc": 2,
@@ -21851,7 +21747,7 @@
           "multiverseid": 273784
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -21903,6 +21799,110 @@
       "text": "Other Human creatures you control get +1/+1.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.",
       "toughness": "1",
       "type": "Creature — Human Advisor Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "b61132ea-8c6d-4630-9e4a-174b87306872",
+      "artist": "Svetlin Velinov",
+      "cmc": 2,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "嚎群首領",
+          "multiverseid": 272362
+        },
+        {
+          "name": "German",
+          "language": "Alphatier des Heulerrudels",
+          "multiverseid": 273498
+        },
+        {
+          "name": "French",
+          "language": "Alpha hurlemeute",
+          "multiverseid": 272930
+        },
+        {
+          "name": "Italian",
+          "language": "Ulubranco Alfa",
+          "multiverseid": 274066
+        },
+        {
+          "name": "Japanese",
+          "language": "吠え群れの頭目",
+          "multiverseid": 274350
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Alfa da Alcateia Uivante",
+          "multiverseid": 272646
+        },
+        {
+          "name": "Russian",
+          "language": "Вожак Воющей Стаи",
+          "multiverseid": 273214
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "嚎群首领",
+          "multiverseid": 272078
+        },
+        {
+          "name": "Spanish",
+          "language": "Alfa de la jauría aullante",
+          "multiverseid": 273782
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 222183,
+      "name": "Howlpack Alpha",
+      "names": [
+        "Mayor of Avabruck",
+        "Howlpack Alpha"
+      ],
+      "number": "193b",
+      "originalText": "Other Human creatures you control get +1/+1.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.",
+      "originalType": "Creature — Human Advisor Werewolf",
+      "power": "3",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "rare",
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "A creature that is both a Werewolf and a Wolf will only get +1/+1 from Howlpack Alpha."
+        }
+      ],
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Each other creature you control that's a Werewolf or a Wolf gets +1/+1.\nAt the beginning of your end step, create a 2/2 green Wolf creature token.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.",
+      "toughness": "3",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -23402,111 +23402,6 @@
       ]
     },
     {
-      "_id": "ae2e820b-e73f-4162-9fb4-9dc990408f10",
-      "artist": "Dan Scott",
-      "cmc": 4,
-      "flavor": "\". . . and embrace the ancient ferocity of the undying Wild.\"",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "沃文森始住人",
-          "multiverseid": 272352
-        },
-        {
-          "name": "German",
-          "language": "Urwesen des Ulvenwalds",
-          "multiverseid": 273488
-        },
-        {
-          "name": "French",
-          "language": "Primordiaux d'Ulvenwald",
-          "multiverseid": 272920
-        },
-        {
-          "name": "Italian",
-          "language": "Primitivi di Ulvenwald",
-          "multiverseid": 274056
-        },
-        {
-          "name": "Japanese",
-          "language": "ウルヴェンワルドの根源",
-          "multiverseid": 274340
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Elementais de Ulvenwald",
-          "multiverseid": 272636
-        },
-        {
-          "name": "Russian",
-          "language": "Уленвальдские Дикари",
-          "multiverseid": 273204
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "沃文森始住人",
-          "multiverseid": 272068
-        },
-        {
-          "name": "Spanish",
-          "language": "Primigenios de Ulvenwald",
-          "multiverseid": 273772
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 222108,
-      "name": "Ulvenwald Primordials",
-      "names": [
-        "Ulvenwald Mystics",
-        "Ulvenwald Primordials"
-      ],
-      "number": "208b",
-      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.",
-      "originalType": "Creature — Human Shaman Werewolf",
-      "power": "5",
-      "printings": [
-        "ISD"
-      ],
-      "rarity": "uncommon",
-      "rulings": [
-        {
-          "date": "2011-09-22",
-          "text": "You can regenerate Ulvenwald Primordials in response to the triggered ability that would transform it. If you do, the regeneration shield will apply to Ulvenwald Mystics that turn."
-        }
-      ],
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "{G}: Regenerate Ulvenwald Primordials.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.",
-      "toughness": "5",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "073b59a2-6b4d-4ff1-8816-30eb3a1cf0c2",
       "artist": "Dan Scott",
       "cmc": 4,
@@ -23561,7 +23456,7 @@
           "multiverseid": 273770
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -23613,6 +23508,111 @@
       "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.",
       "toughness": "3",
       "type": "Creature — Human Shaman Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "ae2e820b-e73f-4162-9fb4-9dc990408f10",
+      "artist": "Dan Scott",
+      "cmc": 4,
+      "flavor": "\". . . and embrace the ancient ferocity of the undying Wild.\"",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "沃文森始住人",
+          "multiverseid": 272352
+        },
+        {
+          "name": "German",
+          "language": "Urwesen des Ulvenwalds",
+          "multiverseid": 273488
+        },
+        {
+          "name": "French",
+          "language": "Primordiaux d'Ulvenwald",
+          "multiverseid": 272920
+        },
+        {
+          "name": "Italian",
+          "language": "Primitivi di Ulvenwald",
+          "multiverseid": 274056
+        },
+        {
+          "name": "Japanese",
+          "language": "ウルヴェンワルドの根源",
+          "multiverseid": 274340
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Elementais de Ulvenwald",
+          "multiverseid": 272636
+        },
+        {
+          "name": "Russian",
+          "language": "Уленвальдские Дикари",
+          "multiverseid": 273204
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "沃文森始住人",
+          "multiverseid": 272068
+        },
+        {
+          "name": "Spanish",
+          "language": "Primigenios de Ulvenwald",
+          "multiverseid": 273772
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 222108,
+      "name": "Ulvenwald Primordials",
+      "names": [
+        "Ulvenwald Mystics",
+        "Ulvenwald Primordials"
+      ],
+      "number": "208b",
+      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.",
+      "originalType": "Creature — Human Shaman Werewolf",
+      "power": "5",
+      "printings": [
+        "ISD"
+      ],
+      "rarity": "uncommon",
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "You can regenerate Ulvenwald Primordials in response to the triggered ability that would transform it. If you do, the regeneration shield will apply to Ulvenwald Mystics that turn."
+        }
+      ],
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "{G}: Regenerate Ulvenwald Primordials.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.",
+      "toughness": "5",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -23672,7 +23672,7 @@
           "multiverseid": 273798
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",
@@ -23779,7 +23779,7 @@
           "multiverseid": 273794
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Modern",

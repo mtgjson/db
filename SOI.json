@@ -565,7 +565,7 @@
           "multiverseid": 413041
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -691,7 +691,7 @@
           "multiverseid": 413042
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -805,7 +805,7 @@
           "multiverseid": 413043
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -921,7 +921,7 @@
           "multiverseid": 413044
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -2696,7 +2696,7 @@
           "multiverseid": 413059
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -2823,7 +2823,7 @@
           "multiverseid": 413060
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -4306,121 +4306,6 @@
       ]
     },
     {
-      "_id": "22761620-23f5-4b85-8ff6-af6d7c0e7a6b",
-      "artist": "Kev Walker",
-      "cmc": 3,
-      "flavor": "\". . . and I will prove my devotion.\"",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "剛愎信徒",
-          "multiverseid": 410434
-        },
-        {
-          "name": "German",
-          "language": "Abtrünniger Apostel",
-          "multiverseid": 410764
-        },
-        {
-          "name": "French",
-          "language": "Disciple rétif",
-          "multiverseid": 411094
-        },
-        {
-          "name": "Italian",
-          "language": "Discepolo Traviato",
-          "multiverseid": 411424
-        },
-        {
-          "name": "Japanese",
-          "language": "むら気な信奉者",
-          "multiverseid": 411754
-        },
-        {
-          "name": "Korean",
-          "language": "고집 센 사제",
-          "multiverseid": 412084
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Discípulo Desencaminhado",
-          "multiverseid": 412414
-        },
-        {
-          "name": "Russian",
-          "language": "Заблудший Ученик",
-          "multiverseid": 412744
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "刚愎信徒",
-          "multiverseid": 410104
-        },
-        {
-          "name": "Spanish",
-          "language": "Discípulo obstinado",
-          "multiverseid": 413074
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409774,
-      "name": "Wayward Disciple",
-      "names": [
-        "Pious Evangel",
-        "Wayward Disciple"
-      ],
-      "number": "34b",
-      "originalText": "Whenever Pious Evangel or another creature enters the battlefield under your control, you gain 1 life.\n{2}, {T}, Sacrifice another permanent: Transform Pious Evangel.",
-      "originalType": "Creature — Human Cleric",
-      "power": "2",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "rulings": [
-        {
-          "date": "2016-04-08",
-          "text": "If Wayward Disciple dies at the same time as another creature you control, Wayward Disciple's ability triggers once for the other creature as well as once for itself."
-        }
-      ],
-      "subTypes": [
-        "Human",
-        "Cleric"
-      ],
-      "text": "Whenever Wayward Disciple or another creature you control dies, target opponent loses 1 life and you gain 1 life.",
-      "toughness": "4",
-      "type": "Creature — Human Cleric",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "4bbe03ba-e7f4-476f-adfa-b202767549ed",
       "artist": "Kev Walker",
       "cmc": 3,
@@ -4480,7 +4365,7 @@
           "multiverseid": 413073
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -4538,6 +4423,121 @@
       ],
       "text": "Whenever Pious Evangel or another creature enters the battlefield under your control, you gain 1 life.\n{2}, {T}, Sacrifice another permanent: Transform Pious Evangel.",
       "toughness": "2",
+      "type": "Creature — Human Cleric",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "22761620-23f5-4b85-8ff6-af6d7c0e7a6b",
+      "artist": "Kev Walker",
+      "cmc": 3,
+      "flavor": "\". . . and I will prove my devotion.\"",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "剛愎信徒",
+          "multiverseid": 410434
+        },
+        {
+          "name": "German",
+          "language": "Abtrünniger Apostel",
+          "multiverseid": 410764
+        },
+        {
+          "name": "French",
+          "language": "Disciple rétif",
+          "multiverseid": 411094
+        },
+        {
+          "name": "Italian",
+          "language": "Discepolo Traviato",
+          "multiverseid": 411424
+        },
+        {
+          "name": "Japanese",
+          "language": "むら気な信奉者",
+          "multiverseid": 411754
+        },
+        {
+          "name": "Korean",
+          "language": "고집 센 사제",
+          "multiverseid": 412084
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Discípulo Desencaminhado",
+          "multiverseid": 412414
+        },
+        {
+          "name": "Russian",
+          "language": "Заблудший Ученик",
+          "multiverseid": 412744
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "刚愎信徒",
+          "multiverseid": 410104
+        },
+        {
+          "name": "Spanish",
+          "language": "Discípulo obstinado",
+          "multiverseid": 413074
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409774,
+      "name": "Wayward Disciple",
+      "names": [
+        "Pious Evangel",
+        "Wayward Disciple"
+      ],
+      "number": "34b",
+      "originalText": "Whenever Pious Evangel or another creature enters the battlefield under your control, you gain 1 life.\n{2}, {T}, Sacrifice another permanent: Transform Pious Evangel.",
+      "originalType": "Creature — Human Cleric",
+      "power": "2",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "If Wayward Disciple dies at the same time as another creature you control, Wayward Disciple's ability triggers once for the other creature as well as once for itself."
+        }
+      ],
+      "subTypes": [
+        "Human",
+        "Cleric"
+      ],
+      "text": "Whenever Wayward Disciple or another creature you control dies, target opponent loses 1 life and you gain 1 life.",
+      "toughness": "4",
       "type": "Creature — Human Cleric",
       "types": [
         "Creature"
@@ -5825,124 +5825,6 @@
       ]
     },
     {
-      "_id": "f8ab0a6a-c8a5-4830-045a-6d395118bb65",
-      "artist": "John Stanko",
-      "cmc": 1,
-      "flavor": "Rumors are sparks: gather enough of them and something's going to catch fire.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "盛怒暴民",
-          "multiverseid": 410447
-        },
-        {
-          "name": "German",
-          "language": "Aufgewiegelter Pöbel",
-          "multiverseid": 410777
-        },
-        {
-          "name": "French",
-          "language": "Plèbe provoquée",
-          "multiverseid": 411107
-        },
-        {
-          "name": "Italian",
-          "language": "Marmaglia Esagitata",
-          "multiverseid": 411437
-        },
-        {
-          "name": "Japanese",
-          "language": "扇動された民衆",
-          "multiverseid": 411767
-        },
-        {
-          "name": "Korean",
-          "language": "봉기한 대중",
-          "multiverseid": 412097
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Plebe Agitada",
-          "multiverseid": 412427
-        },
-        {
-          "name": "Russian",
-          "language": "Рассерженный Сброд",
-          "multiverseid": 412757
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "盛怒暴民",
-          "multiverseid": 410117
-        },
-        {
-          "name": "Spanish",
-          "language": "Muchedumbre azuzada",
-          "multiverseid": 413087
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409787,
-      "name": "Incited Rabble",
-      "names": [
-        "Town Gossipmonger",
-        "Incited Rabble"
-      ],
-      "number": "46b",
-      "originalText": "{T}, Tap an untapped creature you control: Transform Town Gossipmonger.",
-      "originalType": "Creature — Human",
-      "power": "2",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "rulings": [
-        {
-          "date": "2016-04-08",
-          "text": "Incited Rabble's controller still chooses which player or planeswalker it attacks."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "If, during its controller's declare attackers step, Incited Rabble is tapped or is affected by a spell or ability that says it can't attack, then it doesn't attack. If there's a cost associated with having Incited Rabble attack, its controller isn't forced to pay that cost, so it doesn't have to attack in that case either. Note that transforming Town Gossipmonger won't untap it."
-        }
-      ],
-      "subTypes": [
-        "Human"
-      ],
-      "text": "Incited Rabble attacks each combat if able.\n{2}: Incited Rabble gets +1/+0 until end of turn.",
-      "toughness": "3",
-      "type": "Creature — Human",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "1bce315c-37f0-477b-9fef-ec3b8faf6d9f",
       "artist": "John Stanko",
       "cmc": 1,
@@ -6002,7 +5884,7 @@
           "multiverseid": 413086
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -6059,6 +5941,124 @@
       ],
       "text": "{T}, Tap an untapped creature you control: Transform Town Gossipmonger.",
       "toughness": "1",
+      "type": "Creature — Human",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "f8ab0a6a-c8a5-4830-045a-6d395118bb65",
+      "artist": "John Stanko",
+      "cmc": 1,
+      "flavor": "Rumors are sparks: gather enough of them and something's going to catch fire.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "盛怒暴民",
+          "multiverseid": 410447
+        },
+        {
+          "name": "German",
+          "language": "Aufgewiegelter Pöbel",
+          "multiverseid": 410777
+        },
+        {
+          "name": "French",
+          "language": "Plèbe provoquée",
+          "multiverseid": 411107
+        },
+        {
+          "name": "Italian",
+          "language": "Marmaglia Esagitata",
+          "multiverseid": 411437
+        },
+        {
+          "name": "Japanese",
+          "language": "扇動された民衆",
+          "multiverseid": 411767
+        },
+        {
+          "name": "Korean",
+          "language": "봉기한 대중",
+          "multiverseid": 412097
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Plebe Agitada",
+          "multiverseid": 412427
+        },
+        {
+          "name": "Russian",
+          "language": "Рассерженный Сброд",
+          "multiverseid": 412757
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "盛怒暴民",
+          "multiverseid": 410117
+        },
+        {
+          "name": "Spanish",
+          "language": "Muchedumbre azuzada",
+          "multiverseid": 413087
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409787,
+      "name": "Incited Rabble",
+      "names": [
+        "Town Gossipmonger",
+        "Incited Rabble"
+      ],
+      "number": "46b",
+      "originalText": "{T}, Tap an untapped creature you control: Transform Town Gossipmonger.",
+      "originalType": "Creature — Human",
+      "power": "2",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "Incited Rabble's controller still chooses which player or planeswalker it attacks."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "If, during its controller's declare attackers step, Incited Rabble is tapped or is affected by a spell or ability that says it can't attack, then it doesn't attack. If there's a cost associated with having Incited Rabble attack, its controller isn't forced to pay that cost, so it doesn't have to attack in that case either. Note that transforming Town Gossipmonger won't untap it."
+        }
+      ],
+      "subTypes": [
+        "Human"
+      ],
+      "text": "Incited Rabble attacks each combat if able.\n{2}: Incited Rabble gets +1/+0 until end of turn.",
+      "toughness": "3",
       "type": "Creature — Human",
       "types": [
         "Creature"
@@ -6287,115 +6287,6 @@
       ]
     },
     {
-      "_id": "df770cdc-cad8-4d99-35c1-0287b2b53d9d",
-      "artist": "Nils Hamm",
-      "cmc": 4,
-      "flavor": "The final pages of the experiment log were blank. Investigators found it abandoned on a desk in the researcher's lab, open, the pages flipping in the wind from a shattered window.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "完美形體",
-          "multiverseid": 410451
-        },
-        {
-          "name": "German",
-          "language": "Vollendete Form",
-          "multiverseid": 410781
-        },
-        {
-          "name": "French",
-          "language": "Forme perfectionnée",
-          "multiverseid": 411111
-        },
-        {
-          "name": "Italian",
-          "language": "Forma Perfezionata",
-          "multiverseid": 411441
-        },
-        {
-          "name": "Japanese",
-          "language": "完成態",
-          "multiverseid": 411771
-        },
-        {
-          "name": "Korean",
-          "language": "완벽한 형상",
-          "multiverseid": 412101
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Forma Aperfeiçoada",
-          "multiverseid": 412431
-        },
-        {
-          "name": "Russian",
-          "language": "Совершенная Форма",
-          "multiverseid": 412761
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "完美形体",
-          "multiverseid": 410121
-        },
-        {
-          "name": "Spanish",
-          "language": "Forma perfeccionada",
-          "multiverseid": 413091
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409791,
-      "name": "Perfected Form",
-      "names": [
-        "Aberrant Researcher",
-        "Perfected Form"
-      ],
-      "number": "49b",
-      "originalText": "Flying\nAt the beginning of your upkeep, put the top card of your library into your graveyard. If it's an instant or sorcery card, transform Aberrant Researcher.",
-      "originalType": "Creature — Human Insect",
-      "power": "5",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Insect",
-        "Horror"
-      ],
-      "text": "Flying",
-      "toughness": "4",
-      "type": "Creature — Insect Horror",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "c0b37689-fef9-4451-a7b4-4276db233c3b",
       "artist": "Nils Hamm",
       "cmc": 4,
@@ -6455,7 +6346,7 @@
           "multiverseid": 413090
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -6518,6 +6409,115 @@
       "text": "Flying\nAt the beginning of your upkeep, put the top card of your library into your graveyard. If it's an instant or sorcery card, transform Aberrant Researcher.",
       "toughness": "2",
       "type": "Creature — Human Insect",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "df770cdc-cad8-4d99-35c1-0287b2b53d9d",
+      "artist": "Nils Hamm",
+      "cmc": 4,
+      "flavor": "The final pages of the experiment log were blank. Investigators found it abandoned on a desk in the researcher's lab, open, the pages flipping in the wind from a shattered window.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "完美形體",
+          "multiverseid": 410451
+        },
+        {
+          "name": "German",
+          "language": "Vollendete Form",
+          "multiverseid": 410781
+        },
+        {
+          "name": "French",
+          "language": "Forme perfectionnée",
+          "multiverseid": 411111
+        },
+        {
+          "name": "Italian",
+          "language": "Forma Perfezionata",
+          "multiverseid": 411441
+        },
+        {
+          "name": "Japanese",
+          "language": "完成態",
+          "multiverseid": 411771
+        },
+        {
+          "name": "Korean",
+          "language": "완벽한 형상",
+          "multiverseid": 412101
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Forma Aperfeiçoada",
+          "multiverseid": 412431
+        },
+        {
+          "name": "Russian",
+          "language": "Совершенная Форма",
+          "multiverseid": 412761
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "完美形体",
+          "multiverseid": 410121
+        },
+        {
+          "name": "Spanish",
+          "language": "Forma perfeccionada",
+          "multiverseid": 413091
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409791,
+      "name": "Perfected Form",
+      "names": [
+        "Aberrant Researcher",
+        "Perfected Form"
+      ],
+      "number": "49b",
+      "originalText": "Flying\nAt the beginning of your upkeep, put the top card of your library into your graveyard. If it's an instant or sorcery card, transform Aberrant Researcher.",
+      "originalType": "Creature — Human Insect",
+      "power": "5",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Insect",
+        "Horror"
+      ],
+      "text": "Flying",
+      "toughness": "4",
+      "type": "Creature — Insect Horror",
       "types": [
         "Creature"
       ]
@@ -7071,7 +7071,7 @@
           "multiverseid": 413096
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -7190,7 +7190,7 @@
           "multiverseid": 413097
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -11144,7 +11144,7 @@
           "multiverseid": 413131
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -11254,7 +11254,7 @@
           "multiverseid": 413132
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -11709,7 +11709,7 @@
           "multiverseid": 413136
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -11832,7 +11832,7 @@
           "multiverseid": 413137
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -12002,114 +12002,6 @@
       ]
     },
     {
-      "_id": "f082872a-4135-4314-10b2-6ee5ceb47a73",
-      "artist": "Dan Scott",
-      "cmc": 3,
-      "flavor": "Knocking was simply a formality.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "無阻訪客",
-          "multiverseid": 410500
-        },
-        {
-          "name": "German",
-          "language": "Ungehinderter Eindringling",
-          "multiverseid": 410830
-        },
-        {
-          "name": "French",
-          "language": "Intrus sans entraves",
-          "multiverseid": 411160
-        },
-        {
-          "name": "Italian",
-          "language": "Intruso Inarrestabile",
-          "multiverseid": 411490
-        },
-        {
-          "name": "Japanese",
-          "language": "阻み難い侵入者",
-          "multiverseid": 411820
-        },
-        {
-          "name": "Korean",
-          "language": "방해받지 않은 침입자",
-          "multiverseid": 412150
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Invasor Desimpedido",
-          "multiverseid": 412480
-        },
-        {
-          "name": "Russian",
-          "language": "Неудержимый Нарушитель",
-          "multiverseid": 412810
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "无阻访客",
-          "multiverseid": 410170
-        },
-        {
-          "name": "Spanish",
-          "language": "Intruso sin trabas",
-          "multiverseid": 413140
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409840,
-      "name": "Unimpeded Trespasser",
-      "names": [
-        "Uninvited Geist",
-        "Unimpeded Trespasser"
-      ],
-      "number": "94b",
-      "originalText": "Skulk (This creature can't be blocked by creatures with greater power.)\nWhen Uninvited Geist deals combat damage to a player, transform it.",
-      "originalType": "Creature — Spirit",
-      "power": "3",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Spirit"
-      ],
-      "text": "Unimpeded Trespasser can't be blocked.",
-      "toughness": "3",
-      "type": "Creature — Spirit",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "16df68b2-b663-4175-13f8-79bdd55a70d2",
       "artist": "Dan Scott",
       "cmc": 3,
@@ -12169,7 +12061,7 @@
           "multiverseid": 413139
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -12230,6 +12122,114 @@
       ],
       "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nWhen Uninvited Geist deals combat damage to a player, transform it.",
       "toughness": "2",
+      "type": "Creature — Spirit",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "f082872a-4135-4314-10b2-6ee5ceb47a73",
+      "artist": "Dan Scott",
+      "cmc": 3,
+      "flavor": "Knocking was simply a formality.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "無阻訪客",
+          "multiverseid": 410500
+        },
+        {
+          "name": "German",
+          "language": "Ungehinderter Eindringling",
+          "multiverseid": 410830
+        },
+        {
+          "name": "French",
+          "language": "Intrus sans entraves",
+          "multiverseid": 411160
+        },
+        {
+          "name": "Italian",
+          "language": "Intruso Inarrestabile",
+          "multiverseid": 411490
+        },
+        {
+          "name": "Japanese",
+          "language": "阻み難い侵入者",
+          "multiverseid": 411820
+        },
+        {
+          "name": "Korean",
+          "language": "방해받지 않은 침입자",
+          "multiverseid": 412150
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Invasor Desimpedido",
+          "multiverseid": 412480
+        },
+        {
+          "name": "Russian",
+          "language": "Неудержимый Нарушитель",
+          "multiverseid": 412810
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "无阻访客",
+          "multiverseid": 410170
+        },
+        {
+          "name": "Spanish",
+          "language": "Intruso sin trabas",
+          "multiverseid": 413140
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409840,
+      "name": "Unimpeded Trespasser",
+      "names": [
+        "Uninvited Geist",
+        "Unimpeded Trespasser"
+      ],
+      "number": "94b",
+      "originalText": "Skulk (This creature can't be blocked by creatures with greater power.)\nWhen Uninvited Geist deals combat damage to a player, transform it.",
+      "originalType": "Creature — Spirit",
+      "power": "3",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Spirit"
+      ],
+      "text": "Unimpeded Trespasser can't be blocked.",
+      "toughness": "3",
       "type": "Creature — Spirit",
       "types": [
         "Creature"
@@ -12541,7 +12541,7 @@
           "multiverseid": 413143
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -12664,7 +12664,7 @@
           "multiverseid": 413144
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -13961,113 +13961,6 @@
       ]
     },
     {
-      "_id": "0304069d-1af8-44fc-abf3-676ec2b3ccd5",
-      "artist": "Izzy",
-      "cmc": 4,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "隱伏迷霧",
-          "multiverseid": 410516
-        },
-        {
-          "name": "German",
-          "language": "Heimtückischer Nebel",
-          "multiverseid": 410846
-        },
-        {
-          "name": "French",
-          "language": "Brume insidieuse",
-          "multiverseid": 411176
-        },
-        {
-          "name": "Italian",
-          "language": "Nebbia Insidiosa",
-          "multiverseid": 411506
-        },
-        {
-          "name": "Japanese",
-          "language": "陰湿な霧",
-          "multiverseid": 411836
-        },
-        {
-          "name": "Korean",
-          "language": "은밀히 퍼지는 안개",
-          "multiverseid": 412166
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Névoa Insidiosa",
-          "multiverseid": 412496
-        },
-        {
-          "name": "Russian",
-          "language": "Коварный Туман",
-          "multiverseid": 412826
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "隐伏迷雾",
-          "multiverseid": 410186
-        },
-        {
-          "name": "Spanish",
-          "language": "Niebla insidiosa",
-          "multiverseid": 413156
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409856,
-      "name": "Insidious Mist",
-      "names": [
-        "Elusive Tormentor",
-        "Insidious Mist"
-      ],
-      "number": "108b",
-      "originalText": "{1}, Discard a card: Transform Elusive Tormentor.",
-      "originalType": "Creature — Vampire Wizard",
-      "power": "0",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "rare",
-      "subTypes": [
-        "Elemental"
-      ],
-      "text": "Hexproof, indestructible\nInsidious Mist can't block and can't be blocked.\nWhenever Insidious Mist attacks and isn't blocked, you may pay {2}{B}. If you do, transform it.",
-      "toughness": "1",
-      "type": "Creature — Elemental",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "8136ef43-3a92-4c95-8e53-4ffe94fb4fc6",
       "artist": "Izzy",
       "cmc": 4,
@@ -14127,7 +14020,7 @@
           "multiverseid": 413155
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -14194,6 +14087,113 @@
       "text": "{1}, Discard a card: Transform Elusive Tormentor.",
       "toughness": "4",
       "type": "Creature — Vampire Wizard",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "0304069d-1af8-44fc-abf3-676ec2b3ccd5",
+      "artist": "Izzy",
+      "cmc": 4,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "隱伏迷霧",
+          "multiverseid": 410516
+        },
+        {
+          "name": "German",
+          "language": "Heimtückischer Nebel",
+          "multiverseid": 410846
+        },
+        {
+          "name": "French",
+          "language": "Brume insidieuse",
+          "multiverseid": 411176
+        },
+        {
+          "name": "Italian",
+          "language": "Nebbia Insidiosa",
+          "multiverseid": 411506
+        },
+        {
+          "name": "Japanese",
+          "language": "陰湿な霧",
+          "multiverseid": 411836
+        },
+        {
+          "name": "Korean",
+          "language": "은밀히 퍼지는 안개",
+          "multiverseid": 412166
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Névoa Insidiosa",
+          "multiverseid": 412496
+        },
+        {
+          "name": "Russian",
+          "language": "Коварный Туман",
+          "multiverseid": 412826
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "隐伏迷雾",
+          "multiverseid": 410186
+        },
+        {
+          "name": "Spanish",
+          "language": "Niebla insidiosa",
+          "multiverseid": 413156
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409856,
+      "name": "Insidious Mist",
+      "names": [
+        "Elusive Tormentor",
+        "Insidious Mist"
+      ],
+      "number": "108b",
+      "originalText": "{1}, Discard a card: Transform Elusive Tormentor.",
+      "originalType": "Creature — Vampire Wizard",
+      "power": "0",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "rare",
+      "subTypes": [
+        "Elemental"
+      ],
+      "text": "Hexproof, indestructible\nInsidious Mist can't block and can't be blocked.\nWhenever Insidious Mist attacks and isn't blocked, you may pay {2}{B}. If you do, transform it.",
+      "toughness": "1",
+      "type": "Creature — Elemental",
       "types": [
         "Creature"
       ]
@@ -15038,115 +15038,6 @@
       ]
     },
     {
-      "_id": "6f68f851-2fd8-4511-9d46-651195180504",
-      "artist": "Jason Rainville",
-      "cmc": 2,
-      "flavor": "The Falkenrath have relinquished all pretense at nobility, losing themselves completely to their all-consuming thirst.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "暗夜子嗣",
-          "multiverseid": 410525
-        },
-        {
-          "name": "German",
-          "language": "Erbin der Nacht",
-          "multiverseid": 410855
-        },
-        {
-          "name": "French",
-          "language": "Héritière de la nuit",
-          "multiverseid": 411185
-        },
-        {
-          "name": "Italian",
-          "language": "Erede della Notte",
-          "multiverseid": 411515
-        },
-        {
-          "name": "Japanese",
-          "language": "夜陰の後継者",
-          "multiverseid": 411845
-        },
-        {
-          "name": "Korean",
-          "language": "밤의 계승자",
-          "multiverseid": 412175
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Herdeira da Noite",
-          "multiverseid": 412505
-        },
-        {
-          "name": "Russian",
-          "language": "Наследница Ночи",
-          "multiverseid": 412835
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "暗夜子嗣",
-          "multiverseid": 410195
-        },
-        {
-          "name": "Spanish",
-          "language": "Heredera de la noche",
-          "multiverseid": 413165
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409865,
-      "name": "Heir to the Night",
-      "names": [
-        "Heir of Falkenrath",
-        "Heir to the Night"
-      ],
-      "number": "116b",
-      "originalText": "Discard a card: Transform Heir of Falkenrath. Activate this ability only once each turn.",
-      "originalType": "Creature — Vampire",
-      "power": "3",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Vampire",
-        "Berserker"
-      ],
-      "text": "Flying",
-      "toughness": "2",
-      "type": "Creature — Vampire Berserker",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "3d960e67-cfc3-44a8-0227-0266bd0368d4",
       "artist": "Jason Rainville",
       "cmc": 2,
@@ -15206,7 +15097,7 @@
           "multiverseid": 413164
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -15260,6 +15151,115 @@
       "text": "Discard a card: Transform Heir of Falkenrath. Activate this ability only once each turn.",
       "toughness": "1",
       "type": "Creature — Vampire",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "6f68f851-2fd8-4511-9d46-651195180504",
+      "artist": "Jason Rainville",
+      "cmc": 2,
+      "flavor": "The Falkenrath have relinquished all pretense at nobility, losing themselves completely to their all-consuming thirst.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "暗夜子嗣",
+          "multiverseid": 410525
+        },
+        {
+          "name": "German",
+          "language": "Erbin der Nacht",
+          "multiverseid": 410855
+        },
+        {
+          "name": "French",
+          "language": "Héritière de la nuit",
+          "multiverseid": 411185
+        },
+        {
+          "name": "Italian",
+          "language": "Erede della Notte",
+          "multiverseid": 411515
+        },
+        {
+          "name": "Japanese",
+          "language": "夜陰の後継者",
+          "multiverseid": 411845
+        },
+        {
+          "name": "Korean",
+          "language": "밤의 계승자",
+          "multiverseid": 412175
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Herdeira da Noite",
+          "multiverseid": 412505
+        },
+        {
+          "name": "Russian",
+          "language": "Наследница Ночи",
+          "multiverseid": 412835
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "暗夜子嗣",
+          "multiverseid": 410195
+        },
+        {
+          "name": "Spanish",
+          "language": "Heredera de la noche",
+          "multiverseid": 413165
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409865,
+      "name": "Heir to the Night",
+      "names": [
+        "Heir of Falkenrath",
+        "Heir to the Night"
+      ],
+      "number": "116b",
+      "originalText": "Discard a card: Transform Heir of Falkenrath. Activate this ability only once each turn.",
+      "originalType": "Creature — Vampire",
+      "power": "3",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Vampire",
+        "Berserker"
+      ],
+      "text": "Flying",
+      "toughness": "2",
+      "type": "Creature — Vampire Berserker",
       "types": [
         "Creature"
       ]
@@ -15510,115 +15510,6 @@
       ]
     },
     {
-      "_id": "1d52d6fa-5c50-469d-abce-74946eedc7a1",
-      "artist": "Ryan Pancoast",
-      "cmc": 3,
-      "flavor": "\"It looks like you could use some protection of your own.\"",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "著魔巫婆",
-          "multiverseid": 410529
-        },
-        {
-          "name": "German",
-          "language": "Dämonenbesessene Hexe",
-          "multiverseid": 410859
-        },
-        {
-          "name": "French",
-          "language": "Envoûteuse possédée",
-          "multiverseid": 411189
-        },
-        {
-          "name": "Italian",
-          "language": "Strega Indemoniata",
-          "multiverseid": 411519
-        },
-        {
-          "name": "Japanese",
-          "language": "悪魔憑きの魔女",
-          "multiverseid": 411849
-        },
-        {
-          "name": "Korean",
-          "language": "악마에 홀린 마녀",
-          "multiverseid": 412179
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Bruxa Possuída por Demônios",
-          "multiverseid": 412509
-        },
-        {
-          "name": "Russian",
-          "language": "Одержимая Демоном Ведьма",
-          "multiverseid": 412839
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "着魔巫婆",
-          "multiverseid": 410199
-        },
-        {
-          "name": "Spanish",
-          "language": "Bruja poseída",
-          "multiverseid": 413169
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409869,
-      "name": "Demon-Possessed Witch",
-      "names": [
-        "Kindly Stranger",
-        "Demon-Possessed Witch"
-      ],
-      "number": "119b",
-      "originalText": "Delirium - {2}{B}: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.",
-      "originalType": "Creature — Human",
-      "power": "4",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Human",
-        "Shaman"
-      ],
-      "text": "When this creature transforms into Demon-Possessed Witch, you may destroy target creature.",
-      "toughness": "3",
-      "type": "Creature — Human Shaman",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "5e633d42-6cab-4fac-1841-aa4643fd8209",
       "artist": "Ryan Pancoast",
       "cmc": 3,
@@ -15678,7 +15569,7 @@
           "multiverseid": 413168
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -15756,6 +15647,115 @@
       "text": "Delirium - {2}{B}: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.",
       "toughness": "3",
       "type": "Creature — Human",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "1d52d6fa-5c50-469d-abce-74946eedc7a1",
+      "artist": "Ryan Pancoast",
+      "cmc": 3,
+      "flavor": "\"It looks like you could use some protection of your own.\"",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "著魔巫婆",
+          "multiverseid": 410529
+        },
+        {
+          "name": "German",
+          "language": "Dämonenbesessene Hexe",
+          "multiverseid": 410859
+        },
+        {
+          "name": "French",
+          "language": "Envoûteuse possédée",
+          "multiverseid": 411189
+        },
+        {
+          "name": "Italian",
+          "language": "Strega Indemoniata",
+          "multiverseid": 411519
+        },
+        {
+          "name": "Japanese",
+          "language": "悪魔憑きの魔女",
+          "multiverseid": 411849
+        },
+        {
+          "name": "Korean",
+          "language": "악마에 홀린 마녀",
+          "multiverseid": 412179
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Bruxa Possuída por Demônios",
+          "multiverseid": 412509
+        },
+        {
+          "name": "Russian",
+          "language": "Одержимая Демоном Ведьма",
+          "multiverseid": 412839
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "着魔巫婆",
+          "multiverseid": 410199
+        },
+        {
+          "name": "Spanish",
+          "language": "Bruja poseída",
+          "multiverseid": 413169
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409869,
+      "name": "Demon-Possessed Witch",
+      "names": [
+        "Kindly Stranger",
+        "Demon-Possessed Witch"
+      ],
+      "number": "119b",
+      "originalText": "Delirium - {2}{B}: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.",
+      "originalType": "Creature — Human",
+      "power": "4",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Human",
+        "Shaman"
+      ],
+      "text": "When this creature transforms into Demon-Possessed Witch, you may destroy target creature.",
+      "toughness": "3",
+      "type": "Creature — Human Shaman",
       "types": [
         "Creature"
       ]
@@ -19072,7 +19072,7 @@
           "multiverseid": 413197
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -19193,7 +19193,7 @@
           "multiverseid": 413198
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -19371,124 +19371,6 @@
       ]
     },
     {
-      "_id": "1fcdde80-70e7-443e-2433-d46c4962b284",
-      "artist": "Deruchenko Alexander",
-      "cmc": 3,
-      "flavor": "It is said that one of the most notorious werewolf howlpacks, the Vildin, only calls those whose hands are already stained with blood.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "銘印嚎狼",
-          "multiverseid": 410561
-        },
-        {
-          "name": "German",
-          "language": "Gebrandmarkter Heuler",
-          "multiverseid": 410891
-        },
-        {
-          "name": "French",
-          "language": "Hurleur marqué au fer",
-          "multiverseid": 411221
-        },
-        {
-          "name": "Italian",
-          "language": "Ululatore Marchiato",
-          "multiverseid": 411551
-        },
-        {
-          "name": "Japanese",
-          "language": "焼き印の咆哮者",
-          "multiverseid": 411881
-        },
-        {
-          "name": "Korean",
-          "language": "낙인 찍힌 표효자",
-          "multiverseid": 412211
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Uivador Marcado",
-          "multiverseid": 412541
-        },
-        {
-          "name": "Russian",
-          "language": "Клейменый Завыватель",
-          "multiverseid": 412871
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "铭印嚎狼",
-          "multiverseid": 410231
-        },
-        {
-          "name": "Spanish",
-          "language": "Aullador marcado",
-          "multiverseid": 413201
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409901,
-      "name": "Branded Howler",
-      "names": [
-        "Convicted Killer",
-        "Branded Howler"
-      ],
-      "number": "149b",
-      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Convicted Killer.",
-      "originalType": "Creature — Human Werewolf",
-      "power": "4",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "common",
-      "rulings": [
-        {
-          "date": "2016-04-08",
-          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
-        }
-      ],
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Branded Howler.",
-      "toughness": "4",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "559117f9-ead8-45f2-abdd-b9a90be027d9",
       "artist": "Deruchenko Alexander",
       "cmc": 3,
@@ -19548,7 +19430,7 @@
           "multiverseid": 413200
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -19607,6 +19489,124 @@
       "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Convicted Killer.",
       "toughness": "2",
       "type": "Creature — Human Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "1fcdde80-70e7-443e-2433-d46c4962b284",
+      "artist": "Deruchenko Alexander",
+      "cmc": 3,
+      "flavor": "It is said that one of the most notorious werewolf howlpacks, the Vildin, only calls those whose hands are already stained with blood.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "銘印嚎狼",
+          "multiverseid": 410561
+        },
+        {
+          "name": "German",
+          "language": "Gebrandmarkter Heuler",
+          "multiverseid": 410891
+        },
+        {
+          "name": "French",
+          "language": "Hurleur marqué au fer",
+          "multiverseid": 411221
+        },
+        {
+          "name": "Italian",
+          "language": "Ululatore Marchiato",
+          "multiverseid": 411551
+        },
+        {
+          "name": "Japanese",
+          "language": "焼き印の咆哮者",
+          "multiverseid": 411881
+        },
+        {
+          "name": "Korean",
+          "language": "낙인 찍힌 표효자",
+          "multiverseid": 412211
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Uivador Marcado",
+          "multiverseid": 412541
+        },
+        {
+          "name": "Russian",
+          "language": "Клейменый Завыватель",
+          "multiverseid": 412871
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "铭印嚎狼",
+          "multiverseid": 410231
+        },
+        {
+          "name": "Spanish",
+          "language": "Aullador marcado",
+          "multiverseid": 413201
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409901,
+      "name": "Branded Howler",
+      "names": [
+        "Convicted Killer",
+        "Branded Howler"
+      ],
+      "number": "149b",
+      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Convicted Killer.",
+      "originalType": "Creature — Human Werewolf",
+      "power": "4",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "common",
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
+        }
+      ],
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Branded Howler.",
+      "toughness": "4",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -20630,7 +20630,7 @@
           "multiverseid": 413210
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -20749,7 +20749,7 @@
           "multiverseid": 413211
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -20805,131 +20805,6 @@
       ],
       "text": "Menace (This creature can't be blocked except by two or more creatures.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Ravagers.",
       "toughness": "5",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
-      "_id": "97a0b0ee-b97e-482a-adc2-82e016969e9a",
-      "artist": "Slawomir Maniak",
-      "cmc": 3,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "維汀群首領",
-          "multiverseid": 410573
-        },
-        {
-          "name": "German",
-          "language": "Alphatier des Vildin-Rudels",
-          "multiverseid": 410903
-        },
-        {
-          "name": "French",
-          "language": "Alpha de la meute Vildin",
-          "multiverseid": 411233
-        },
-        {
-          "name": "Italian",
-          "language": "Alfa del Branco Vildin",
-          "multiverseid": 411563
-        },
-        {
-          "name": "Japanese",
-          "language": "ヴィルディン群れの頭目",
-          "multiverseid": 411893
-        },
-        {
-          "name": "Korean",
-          "language": "빌딘 무리의 우두머리",
-          "multiverseid": 412223
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Alfa da Alcateia Vildin",
-          "multiverseid": 412553
-        },
-        {
-          "name": "Russian",
-          "language": "Вожак Вильдинской Стаи",
-          "multiverseid": 412883
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "维汀群首领",
-          "multiverseid": 410243
-        },
-        {
-          "name": "Spanish",
-          "language": "Alfa de la manada Vildin",
-          "multiverseid": 413213
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409913,
-      "name": "Vildin-Pack Alpha",
-      "names": [
-        "Geier Reach Bandit",
-        "Vildin-Pack Alpha"
-      ],
-      "number": "159b",
-      "originalText": "Haste\nAt the beginning of each upkeep, if no spells were cast last turn, transform Geier Reach Bandit.",
-      "originalType": "Creature — Human Rogue Werewolf",
-      "power": "4",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "rare",
-      "rulings": [
-        {
-          "date": "2016-04-08",
-          "text": "If you control three Vildin-Pack Alphas and a Werewolf enters the battlefield under your control, you may transform it, transform it again, and transform it a third time."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "If a creature with haste transforms and no longer has haste on the same turn that it comes under your control, such as if you cast a Geier Reach Bandit when you already control a Vildin-Pack Alpha, it won't be able to attack that turn."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
-        }
-      ],
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Whenever a Werewolf enters the battlefield under your control, you may transform it.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Vildin-Pack Alpha.",
-      "toughness": "3",
       "type": "Creature — Werewolf",
       "types": [
         "Creature"
@@ -20995,7 +20870,7 @@
           "multiverseid": 413212
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -21055,6 +20930,131 @@
       "text": "Haste\nAt the beginning of each upkeep, if no spells were cast last turn, transform Geier Reach Bandit.",
       "toughness": "2",
       "type": "Creature — Human Rogue Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "97a0b0ee-b97e-482a-adc2-82e016969e9a",
+      "artist": "Slawomir Maniak",
+      "cmc": 3,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "維汀群首領",
+          "multiverseid": 410573
+        },
+        {
+          "name": "German",
+          "language": "Alphatier des Vildin-Rudels",
+          "multiverseid": 410903
+        },
+        {
+          "name": "French",
+          "language": "Alpha de la meute Vildin",
+          "multiverseid": 411233
+        },
+        {
+          "name": "Italian",
+          "language": "Alfa del Branco Vildin",
+          "multiverseid": 411563
+        },
+        {
+          "name": "Japanese",
+          "language": "ヴィルディン群れの頭目",
+          "multiverseid": 411893
+        },
+        {
+          "name": "Korean",
+          "language": "빌딘 무리의 우두머리",
+          "multiverseid": 412223
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Alfa da Alcateia Vildin",
+          "multiverseid": 412553
+        },
+        {
+          "name": "Russian",
+          "language": "Вожак Вильдинской Стаи",
+          "multiverseid": 412883
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "维汀群首领",
+          "multiverseid": 410243
+        },
+        {
+          "name": "Spanish",
+          "language": "Alfa de la manada Vildin",
+          "multiverseid": 413213
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409913,
+      "name": "Vildin-Pack Alpha",
+      "names": [
+        "Geier Reach Bandit",
+        "Vildin-Pack Alpha"
+      ],
+      "number": "159b",
+      "originalText": "Haste\nAt the beginning of each upkeep, if no spells were cast last turn, transform Geier Reach Bandit.",
+      "originalType": "Creature — Human Rogue Werewolf",
+      "power": "4",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "rare",
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "If you control three Vildin-Pack Alphas and a Werewolf enters the battlefield under your control, you may transform it, transform it again, and transform it a third time."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "If a creature with haste transforms and no longer has haste on the same turn that it comes under your control, such as if you cast a Geier Reach Bandit when you already control a Vildin-Pack Alpha, it won't be able to attack that turn."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
+        }
+      ],
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Whenever a Werewolf enters the battlefield under your control, you may transform it.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Vildin-Pack Alpha.",
+      "toughness": "3",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -22144,127 +22144,6 @@
       ]
     },
     {
-      "_id": "96d04f7f-9a2b-4183-ad46-d5df1d3a86be",
-      "artist": "Winona Nelson",
-      "cmc": 2,
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "焰心狼人",
-          "multiverseid": 410584
-        },
-        {
-          "name": "German",
-          "language": "Flammenherz-Werwölfin",
-          "multiverseid": 410914
-        },
-        {
-          "name": "French",
-          "language": "Loup-garou au cœur de flammes",
-          "multiverseid": 411244
-        },
-        {
-          "name": "Italian",
-          "language": "Mannara Cuore di Fiamma",
-          "multiverseid": 411574
-        },
-        {
-          "name": "Japanese",
-          "language": "炎心の人狼",
-          "multiverseid": 411904
-        },
-        {
-          "name": "Korean",
-          "language": "화염심장 늑대인간",
-          "multiverseid": 412234
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Lobisomem Flamicárdio",
-          "multiverseid": 412564
-        },
-        {
-          "name": "Russian",
-          "language": "Вервольф Огненного Сердца",
-          "multiverseid": 412894
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "焰心狼人",
-          "multiverseid": 410254
-        },
-        {
-          "name": "Spanish",
-          "language": "Licántropa entrañafulgor",
-          "multiverseid": 413224
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409924,
-      "name": "Flameheart Werewolf",
-      "names": [
-        "Kessig Forgemaster",
-        "Flameheart Werewolf"
-      ],
-      "number": "169b",
-      "originalText": "Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig Forgemaster deals 1 damage to that creature.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kessig Forgemaster.",
-      "originalType": "Creature — Human Shaman Werewolf",
-      "power": "3",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "rulings": [
-        {
-          "date": "2016-04-08",
-          "text": "Flameheart Werewolf's first ability triggers once for each creature blocking or blocked by it. The ability resolves and deals damage to that creature before combat damage is dealt. If that damage destroys a creature blocking Flameheart Werewolf, Flameheart Werewolf doesn't become unblocked."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
-        }
-      ],
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Whenever Flameheart Werewolf blocks or becomes blocked by a creature, Flameheart Werewolf deals 2 damage to that creature.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Flameheart Werewolf.",
-      "toughness": "2",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "9f476c99-bebf-489b-907a-7f358558ac08",
       "artist": "Winona Nelson",
       "cmc": 2,
@@ -22323,7 +22202,7 @@
           "multiverseid": 413223
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -22387,6 +22266,127 @@
       "text": "Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig Forgemaster deals 1 damage to that creature.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kessig Forgemaster.",
       "toughness": "1",
       "type": "Creature — Human Shaman Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "96d04f7f-9a2b-4183-ad46-d5df1d3a86be",
+      "artist": "Winona Nelson",
+      "cmc": 2,
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "焰心狼人",
+          "multiverseid": 410584
+        },
+        {
+          "name": "German",
+          "language": "Flammenherz-Werwölfin",
+          "multiverseid": 410914
+        },
+        {
+          "name": "French",
+          "language": "Loup-garou au cœur de flammes",
+          "multiverseid": 411244
+        },
+        {
+          "name": "Italian",
+          "language": "Mannara Cuore di Fiamma",
+          "multiverseid": 411574
+        },
+        {
+          "name": "Japanese",
+          "language": "炎心の人狼",
+          "multiverseid": 411904
+        },
+        {
+          "name": "Korean",
+          "language": "화염심장 늑대인간",
+          "multiverseid": 412234
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Lobisomem Flamicárdio",
+          "multiverseid": 412564
+        },
+        {
+          "name": "Russian",
+          "language": "Вервольф Огненного Сердца",
+          "multiverseid": 412894
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "焰心狼人",
+          "multiverseid": 410254
+        },
+        {
+          "name": "Spanish",
+          "language": "Licántropa entrañafulgor",
+          "multiverseid": 413224
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409924,
+      "name": "Flameheart Werewolf",
+      "names": [
+        "Kessig Forgemaster",
+        "Flameheart Werewolf"
+      ],
+      "number": "169b",
+      "originalText": "Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig Forgemaster deals 1 damage to that creature.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kessig Forgemaster.",
+      "originalType": "Creature — Human Shaman Werewolf",
+      "power": "3",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "Flameheart Werewolf's first ability triggers once for each creature blocking or blocked by it. The ability resolves and deals damage to that creature before combat damage is dealt. If that damage destroys a creature blocking Flameheart Werewolf, Flameheart Werewolf doesn't become unblocked."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
+        }
+      ],
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Whenever Flameheart Werewolf blocks or becomes blocked by a creature, Flameheart Werewolf deals 2 damage to that creature.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Flameheart Werewolf.",
+      "toughness": "2",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -23888,7 +23888,7 @@
           "multiverseid": 413237
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -24013,7 +24013,7 @@
           "multiverseid": 413238
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -24907,7 +24907,7 @@
           "multiverseid": 413246
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -25026,7 +25026,7 @@
           "multiverseid": 413247
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -25491,7 +25491,7 @@
           "multiverseid": 413251
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -25621,7 +25621,7 @@
           "multiverseid": 413252
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -26685,7 +26685,7 @@
           "multiverseid": 413261
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -26809,7 +26809,7 @@
           "multiverseid": 413262
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -27430,132 +27430,6 @@
       ]
     },
     {
-      "_id": "0123487d-77bd-49c7-a996-69892f37e733",
-      "artist": "Dan Scott",
-      "cmc": 3,
-      "flavor": ". . . but he'll have you for lunch.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "納特丘獨狼",
-          "multiverseid": 410629
-        },
-        {
-          "name": "German",
-          "language": "Einsamer Wolf vom Schnackhügel",
-          "multiverseid": 410959
-        },
-        {
-          "name": "French",
-          "language": "Loup solitaire de Montbabil",
-          "multiverseid": 411289
-        },
-        {
-          "name": "Italian",
-          "language": "Lupo Solitario dei Poggi Borbottanti",
-          "multiverseid": 411619
-        },
-        {
-          "name": "Japanese",
-          "language": "ナッターノールズの一匹狼",
-          "multiverseid": 411949
-        },
-        {
-          "name": "Korean",
-          "language": "재잘대는 둔덕의 외로운 늑대",
-          "multiverseid": 412279
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Lobo Solitário do Monte Rezinga",
-          "multiverseid": 412609
-        },
-        {
-          "name": "Russian",
-          "language": "Волк-Одиночка Болтливых Холмов",
-          "multiverseid": 412939
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "纳特丘独狼",
-          "multiverseid": 410299
-        },
-        {
-          "name": "Spanish",
-          "language": "Lobo solitario de Parlaloma",
-          "multiverseid": 413269
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409969,
-      "name": "Lone Wolf of the Natterknolls",
-      "names": [
-        "Hermit of the Natterknolls",
-        "Lone Wolf of the Natterknolls"
-      ],
-      "number": "209b",
-      "originalText": "Whenever an opponent casts a spell during your turn, draw a card.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Hermit of the Natterknolls.",
-      "originalType": "Creature — Human Werewolf",
-      "power": "3",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "rulings": [
-        {
-          "date": "2016-04-08",
-          "text": "The first ability of Lone Wolf of the Natterknolls will resolve even if the spell your opponent casts is countered."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "You may cast spells or activate abilities after the first ability of Lone Wolf of the Natterknolls has resolved but before the spell that caused it to trigger has resolved."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
-        }
-      ],
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "Whenever an opponent casts a spell during your turn, draw two cards.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Lone Wolf of the Natterknolls.",
-      "toughness": "5",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "3494663f-1c21-42f6-be77-5e814ccad12f",
       "artist": "Dan Scott",
       "cmc": 3,
@@ -27615,7 +27489,7 @@
           "multiverseid": 413268
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -27687,6 +27561,132 @@
       ]
     },
     {
+      "_id": "0123487d-77bd-49c7-a996-69892f37e733",
+      "artist": "Dan Scott",
+      "cmc": 3,
+      "flavor": ". . . but he'll have you for lunch.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "納特丘獨狼",
+          "multiverseid": 410629
+        },
+        {
+          "name": "German",
+          "language": "Einsamer Wolf vom Schnackhügel",
+          "multiverseid": 410959
+        },
+        {
+          "name": "French",
+          "language": "Loup solitaire de Montbabil",
+          "multiverseid": 411289
+        },
+        {
+          "name": "Italian",
+          "language": "Lupo Solitario dei Poggi Borbottanti",
+          "multiverseid": 411619
+        },
+        {
+          "name": "Japanese",
+          "language": "ナッターノールズの一匹狼",
+          "multiverseid": 411949
+        },
+        {
+          "name": "Korean",
+          "language": "재잘대는 둔덕의 외로운 늑대",
+          "multiverseid": 412279
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Lobo Solitário do Monte Rezinga",
+          "multiverseid": 412609
+        },
+        {
+          "name": "Russian",
+          "language": "Волк-Одиночка Болтливых Холмов",
+          "multiverseid": 412939
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "纳特丘独狼",
+          "multiverseid": 410299
+        },
+        {
+          "name": "Spanish",
+          "language": "Lobo solitario de Parlaloma",
+          "multiverseid": 413269
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409969,
+      "name": "Lone Wolf of the Natterknolls",
+      "names": [
+        "Hermit of the Natterknolls",
+        "Lone Wolf of the Natterknolls"
+      ],
+      "number": "209b",
+      "originalText": "Whenever an opponent casts a spell during your turn, draw a card.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Hermit of the Natterknolls.",
+      "originalType": "Creature — Human Werewolf",
+      "power": "3",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "The first ability of Lone Wolf of the Natterknolls will resolve even if the spell your opponent casts is countered."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "You may cast spells or activate abilities after the first ability of Lone Wolf of the Natterknolls has resolved but before the spell that caused it to trigger has resolved."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
+        }
+      ],
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "Whenever an opponent casts a spell during your turn, draw two cards.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Lone Wolf of the Natterknolls.",
+      "toughness": "5",
+      "type": "Creature — Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
       "_id": "49b4c680-f5e7-4414-b5b2-a0be37966abe",
       "artist": "Karl Kopinski",
       "cmc": 2,
@@ -27746,7 +27746,7 @@
           "multiverseid": 413270
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -27866,7 +27866,7 @@
           "multiverseid": 413271
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -28412,124 +28412,6 @@
       ]
     },
     {
-      "_id": "d2dd9bdf-6c66-41d2-9e68-e4db457139c9",
-      "artist": "Ryan Pancoast",
-      "cmc": 2,
-      "flavor": "True peace can't be achieved until everyone else is dead.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "羊屯屠夫",
-          "multiverseid": 410637
-        },
-        {
-          "name": "German",
-          "language": "Schlächterin von Lammholt",
-          "multiverseid": 410967
-        },
-        {
-          "name": "French",
-          "language": "Bouchère de Lambholt",
-          "multiverseid": 411297
-        },
-        {
-          "name": "Italian",
-          "language": "Macellaia di Lambholt",
-          "multiverseid": 411627
-        },
-        {
-          "name": "Japanese",
-          "language": "ラムホルトの解体者",
-          "multiverseid": 411957
-        },
-        {
-          "name": "Korean",
-          "language": "램홀트 도살자",
-          "multiverseid": 412287
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Açougueiro de Lambholt",
-          "multiverseid": 412617
-        },
-        {
-          "name": "Russian",
-          "language": "Ламбхольтская Душегубка",
-          "multiverseid": 412947
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "羊屯屠夫",
-          "multiverseid": 410307
-        },
-        {
-          "name": "Spanish",
-          "language": "Carnicera de Lambholt",
-          "multiverseid": 413277
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409977,
-      "name": "Lambholt Butcher",
-      "names": [
-        "Lambholt Pacifist",
-        "Lambholt Butcher"
-      ],
-      "number": "215b",
-      "originalText": "Lambholt Pacifist can't attack unless you control a creature with power 4 or greater.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Pacifist.",
-      "originalType": "Creature — Human Shaman Werewolf",
-      "power": "4",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "rulings": [
-        {
-          "date": "2016-04-08",
-          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
-        }
-      ],
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Lambholt Butcher.",
-      "toughness": "4",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "2cadb2af-e61e-4d79-8fdb-8cf122577252",
       "artist": "Ryan Pancoast",
       "cmc": 2,
@@ -28588,7 +28470,7 @@
           "multiverseid": 413276
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -28652,6 +28534,124 @@
       "text": "Lambholt Pacifist can't attack unless you control a creature with power 4 or greater.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Pacifist.",
       "toughness": "3",
       "type": "Creature — Human Shaman Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "d2dd9bdf-6c66-41d2-9e68-e4db457139c9",
+      "artist": "Ryan Pancoast",
+      "cmc": 2,
+      "flavor": "True peace can't be achieved until everyone else is dead.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "羊屯屠夫",
+          "multiverseid": 410637
+        },
+        {
+          "name": "German",
+          "language": "Schlächterin von Lammholt",
+          "multiverseid": 410967
+        },
+        {
+          "name": "French",
+          "language": "Bouchère de Lambholt",
+          "multiverseid": 411297
+        },
+        {
+          "name": "Italian",
+          "language": "Macellaia di Lambholt",
+          "multiverseid": 411627
+        },
+        {
+          "name": "Japanese",
+          "language": "ラムホルトの解体者",
+          "multiverseid": 411957
+        },
+        {
+          "name": "Korean",
+          "language": "램홀트 도살자",
+          "multiverseid": 412287
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Açougueiro de Lambholt",
+          "multiverseid": 412617
+        },
+        {
+          "name": "Russian",
+          "language": "Ламбхольтская Душегубка",
+          "multiverseid": 412947
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "羊屯屠夫",
+          "multiverseid": 410307
+        },
+        {
+          "name": "Spanish",
+          "language": "Carnicera de Lambholt",
+          "multiverseid": 413277
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409977,
+      "name": "Lambholt Butcher",
+      "names": [
+        "Lambholt Pacifist",
+        "Lambholt Butcher"
+      ],
+      "number": "215b",
+      "originalText": "Lambholt Pacifist can't attack unless you control a creature with power 4 or greater.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Pacifist.",
+      "originalType": "Creature — Human Shaman Werewolf",
+      "power": "4",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
+        }
+      ],
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Lambholt Butcher.",
+      "toughness": "4",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -29762,7 +29762,7 @@
           "multiverseid": 413287
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -29886,7 +29886,7 @@
           "multiverseid": 413288
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -30291,124 +30291,6 @@
       ]
     },
     {
-      "_id": "de793969-cf71-4a8e-24bc-e21cfd086ae8",
-      "artist": "Craig J Spearing",
-      "cmc": 4,
-      "flavor": "When the howl beckons, he cannot resist the urge to join the others.",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "隨群狼人",
-          "multiverseid": 410653
-        },
-        {
-          "name": "German",
-          "language": "Mitglied des Rudels",
-          "multiverseid": 410983
-        },
-        {
-          "name": "French",
-          "language": "Membre de la meute",
-          "multiverseid": 411313
-        },
-        {
-          "name": "Italian",
-          "language": "Uno del Branco",
-          "multiverseid": 411643
-        },
-        {
-          "name": "Japanese",
-          "language": "群れの一員",
-          "multiverseid": 411973
-        },
-        {
-          "name": "Korean",
-          "language": "무리에 속한 늑대",
-          "multiverseid": 412303
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Parte da Alcateia",
-          "multiverseid": 412633
-        },
-        {
-          "name": "Russian",
-          "language": "Один из Стаи",
-          "multiverseid": 412963
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "随群狼人",
-          "multiverseid": 410323
-        },
-        {
-          "name": "Spanish",
-          "language": "Uno de los nuestros",
-          "multiverseid": 413293
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 409993,
-      "name": "One of the Pack",
-      "names": [
-        "Solitary Hunter",
-        "One of the Pack"
-      ],
-      "number": "229b",
-      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Solitary Hunter.",
-      "originalType": "Creature — Human Warrior Werewolf",
-      "power": "5",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "common",
-      "rulings": [
-        {
-          "date": "2016-04-08",
-          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
-        },
-        {
-          "date": "2016-04-08",
-          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
-        }
-      ],
-      "subTypes": [
-        "Werewolf"
-      ],
-      "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform One of the Pack.",
-      "toughness": "6",
-      "type": "Creature — Werewolf",
-      "types": [
-        "Creature"
-      ]
-    },
-    {
       "_id": "1cd71251-d856-4ab4-24f6-312e8ab8a654",
       "artist": "Craig J Spearing",
       "cmc": 4,
@@ -30468,7 +30350,7 @@
           "multiverseid": 413292
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -30528,6 +30410,124 @@
       "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Solitary Hunter.",
       "toughness": "4",
       "type": "Creature — Human Warrior Werewolf",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "_id": "de793969-cf71-4a8e-24bc-e21cfd086ae8",
+      "artist": "Craig J Spearing",
+      "cmc": 4,
+      "flavor": "When the howl beckons, he cannot resist the urge to join the others.",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "隨群狼人",
+          "multiverseid": 410653
+        },
+        {
+          "name": "German",
+          "language": "Mitglied des Rudels",
+          "multiverseid": 410983
+        },
+        {
+          "name": "French",
+          "language": "Membre de la meute",
+          "multiverseid": 411313
+        },
+        {
+          "name": "Italian",
+          "language": "Uno del Branco",
+          "multiverseid": 411643
+        },
+        {
+          "name": "Japanese",
+          "language": "群れの一員",
+          "multiverseid": 411973
+        },
+        {
+          "name": "Korean",
+          "language": "무리에 속한 늑대",
+          "multiverseid": 412303
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Parte da Alcateia",
+          "multiverseid": 412633
+        },
+        {
+          "name": "Russian",
+          "language": "Один из Стаи",
+          "multiverseid": 412963
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "随群狼人",
+          "multiverseid": 410323
+        },
+        {
+          "name": "Spanish",
+          "language": "Uno de los nuestros",
+          "multiverseid": 413293
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 409993,
+      "name": "One of the Pack",
+      "names": [
+        "Solitary Hunter",
+        "One of the Pack"
+      ],
+      "number": "229b",
+      "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Solitary Hunter.",
+      "originalType": "Creature — Human Warrior Werewolf",
+      "power": "5",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "common",
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "The abilities that transform a Werewolf back and forth look at the entire previous turn, even if the Werewolf with that ability wasn't on the battlefield for some or all of that turn."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "To trigger the Werewolf's back face's transform ability, a single player must have cast two or more spells during the previous turn. If multiple players each cast just one spell during the previous turn, the ability won't trigger."
+        }
+      ],
+      "subTypes": [
+        "Werewolf"
+      ],
+      "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform One of the Pack.",
+      "toughness": "6",
+      "type": "Creature — Werewolf",
       "types": [
         "Creature"
       ]
@@ -32103,7 +32103,7 @@
           "multiverseid": 413307
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -32236,7 +32236,7 @@
           "multiverseid": 413308
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -33755,7 +33755,7 @@
           "multiverseid": 413321
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -33870,7 +33870,7 @@
           "multiverseid": 413322
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -34246,112 +34246,6 @@
       ]
     },
     {
-      "_id": "25544b85-9b62-4e33-3e5d-e9f2607070c4",
-      "artist": "Volkan Baga",
-      "cmc": 1,
-      "flavor": "\"Its previous owners had some stories to share, I'm certain.\"\n—Old Rutstein",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "燼口寶刃",
-          "multiverseid": 410687
-        },
-        {
-          "name": "German",
-          "language": "Aschenmaul-Klinge",
-          "multiverseid": 411017
-        },
-        {
-          "name": "French",
-          "language": "Lame de Cendregueule",
-          "multiverseid": 411347
-        },
-        {
-          "name": "Italian",
-          "language": "Lama di Fauci di Cenere",
-          "multiverseid": 411677
-        },
-        {
-          "name": "Japanese",
-          "language": "灰口の刃",
-          "multiverseid": 412007
-        },
-        {
-          "name": "Korean",
-          "language": "잿주둥이 검",
-          "multiverseid": 412337
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Lâmina de Boca Cinzenta",
-          "multiverseid": 412667
-        },
-        {
-          "name": "Russian",
-          "language": "Клинок Пепельной Пропасти",
-          "multiverseid": 412997
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "烬口宝刃",
-          "multiverseid": 410357
-        },
-        {
-          "name": "Spanish",
-          "language": "Acero de Bocaceniza",
-          "multiverseid": 413327
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 410027,
-      "name": "Ashmouth Blade",
-      "names": [
-        "Neglected Heirloom",
-        "Ashmouth Blade"
-      ],
-      "number": "260b",
-      "originalText": "Equipped creature gets +1/+1.\nWhen equipped creature transforms, transform Neglected Heirloom.\nEquip {1}",
-      "originalType": "Artifact — Equipment",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "uncommon",
-      "subTypes": [
-        "Equipment"
-      ],
-      "text": "Equipped creature gets +3/+3 and has first strike.\nEquip {3}",
-      "type": "Artifact — Equipment",
-      "types": [
-        "Artifact"
-      ]
-    },
-    {
       "_id": "5d98d90b-a09e-4877-9a9d-b71d5084d9b3",
       "artist": "Volkan Baga",
       "cmc": 1,
@@ -34408,7 +34302,7 @@
           "multiverseid": 413326
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -34463,6 +34357,112 @@
         "Equipment"
       ],
       "text": "Equipped creature gets +1/+1.\nWhen equipped creature transforms, transform Neglected Heirloom.\nEquip {1}",
+      "type": "Artifact — Equipment",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "_id": "25544b85-9b62-4e33-3e5d-e9f2607070c4",
+      "artist": "Volkan Baga",
+      "cmc": 1,
+      "flavor": "\"Its previous owners had some stories to share, I'm certain.\"\n—Old Rutstein",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "燼口寶刃",
+          "multiverseid": 410687
+        },
+        {
+          "name": "German",
+          "language": "Aschenmaul-Klinge",
+          "multiverseid": 411017
+        },
+        {
+          "name": "French",
+          "language": "Lame de Cendregueule",
+          "multiverseid": 411347
+        },
+        {
+          "name": "Italian",
+          "language": "Lama di Fauci di Cenere",
+          "multiverseid": 411677
+        },
+        {
+          "name": "Japanese",
+          "language": "灰口の刃",
+          "multiverseid": 412007
+        },
+        {
+          "name": "Korean",
+          "language": "잿주둥이 검",
+          "multiverseid": 412337
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Lâmina de Boca Cinzenta",
+          "multiverseid": 412667
+        },
+        {
+          "name": "Russian",
+          "language": "Клинок Пепельной Пропасти",
+          "multiverseid": 412997
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "烬口宝刃",
+          "multiverseid": 410357
+        },
+        {
+          "name": "Spanish",
+          "language": "Acero de Bocaceniza",
+          "multiverseid": 413327
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 410027,
+      "name": "Ashmouth Blade",
+      "names": [
+        "Neglected Heirloom",
+        "Ashmouth Blade"
+      ],
+      "number": "260b",
+      "originalText": "Equipped creature gets +1/+1.\nWhen equipped creature transforms, transform Neglected Heirloom.\nEquip {1}",
+      "originalType": "Artifact — Equipment",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "uncommon",
+      "subTypes": [
+        "Equipment"
+      ],
+      "text": "Equipped creature gets +3/+3 and has first strike.\nEquip {3}",
       "type": "Artifact — Equipment",
       "types": [
         "Artifact"
@@ -35064,7 +35064,7 @@
           "multiverseid": 413333
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -35180,7 +35180,7 @@
           "multiverseid": 413334
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -36698,6 +36698,113 @@
       ]
     },
     {
+      "_id": "c74fbea0-29d0-4564-0a9f-53ff625cb309",
+      "artist": "Min Yum",
+      "foreignNames": [
+        {
+          "name": "Chinese Traditional",
+          "language": "西行谷修道院",
+          "multiverseid": 410709
+        },
+        {
+          "name": "German",
+          "language": "Abtei im Westtal",
+          "multiverseid": 411039
+        },
+        {
+          "name": "French",
+          "language": "Abbaye du Val d'Orient",
+          "multiverseid": 411369
+        },
+        {
+          "name": "Italian",
+          "language": "Abbazia di Vestvalle",
+          "multiverseid": 411699
+        },
+        {
+          "name": "Japanese",
+          "language": "ウェストヴェイルの修道院",
+          "multiverseid": 412029
+        },
+        {
+          "name": "Korean",
+          "language": "서쪽계곡 수도원",
+          "multiverseid": 412359
+        },
+        {
+          "name": "Portuguese (Brazil)",
+          "language": "Abadia de Oestevale",
+          "multiverseid": 412689
+        },
+        {
+          "name": "Russian",
+          "language": "Вествальское Аббатство",
+          "multiverseid": 413019
+        },
+        {
+          "name": "Chinese Simplified",
+          "language": "西行谷修道院",
+          "multiverseid": 410379
+        },
+        {
+          "name": "Spanish",
+          "language": "Abadía de Cuenca Oeste",
+          "multiverseid": 413349
+        }
+      ],
+      "layout": "double-sided",
+      "legalities": [
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        }
+      ],
+      "multiverseid": 410049,
+      "name": "Westvale Abbey",
+      "names": [
+        "Ormendahl, Profane Prince",
+        "Westvale Abbey"
+      ],
+      "number": "281b",
+      "originalText": "Flying, lifelink, indestructible, haste",
+      "originalType": "Legendary Creature — Demon",
+      "printings": [
+        "SOI"
+      ],
+      "rarity": "rare",
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        }
+      ],
+      "text": "{T}: Add {C} to your mana pool.\n{5}, {T}, Pay 1 life: Create a 1/1 white and black Human Cleric creature token.\n{5}, {T}, Sacrifice five creatures: Transform Westvale Abbey, then untap it.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
       "_id": "12059e41-6e28-499a-28c5-64d04e492ad0",
       "artist": "Min Yum",
       "flavor": "With Griselbrand gone, the Skirsdag eagerly awaited another demon to claim their devotion. Ormendahl did not make them wait long.",
@@ -36753,7 +36860,7 @@
           "multiverseid": 413350
         }
       ],
-      "layout": "normal",
+      "layout": "double-sided",
       "legalities": [
         {
           "format": "Standard",
@@ -36805,113 +36912,6 @@
       "type": "Legendary Creature — Demon",
       "types": [
         "Creature"
-      ]
-    },
-    {
-      "_id": "c74fbea0-29d0-4564-0a9f-53ff625cb309",
-      "artist": "Min Yum",
-      "foreignNames": [
-        {
-          "name": "Chinese Traditional",
-          "language": "西行谷修道院",
-          "multiverseid": 410709
-        },
-        {
-          "name": "German",
-          "language": "Abtei im Westtal",
-          "multiverseid": 411039
-        },
-        {
-          "name": "French",
-          "language": "Abbaye du Val d'Orient",
-          "multiverseid": 411369
-        },
-        {
-          "name": "Italian",
-          "language": "Abbazia di Vestvalle",
-          "multiverseid": 411699
-        },
-        {
-          "name": "Japanese",
-          "language": "ウェストヴェイルの修道院",
-          "multiverseid": 412029
-        },
-        {
-          "name": "Korean",
-          "language": "서쪽계곡 수도원",
-          "multiverseid": 412359
-        },
-        {
-          "name": "Portuguese (Brazil)",
-          "language": "Abadia de Oestevale",
-          "multiverseid": 412689
-        },
-        {
-          "name": "Russian",
-          "language": "Вествальское Аббатство",
-          "multiverseid": 413019
-        },
-        {
-          "name": "Chinese Simplified",
-          "language": "西行谷修道院",
-          "multiverseid": 410379
-        },
-        {
-          "name": "Spanish",
-          "language": "Abadía de Cuenca Oeste",
-          "multiverseid": 413349
-        }
-      ],
-      "layout": "normal",
-      "legalities": [
-        {
-          "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Commander",
-          "legality": "Legal"
-        }
-      ],
-      "multiverseid": 410049,
-      "name": "Westvale Abbey",
-      "names": [
-        "Ormendahl, Profane Prince",
-        "Westvale Abbey"
-      ],
-      "number": "281b",
-      "originalText": "Flying, lifelink, indestructible, haste",
-      "originalType": "Legendary Creature — Demon",
-      "printings": [
-        "SOI"
-      ],
-      "rarity": "rare",
-      "rulings": [
-        {
-          "date": "2016-07-13",
-          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
-        }
-      ],
-      "text": "{T}: Add {C} to your mana pool.\n{5}, {T}, Pay 1 life: Create a 1/1 white and black Human Cleric creature token.\n{5}, {T}, Sacrifice five creatures: Transform Westvale Abbey, then untap it.",
-      "type": "Land",
-      "types": [
-        "Land"
       ]
     },
     {
