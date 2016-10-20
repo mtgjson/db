@@ -4907,7 +4907,7 @@
           "multiverseid": 401244
         }
       ],
-      "layout": "flip",
+      "layout": "normal",
       "legalities": [
         {
           "format": "Modern",
@@ -4929,11 +4929,7 @@
       "manacost": "{2}{U}",
       "multiverseid": 398474,
       "name": "Anchor to the Aether",
-      "names": [
-        "Anchor to the Æther",
-        "Anchor to the Aether"
-      ],
-      "number": "44b",
+      "number": "44",
       "originalText": "Put target creature on top of its owner's library. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
       "originalType": "Sorcery",
       "printings": [
@@ -16650,7 +16646,7 @@
           "multiverseid": 401287
         }
       ],
-      "layout": "flip",
+      "layout": "normal",
       "legalities": [
         {
           "format": "Modern",
@@ -16672,11 +16668,7 @@
       "manacost": "{2}{R}",
       "multiverseid": 398517,
       "name": "Ghirapur Aether Grid",
-      "names": [
-        "Ghirapur Æther Grid",
-        "Ghirapur Aether Grid"
-      ],
-      "number": "148b",
+      "number": "148",
       "originalText": "Tap two untapped artifacts you control: Ghirapur &#xC6;ther Grid deals 1 damage to target creature or player.",
       "originalType": "Enchantment",
       "printings": [
